@@ -1,4 +1,4 @@
-# Example Mod
+# league-of-crafters
 
 ## Setup
 

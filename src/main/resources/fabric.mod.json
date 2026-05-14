@@ -1,8 +1,8 @@
 {
 	"schemaVersion": 1,
-	"id": "modid",
+	"id": "league-of-crafters",
 	"version": "${version}",
-	"name": "Example Mod",
+	"name": "league-of-crafters",
 	"description": "This is an example description! Tell everyone what your mod is about!",
 	"authors": [
 		"Me!"
@@ -12,27 +12,27 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/modid/icon.png",
+	"icon": "assets/league-of-crafters/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.example.ExampleMod"
+			"com.leagueofcrafters.Leagueofcrafters"
 		],
 		"client": [
-			"com.example.client.ExampleModClient"
+			"com.leagueofcrafters.client.LeagueofcraftersClient"
 		]
 	},
 	"mixins": [
-		"modid.mixins.json",
+		"league-of-crafters.mixins.json",
 		{
-			"config": "modid.client.mixins.json",
+			"config": "league-of-crafters.client.mixins.json",
 			"environment": "client"
 		}
 	],
 	"depends": {
 		"fabricloader": ">=0.19.2",
-		"minecraft": "~26.1.2",
-		"java": ">=25",
+		"minecraft": "~1.21",
+		"java": ">=21",
 		"fabric-api": "*"
 	}
 }
