@@ -10,9 +10,7 @@
     }
   ],
   "result": {
-    "id": "patchouli:guide_book",
-    "components": {
-      "patchouli:book": "league-of-crafters:guidebook"
-    }
+    "id": "league-of-crafters:guidebook",
+    "count": 1
   }
 }
