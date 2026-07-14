@@ -11,7 +11,7 @@ public class ModItems {
     private static final Map<String, Item> ITEMS = new LinkedHashMap<>();
 
     public static final Item LEAGUE_COIN = registerItem("league_coin");
-    public static final Item GUIDEBOOK = registerItem("guidebook");
+    public static final Item GUIDEBOOK = registerCustomItem("guidebook", new GuidebookItem(new Item.Properties()));
     public static final Item ABYSSAL_MASK = registerItem("abyssal_mask");
     public static final Item ACTUALIZER = registerItem("actualizer");
     public static final Item AETHER_WISP = registerItem("aether_wisp");
@@ -331,6 +331,13 @@ public class ModItems {
             new Item(new Item.Properties()));
         ITEMS.put(name, item);
         return item;
+    }
+
+    private static Item registerCustomItem(String name, Item item) {
+        Item registered = Registry.register(BuiltInRegistries.ITEM,
+            ResourceLocation.fromNamespaceAndPath(Leagueofcrafters.MOD_ID, name), item);
+        ITEMS.put(name, registered);
+        return registered;
     }
 
     public static Collection<Item> getAllItems() {

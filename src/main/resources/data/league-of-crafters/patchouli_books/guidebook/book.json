@@ -2,7 +2,6 @@
   "name": "item.league-of-crafters.guidebook",
   "landing_text": "guidebook.league-of-crafters.landing",
   "version": 1,
-  "custom_book_item": "league-of-crafters:guidebook",
   "creative_tab": "league-of-crafters:league_tab",
   "use_resource_pack": true,
   "model": "league-of-crafters:guidebook",
