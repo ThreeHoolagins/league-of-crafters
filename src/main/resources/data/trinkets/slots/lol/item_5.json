@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "order": 4,
+  "amount": 1,
+  "validator_predicates": ["trinkets:all"]
+}

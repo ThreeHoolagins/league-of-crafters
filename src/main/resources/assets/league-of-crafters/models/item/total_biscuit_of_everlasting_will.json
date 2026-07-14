@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "league-of-crafters:item/total_biscuit_of_everlasting_will"
+  }
+}

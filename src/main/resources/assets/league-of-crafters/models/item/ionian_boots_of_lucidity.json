@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "league-of-crafters:item/ionian_boots_of_lucidity"
+  }
+}

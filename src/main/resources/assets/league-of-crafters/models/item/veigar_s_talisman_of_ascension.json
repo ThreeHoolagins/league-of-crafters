@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "league-of-crafters:item/veigar_s_talisman_of_ascension"
+  }
+}

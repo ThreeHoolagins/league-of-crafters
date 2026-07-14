@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "league-of-crafters:item/bloodletter_s_curse"
+  }
+}

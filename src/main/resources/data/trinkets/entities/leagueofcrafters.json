@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "entities": ["player"],
+  "slots": [
+    "lol/item_1",
+    "lol/item_2",
+    "lol/item_3",
+    "lol/item_4",
+    "lol/item_5",
+    "lol/item_6"
+  ]
+}

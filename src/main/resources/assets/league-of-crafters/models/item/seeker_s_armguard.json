@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "league-of-crafters:item/seeker_s_armguard"
+  }
+}

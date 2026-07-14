@@ -1,0 +1,1250 @@
+{
+  "328020": {
+    "name": "Abyssal Mask",
+    "texture": "abyssal_mask.png"
+  },
+  "2522": {
+    "name": "Actualizer",
+    "texture": "actualizer.png"
+  },
+  "3113": {
+    "name": "Aether Wisp",
+    "texture": "aether_wisp.png"
+  },
+  "1052": {
+    "name": "Amplifying Tome",
+    "texture": "amplifying_tome.png"
+  },
+  "8001": {
+    "name": "Anathema's Chains",
+    "texture": "anathema_s_chains.png"
+  },
+  "3003": {
+    "name": "Archangel's Staff",
+    "texture": "archangel_s_staff.png"
+  },
+  "323504": {
+    "name": "Ardent Censer",
+    "texture": "ardent_censer.png"
+  },
+  "3174": {
+    "name": "Armored Advance",
+    "texture": "armored_advance.png"
+  },
+  "3039": {
+    "name": "Atma's Reckoning",
+    "texture": "atma_s_reckoning.png"
+  },
+  "6696": {
+    "name": "Axiom Arc",
+    "texture": "axiom_arc.png"
+  },
+  "1038": {
+    "name": "B. F. Sword",
+    "texture": "b_f_sword.png"
+  },
+  "6660": {
+    "name": "Bami's Cinder",
+    "texture": "bami_s_cinder.png"
+  },
+  "4642": {
+    "name": "Bandleglass Mirror",
+    "texture": "bandleglass_mirror.png"
+  },
+  "2524": {
+    "name": "Bandlepipes",
+    "texture": "bandlepipes.png"
+  },
+  "3102": {
+    "name": "Banshee's Veil",
+    "texture": "banshee_s_veil.png"
+  },
+  "2520": {
+    "name": "Bastionbreaker",
+    "texture": "bastionbreaker.png"
+  },
+  "3006": {
+    "name": "Berserker's Greaves",
+    "texture": "berserker_s_greaves.png"
+  },
+  "3071": {
+    "name": "Black Cleaver",
+    "texture": "black_cleaver.png"
+  },
+  "3864": {
+    "name": "Black Mist Scythe",
+    "texture": "black_mist_scythe.png"
+  },
+  "2503": {
+    "name": "Blackfire Torch",
+    "texture": "blackfire_torch.png"
+  },
+  "3153": {
+    "name": "Blade of The Ruined King",
+    "texture": "blade_of_the_ruined_king.png"
+  },
+  "1026": {
+    "name": "Blasting Wand",
+    "texture": "blasting_wand.png"
+  },
+  "4630": {
+    "name": "Blighting Jewel",
+    "texture": "blighting_jewel.png"
+  },
+  "8010": {
+    "name": "Bloodletter's Curse",
+    "texture": "bloodletter_s_curse.png"
+  },
+  "3877": {
+    "name": "Bloodsong",
+    "texture": "bloodsong.png"
+  },
+  "3072": {
+    "name": "Bloodthirster",
+    "texture": "bloodthirster.png"
+  },
+  "1001": {
+    "name": "Boots",
+    "texture": "boots.png"
+  },
+  "3009": {
+    "name": "Boots of Swiftness",
+    "texture": "boots_of_swiftness.png"
+  },
+  "3867": {
+    "name": "Bounty of Worlds",
+    "texture": "bounty_of_worlds.png"
+  },
+  "3076": {
+    "name": "Bramble Vest",
+    "texture": "bramble_vest.png"
+  },
+  "3860": {
+    "name": "Bulwark of the Mountain",
+    "texture": "bulwark_of_the_mountain.png"
+  },
+  "2141": {
+    "name": "Cappa Juice",
+    "texture": "cappa_juice.png"
+  },
+  "3803": {
+    "name": "Catalyst of Aeons",
+    "texture": "catalyst_of_aeons.png"
+  },
+  "3133": {
+    "name": "Caulfield's Warhammer",
+    "texture": "caulfield_s_warhammer.png"
+  },
+  "3869": {
+    "name": "Celestial Opposition",
+    "texture": "celestial_opposition.png"
+  },
+  "1031": {
+    "name": "Chain Vest",
+    "texture": "chain_vest.png"
+  },
+  "3173": {
+    "name": "Chainlaced Crushers",
+    "texture": "chainlaced_crushers.png"
+  },
+  "3012": {
+    "name": "Chalice of Blessing",
+    "texture": "chalice_of_blessing.png"
+  },
+  "6609": {
+    "name": "Chempunk Chainsword",
+    "texture": "chempunk_chainsword.png"
+  },
+  "3011": {
+    "name": "Chemtech Putrifier",
+    "texture": "chemtech_putrifier.png"
+  },
+  "1018": {
+    "name": "Cloak of Agility",
+    "texture": "cloak_of_agility.png"
+  },
+  "663059": {
+    "name": "Cloak of Starry Night",
+    "texture": "cloak_of_starry_night.png"
+  },
+  "1029": {
+    "name": "Cloth Armor",
+    "texture": "cloth_armor.png"
+  },
+  "2055": {
+    "name": "Control Ward",
+    "texture": "control_ward.png"
+  },
+  "2033": {
+    "name": "Corrupting Potion",
+    "texture": "corrupting_potion.png"
+  },
+  "4629": {
+    "name": "Cosmic Drive",
+    "texture": "cosmic_drive.png"
+  },
+  "3171": {
+    "name": "Crimson Lucidity",
+    "texture": "crimson_lucidity.png"
+  },
+  "664644": {
+    "name": "Crown of the Shattered Queen",
+    "texture": "crown_of_the_shattered_queen.png"
+  },
+  "667109": {
+    "name": "Cruelty",
+    "texture": "cruelty.png"
+  },
+  "3137": {
+    "name": "Cryptbloom",
+    "texture": "cryptbloom.png"
+  },
+  "3801": {
+    "name": "Crystalline Bracer",
+    "texture": "crystalline_bracer.png"
+  },
+  "1083": {
+    "name": "Cull",
+    "texture": "cull.png"
+  },
+  "1042": {
+    "name": "Dagger",
+    "texture": "dagger.png"
+  },
+  "1082": {
+    "name": "Dark Seal",
+    "texture": "dark_seal.png"
+  },
+  "326621": {
+    "name": "Dawncore",
+    "texture": "dawncore.png"
+  },
+  "3742": {
+    "name": "Dead Man's Plate",
+    "texture": "dead_man_s_plate.png"
+  },
+  "6333": {
+    "name": "Death's Dance",
+    "texture": "death_s_dance.png"
+  },
+  "3128": {
+    "name": "Deathfire Grasp",
+    "texture": "deathfire_grasp.png"
+  },
+  "663056": {
+    "name": "Demon King's Crown",
+    "texture": "demon_king_s_crown.png"
+  },
+  "4637": {
+    "name": "Demonic Embrace",
+    "texture": "demonic_embrace.png"
+  },
+  "2530": {
+    "name": "Diadem of Songs",
+    "texture": "diadem_of_songs.png"
+  },
+  "6632": {
+    "name": "Divine Sunderer",
+    "texture": "divine_sunderer.png"
+  },
+  "1055": {
+    "name": "Doran's Blade",
+    "texture": "doran_s_blade.png"
+  },
+  "1086": {
+    "name": "Doran's Bow",
+    "texture": "doran_s_bow.png"
+  },
+  "1120": {
+    "name": "Doran's Helm",
+    "texture": "doran_s_helm.png"
+  },
+  "1056": {
+    "name": "Doran's Ring",
+    "texture": "doran_s_ring.png"
+  },
+  "1054": {
+    "name": "Doran's Shield",
+    "texture": "doran_s_shield.png"
+  },
+  "3870": {
+    "name": "Dream Maker",
+    "texture": "dream_maker.png"
+  },
+  "2510": {
+    "name": "Dusk and Dawn",
+    "texture": "dusk_and_dawn.png"
+  },
+  "6691": {
+    "name": "Duskblade of Draktharr",
+    "texture": "duskblade_of_draktharr.png"
+  },
+  "326620": {
+    "name": "Echoes of Helia",
+    "texture": "echoes_of_helia.png"
+  },
+  "6692": {
+    "name": "Eclipse",
+    "texture": "eclipse.png"
+  },
+  "3814": {
+    "name": "Edge of Night",
+    "texture": "edge_of_night.png"
+  },
+  "2151": {
+    "name": "Elixir of Avarice",
+    "texture": "elixir_of_avarice.png"
+  },
+  "2152": {
+    "name": "Elixir of Force",
+    "texture": "elixir_of_force.png"
+  },
+  "2138": {
+    "name": "Elixir of Iron",
+    "texture": "elixir_of_iron.png"
+  },
+  "2139": {
+    "name": "Elixir of Sorcery",
+    "texture": "elixir_of_sorcery.png"
+  },
+  "2140": {
+    "name": "Elixir of Wrath",
+    "texture": "elixir_of_wrath.png"
+  },
+  "1035": {
+    "name": "Emberknife",
+    "texture": "emberknife.png"
+  },
+  "2517": {
+    "name": "Endless Hunger",
+    "texture": "endless_hunger.png"
+  },
+  "3508": {
+    "name": "Essence Reaver",
+    "texture": "essence_reaver.png"
+  },
+  "223001": {
+    "name": "Evenshroud",
+    "texture": "evenshroud.png"
+  },
+  "6656": {
+    "name": "Everfrost",
+    "texture": "everfrost.png"
+  },
+  "3123": {
+    "name": "Executioner's Calling",
+    "texture": "executioner_s_calling.png"
+  },
+  "3073": {
+    "name": "Experimental Hexplate",
+    "texture": "experimental_hexplate.png"
+  },
+  "1004": {
+    "name": "Faerie Charm",
+    "texture": "faerie_charm.png"
+  },
+  "3363": {
+    "name": "Farsight Alteration",
+    "texture": "farsight_alteration.png"
+  },
+  "2508": {
+    "name": "Fated Ashes",
+    "texture": "fated_ashes.png"
+  },
+  "2512": {
+    "name": "Fiendhunter Bolts",
+    "texture": "fiendhunter_bolts.png"
+  },
+  "3108": {
+    "name": "Fiendish Codex",
+    "texture": "fiendish_codex.png"
+  },
+  "3121": {
+    "name": "Fimbulwinter",
+    "texture": "fimbulwinter.png"
+  },
+  "667112": {
+    "name": "Flesheater",
+    "texture": "flesheater.png"
+  },
+  "3114": {
+    "name": "Forbidden Idol",
+    "texture": "forbidden_idol.png"
+  },
+  "4401": {
+    "name": "Force of Nature",
+    "texture": "force_of_nature.png"
+  },
+  "3176": {
+    "name": "Forever Forward",
+    "texture": "forever_forward.png"
+  },
+  "3851": {
+    "name": "Frostfang",
+    "texture": "frostfang.png"
+  },
+  "323110": {
+    "name": "Frozen Heart",
+    "texture": "frozen_heart.png"
+  },
+  "4014": {
+    "name": "Frozen Mallet",
+    "texture": "frozen_mallet.png"
+  },
+  "6671": {
+    "name": "Galeforce",
+    "texture": "galeforce.png"
+  },
+  "667101": {
+    "name": "Gambler's Blade",
+    "texture": "gambler_s_blade.png"
+  },
+  "663193": {
+    "name": "Gargoyle Stoneplate",
+    "texture": "gargoyle_stoneplate.png"
+  },
+  "3005": {
+    "name": "Ghostcrawlers",
+    "texture": "ghostcrawlers.png"
+  },
+  "1011": {
+    "name": "Giant's Belt",
+    "texture": "giant_s_belt.png"
+  },
+  "3024": {
+    "name": "Glacial Buckler",
+    "texture": "glacial_buckler.png"
+  },
+  "2022": {
+    "name": "Glowing Mote",
+    "texture": "glowing_mote.png"
+  },
+  "3008": {
+    "name": "Gluttonous Greaves",
+    "texture": "gluttonous_greaves.png"
+  },
+  "994403": {
+    "name": "Golden Spatula",
+    "texture": "golden_spatula.png"
+  },
+  "6630": {
+    "name": "Goredrinker",
+    "texture": "goredrinker.png"
+  },
+  "3026": {
+    "name": "Guardian Angel",
+    "texture": "guardian_angel.png"
+  },
+  "2049": {
+    "name": "Guardian's Amulet",
+    "texture": "guardian_s_amulet.png"
+  },
+  "3177": {
+    "name": "Guardian's Blade",
+    "texture": "guardian_s_blade.png"
+  },
+  "223185": {
+    "name": "Guardian's Dirk",
+    "texture": "guardian_s_dirk.png"
+  },
+  "3184": {
+    "name": "Guardian's Hammer",
+    "texture": "guardian_s_hammer.png"
+  },
+  "2051": {
+    "name": "Guardian's Horn",
+    "texture": "guardian_s_horn.png"
+  },
+  "3112": {
+    "name": "Guardian's Orb",
+    "texture": "guardian_s_orb.png"
+  },
+  "2050": {
+    "name": "Guardian's Shroud",
+    "texture": "guardian_s_shroud.png"
+  },
+  "3124": {
+    "name": "Guinsoo's Rageblade",
+    "texture": "guinsoo_s_rageblade.png"
+  },
+  "3172": {
+    "name": "Gunmetal Greaves",
+    "texture": "gunmetal_greaves.png"
+  },
+  "1509": {
+    "name": "Gusto",
+    "texture": "gusto.png"
+  },
+  "1102": {
+    "name": "Gustwalker Hatchling",
+    "texture": "gustwalker_hatchling.png"
+  },
+  "1039": {
+    "name": "Hailblade",
+    "texture": "hailblade.png"
+  },
+  "3863": {
+    "name": "Harrowing Crescent",
+    "texture": "harrowing_crescent.png"
+  },
+  "3147": {
+    "name": "Haunting Guise",
+    "texture": "haunting_guise.png"
+  },
+  "2003": {
+    "name": "Health Potion",
+    "texture": "health_potion.png"
+  },
+  "3051": {
+    "name": "Hearthbound Axe",
+    "texture": "hearthbound_axe.png"
+  },
+  "3084": {
+    "name": "Heartsteel",
+    "texture": "heartsteel.png"
+  },
+  "3155": {
+    "name": "Hexdrinker",
+    "texture": "hexdrinker.png"
+  },
+  "2523": {
+    "name": "Hexoptics C44",
+    "texture": "hexoptics_c44.png"
+  },
+  "3145": {
+    "name": "Hextech Alternator",
+    "texture": "hextech_alternator.png"
+  },
+  "3146": {
+    "name": "Hextech Gunblade",
+    "texture": "hextech_gunblade.png"
+  },
+  "3152": {
+    "name": "Hextech Rocketbelt",
+    "texture": "hextech_rocketbelt.png"
+  },
+  "6664": {
+    "name": "Hollow Radiance",
+    "texture": "hollow_radiance.png"
+  },
+  "4628": {
+    "name": "Horizon Focus",
+    "texture": "horizon_focus.png"
+  },
+  "126697": {
+    "name": "Hubris",
+    "texture": "hubris.png"
+  },
+  "3181": {
+    "name": "Hullbreaker",
+    "texture": "hullbreaker.png"
+  },
+  "6662": {
+    "name": "Iceborn Gauntlet",
+    "texture": "iceborn_gauntlet.png"
+  },
+  "3168": {
+    "name": "Immortal Path",
+    "texture": "immortal_path.png"
+  },
+  "6673": {
+    "name": "Immortal Shieldbow",
+    "texture": "immortal_shieldbow.png"
+  },
+  "4005": {
+    "name": "Imperial Mandate",
+    "texture": "imperial_mandate.png"
+  },
+  "3031": {
+    "name": "Infinity Edge",
+    "texture": "infinity_edge.png"
+  },
+  "4402": {
+    "name": "Innervating Locket",
+    "texture": "innervating_locket.png"
+  },
+  "3158": {
+    "name": "Ionian Boots of Lucidity",
+    "texture": "ionian_boots_of_lucidity.png"
+  },
+  "6029": {
+    "name": "Ironspike Whip",
+    "texture": "ironspike_whip.png"
+  },
+  "6665": {
+    "name": "Jak'Sho, The Protean",
+    "texture": "jak_sho_the_protean.png"
+  },
+  "2504": {
+    "name": "Kaenic Rookern",
+    "texture": "kaenic_rookern.png"
+  },
+  "3599": {
+    "name": "Kalista's Black Spear",
+    "texture": "kalista_s_black_spear.png"
+  },
+  "3067": {
+    "name": "Kindlegem",
+    "texture": "kindlegem.png"
+  },
+  "2015": {
+    "name": "Kircheis Shard",
+    "texture": "kircheis_shard.png"
+  },
+  "323109": {
+    "name": "Knight's Vow",
+    "texture": "knight_s_vow.png"
+  },
+  "6672": {
+    "name": "Kraken Slayer",
+    "texture": "kraken_slayer.png"
+  },
+  "3035": {
+    "name": "Last Whisper",
+    "texture": "last_whisper.png"
+  },
+  "4635": {
+    "name": "Leeching Leer",
+    "texture": "leeching_leer.png"
+  },
+  "6653": {
+    "name": "Liandry's Torment",
+    "texture": "liandry_s_torment.png"
+  },
+  "3100": {
+    "name": "Lich Bane",
+    "texture": "lich_bane.png"
+  },
+  "4003": {
+    "name": "Lifeline",
+    "texture": "lifeline.png"
+  },
+  "3023": {
+    "name": "Lifewell Pendant",
+    "texture": "lifewell_pendant.png"
+  },
+  "4013": {
+    "name": "Lightning Braid",
+    "texture": "lightning_braid.png"
+  },
+  "323190": {
+    "name": "Locket of the Iron Solari",
+    "texture": "locket_of_the_iron_solari.png"
+  },
+  "1036": {
+    "name": "Long Sword",
+    "texture": "long_sword.png"
+  },
+  "3036": {
+    "name": "Lord Dominik's Regards",
+    "texture": "lord_dominik_s_regards.png"
+  },
+  "3802": {
+    "name": "Lost Chapter",
+    "texture": "lost_chapter.png"
+  },
+  "6655": {
+    "name": "Luden's Echo",
+    "texture": "luden_s_echo.png"
+  },
+  "3118": {
+    "name": "Malignance",
+    "texture": "malignance.png"
+  },
+  "3004": {
+    "name": "Manamune",
+    "texture": "manamune.png"
+  },
+  "3156": {
+    "name": "Maw of Malmortius",
+    "texture": "maw_of_malmortius.png"
+  },
+  "3041": {
+    "name": "Mejai's Soulstealer",
+    "texture": "mejai_s_soulstealer.png"
+  },
+  "3139": {
+    "name": "Mercurial Scimitar",
+    "texture": "mercurial_scimitar.png"
+  },
+  "3111": {
+    "name": "Mercury's Treads",
+    "texture": "mercury_s_treads.png"
+  },
+  "323222": {
+    "name": "Mikael's Blessing",
+    "texture": "mikael_s_blessing.png"
+  },
+  "3117": {
+    "name": "Mobility Boots",
+    "texture": "mobility_boots.png"
+  },
+  "326617": {
+    "name": "Moonstone Renewer",
+    "texture": "moonstone_renewer.png"
+  },
+  "3165": {
+    "name": "Morellonomicon",
+    "texture": "morellonomicon.png"
+  },
+  "3033": {
+    "name": "Mortal Reminder",
+    "texture": "mortal_reminder.png"
+  },
+  "1103": {
+    "name": "Mosstomper Seedling",
+    "texture": "mosstomper_seedling.png"
+  },
+  "228009": {
+    "name": "Multitool",
+    "texture": "multitool.png"
+  },
+  "3042": {
+    "name": "Muramana",
+    "texture": "muramana.png"
+  },
+  "3115": {
+    "name": "Nashor's Tooth",
+    "texture": "nashor_s_tooth.png"
+  },
+  "6675": {
+    "name": "Navori Flickerblade",
+    "texture": "navori_flickerblade.png"
+  },
+  "1058": {
+    "name": "Needlessly Large Rod",
+    "texture": "needlessly_large_rod.png"
+  },
+  "1057": {
+    "name": "Negatron Cloak",
+    "texture": "negatron_cloak.png"
+  },
+  "4636": {
+    "name": "Night Harvester",
+    "texture": "night_harvester.png"
+  },
+  "6670": {
+    "name": "Noonquiver",
+    "texture": "noonquiver.png"
+  },
+  "1033": {
+    "name": "Null-Magic Mantle",
+    "texture": "nullmagic_mantle.png"
+  },
+  "3916": {
+    "name": "Oblivion Orb",
+    "texture": "oblivion_orb.png"
+  },
+  "1040": {
+    "name": "Obsidian Edge",
+    "texture": "obsidian_edge.png"
+  },
+  "6701": {
+    "name": "Opportunity",
+    "texture": "opportunity.png"
+  },
+  "3364": {
+    "name": "Oracle Lens",
+    "texture": "oracle_lens.png"
+  },
+  "1507": {
+    "name": "Overcharged",
+    "texture": "overcharged.png"
+  },
+  "1520": {
+    "name": "OvererchargedHA",
+    "texture": "overerchargedha.png"
+  },
+  "1524": {
+    "name": "Overgrowth",
+    "texture": "overgrowth.png"
+  },
+  "2501": {
+    "name": "Overlord's Bloodmail",
+    "texture": "overlord_s_bloodmail.png"
+  },
+  "3857": {
+    "name": "Pauldrons of Whiterock",
+    "texture": "pauldrons_of_whiterock.png"
+  },
+  "1500": {
+    "name": "Penetrating Bullets",
+    "texture": "penetrating_bullets.png"
+  },
+  "3044": {
+    "name": "Phage",
+    "texture": "phage.png"
+  },
+  "3046": {
+    "name": "Phantom Dancer",
+    "texture": "phantom_dancer.png"
+  },
+  "1510": {
+    "name": "Phreakish Gusto",
+    "texture": "phreakish_gusto.png"
+  },
+  "1037": {
+    "name": "Pickaxe",
+    "texture": "pickaxe.png"
+  },
+  "3047": {
+    "name": "Plated Steelcaps",
+    "texture": "plated_steelcaps.png"
+  },
+  "6698": {
+    "name": "Profane Hydra",
+    "texture": "profane_hydra.png"
+  },
+  "2525": {
+    "name": "Protoplasm Harness",
+    "texture": "protoplasm_harness.png"
+  },
+  "6693": {
+    "name": "Prowler's Claw",
+    "texture": "prowler_s_claw.png"
+  },
+  "3140": {
+    "name": "Quicksilver Sash",
+    "texture": "quicksilver_sash.png"
+  },
+  "3089": {
+    "name": "Rabadon's Deathcap",
+    "texture": "rabadon_s_deathcap.png"
+  },
+  "6667": {
+    "name": "Radiant Virtue",
+    "texture": "radiant_virtue.png"
+  },
+  "6677": {
+    "name": "Rageknife",
+    "texture": "rageknife.png"
+  },
+  "3143": {
+    "name": "Randuin's Omen",
+    "texture": "randuin_s_omen.png"
+  },
+  "3094": {
+    "name": "Rapid Firecannon",
+    "texture": "rapid_firecannon.png"
+  },
+  "3074": {
+    "name": "Ravenous Hydra",
+    "texture": "ravenous_hydra.png"
+  },
+  "6690": {
+    "name": "Rectrix",
+    "texture": "rectrix.png"
+  },
+  "1043": {
+    "name": "Recurve Bow",
+    "texture": "recurve_bow.png"
+  },
+  "323107": {
+    "name": "Redemption",
+    "texture": "redemption.png"
+  },
+  "2031": {
+    "name": "Refillable Potion",
+    "texture": "refillable_potion.png"
+  },
+  "1502": {
+    "name": "Reinforced Armor",
+    "texture": "reinforced_armor.png"
+  },
+  "1006": {
+    "name": "Rejuvenation Bead",
+    "texture": "rejuvenation_bead.png"
+  },
+  "3858": {
+    "name": "Relic Shield",
+    "texture": "relic_shield.png"
+  },
+  "4633": {
+    "name": "Riftmaker",
+    "texture": "riftmaker.png"
+  },
+  "123430": {
+    "name": "Rite of Ruin",
+    "texture": "rite_of_ruin.png"
+  },
+  "6657": {
+    "name": "Rod of Ages",
+    "texture": "rod_of_ages.png"
+  },
+  "1028": {
+    "name": "Ruby Crystal",
+    "texture": "ruby_crystal.png"
+  },
+  "3085": {
+    "name": "Runaan's Hurricane",
+    "texture": "runaan_s_hurricane.png"
+  },
+  "3855": {
+    "name": "Runesteel Spaulders",
+    "texture": "runesteel_spaulders.png"
+  },
+  "3866": {
+    "name": "Runic Compass",
+    "texture": "runic_compass.png"
+  },
+  "3116": {
+    "name": "Rylai's Crystal Scepter",
+    "texture": "rylai_s_crystal_scepter.png"
+  },
+  "1027": {
+    "name": "Sapphire Crystal",
+    "texture": "sapphire_crystal.png"
+  },
+  "3330": {
+    "name": "Scarecrow Effigy",
+    "texture": "scarecrow_effigy.png"
+  },
+  "1101": {
+    "name": "Scorchclaw Pup",
+    "texture": "scorchclaw_pup.png"
+  },
+  "3144": {
+    "name": "Scout's Slingshot",
+    "texture": "scout_s_slingshot.png"
+  },
+  "2420": {
+    "name": "Seeker's Armguard",
+    "texture": "seeker_s_armguard.png"
+  },
+  "3040": {
+    "name": "Seraph's Embrace",
+    "texture": "seraph_s_embrace.png"
+  },
+  "6695": {
+    "name": "Serpent's Fang",
+    "texture": "serpent_s_fang.png"
+  },
+  "3134": {
+    "name": "Serrated Dirk",
+    "texture": "serrated_dirk.png"
+  },
+  "6694": {
+    "name": "Serylda's Grudge",
+    "texture": "serylda_s_grudge.png"
+  },
+  "4645": {
+    "name": "Shadowflame",
+    "texture": "shadowflame.png"
+  },
+  "3853": {
+    "name": "Shard of True Ice",
+    "texture": "shard_of_true_ice.png"
+  },
+  "2421": {
+    "name": "Shattered Armguard",
+    "texture": "shattered_armguard.png"
+  },
+  "3057": {
+    "name": "Sheen",
+    "texture": "sheen.png"
+  },
+  "663058": {
+    "name": "Shield of Molten Stone",
+    "texture": "shield_of_molten_stone.png"
+  },
+  "6700": {
+    "name": "Shield of the Rakkor",
+    "texture": "shield_of_the_rakkor.png"
+  },
+  "322065": {
+    "name": "Shurelya's Battlesong",
+    "texture": "shurelya_s_battlesong.png"
+  },
+  "6035": {
+    "name": "Silvermere Dawn",
+    "texture": "silvermere_dawn.png"
+  },
+  "4012": {
+    "name": "Sin Eater",
+    "texture": "sin_eater.png"
+  },
+  "2422": {
+    "name": "Slightly Magical Footwear",
+    "texture": "slightly_magical_footwear.png"
+  },
+  "3876": {
+    "name": "Solstice Sleigh",
+    "texture": "solstice_sleigh.png"
+  },
+  "3020": {
+    "name": "Sorcerer's Shoes",
+    "texture": "sorcerer_s_shoes.png"
+  },
+  "3161": {
+    "name": "Spear of Shojin",
+    "texture": "spear_of_shojin.png"
+  },
+  "4004": {
+    "name": "Spectral Cutlass",
+    "texture": "spectral_cutlass.png"
+  },
+  "3862": {
+    "name": "Spectral Sickle",
+    "texture": "spectral_sickle.png"
+  },
+  "3211": {
+    "name": "Spectre's Cowl",
+    "texture": "spectre_s_cowl.png"
+  },
+  "3175": {
+    "name": "Spellslinger's Shoes",
+    "texture": "spellslinger_s_shoes.png"
+  },
+  "3850": {
+    "name": "Spellthief's Edge",
+    "texture": "spellthief_s_edge.png"
+  },
+  "3065": {
+    "name": "Spirit Visage",
+    "texture": "spirit_visage.png"
+  },
+  "326616": {
+    "name": "Staff of Flowing Water",
+    "texture": "staff_of_flowing_water.png"
+  },
+  "6032": {
+    "name": "Stat Bonus",
+    "texture": "stat_bonus.png"
+  },
+  "3087": {
+    "name": "Statikk Shiv",
+    "texture": "statikk_shiv.png"
+  },
+  "3340": {
+    "name": "Stealth Ward",
+    "texture": "stealth_ward.png"
+  },
+  "3854": {
+    "name": "Steel Shoulderguards",
+    "texture": "steel_shoulderguards.png"
+  },
+  "2019": {
+    "name": "Steel Sigil",
+    "texture": "steel_sigil.png"
+  },
+  "3053": {
+    "name": "Sterak's Gage",
+    "texture": "sterak_s_gage.png"
+  },
+  "4641": {
+    "name": "Stirring Wardstone",
+    "texture": "stirring_wardstone.png"
+  },
+  "3097": {
+    "name": "Stormrazor",
+    "texture": "stormrazor.png"
+  },
+  "4646": {
+    "name": "Stormsurge",
+    "texture": "stormsurge.png"
+  },
+  "6631": {
+    "name": "Stridebreaker",
+    "texture": "stridebreaker.png"
+  },
+  "6610": {
+    "name": "Sundered Sky",
+    "texture": "sundered_sky.png"
+  },
+  "3068": {
+    "name": "Sunfire Aegis",
+    "texture": "sunfire_aegis.png"
+  },
+  "1511": {
+    "name": "Super Mech Armor",
+    "texture": "super_mech_armor.png"
+  },
+  "1512": {
+    "name": "Super Mech Power Field",
+    "texture": "super_mech_power_field.png"
+  },
+  "3170": {
+    "name": "Swiftmarch",
+    "texture": "swiftmarch.png"
+  },
+  "664011": {
+    "name": "Sword of Blossoming Dawn",
+    "texture": "sword_of_blossoming_dawn.png"
+  },
+  "663060": {
+    "name": "Sword of the Divine",
+    "texture": "sword_of_the_divine.png"
+  },
+  "3010": {
+    "name": "Symbiotic Soles",
+    "texture": "symbiotic_soles.png"
+  },
+  "3013": {
+    "name": "Synchronized Souls",
+    "texture": "synchronized_souls.png"
+  },
+  "3859": {
+    "name": "Targon's Buckler",
+    "texture": "targon_s_buckler.png"
+  },
+  "3070": {
+    "name": "Tear of the Goddess",
+    "texture": "tear_of_the_goddess.png"
+  },
+  "3302": {
+    "name": "Terminus",
+    "texture": "terminus.png"
+  },
+  "2020": {
+    "name": "The Brutalizer",
+    "texture": "the_brutalizer.png"
+  },
+  "6676": {
+    "name": "The Collector",
+    "texture": "the_collector.png"
+  },
+  "664403": {
+    "name": "The Golden Spatula",
+    "texture": "the_golden_spatula.png"
+  },
+  "323075": {
+    "name": "Thornmail",
+    "texture": "thornmail.png"
+  },
+  "3077": {
+    "name": "Tiamat",
+    "texture": "tiamat.png"
+  },
+  "3748": {
+    "name": "Titanic Hydra",
+    "texture": "titanic_hydra.png"
+  },
+  "2010": {
+    "name": "Total Biscuit of Everlasting Will",
+    "texture": "total_biscuit_of_everlasting_will.png"
+  },
+  "323002": {
+    "name": "Trailblazer",
+    "texture": "trailblazer.png"
+  },
+  "3078": {
+    "name": "Trinity Force",
+    "texture": "trinity_force.png"
+  },
+  "2021": {
+    "name": "Tunneler",
+    "texture": "tunneler.png"
+  },
+  "443080": {
+    "name": "Twin Mask",
+    "texture": "twin_mask.png"
+  },
+  "3179": {
+    "name": "Umbral Glaive",
+    "texture": "umbral_glaive.png"
+  },
+  "2502": {
+    "name": "Unending Despair",
+    "texture": "unending_despair.png"
+  },
+  "1053": {
+    "name": "Vampiric Scepter",
+    "texture": "vampiric_scepter.png"
+  },
+  "663064": {
+    "name": "Veigar's Talisman of Ascension",
+    "texture": "veigar_s_talisman_of_ascension.png"
+  },
+  "4632": {
+    "name": "Verdant Barrier",
+    "texture": "verdant_barrier.png"
+  },
+  "4643": {
+    "name": "Vigilant Wardstone",
+    "texture": "vigilant_wardstone.png"
+  },
+  "223069": {
+    "name": "Void Immolation",
+    "texture": "void_immolation.png"
+  },
+  "3135": {
+    "name": "Void Staff",
+    "texture": "void_staff.png"
+  },
+  "6699": {
+    "name": "Voltaic Cyclosword",
+    "texture": "voltaic_cyclosword.png"
+  },
+  "1503": {
+    "name": "Warden's Eye",
+    "texture": "warden_s_eye.png"
+  },
+  "3082": {
+    "name": "Warden's Mail",
+    "texture": "warden_s_mail.png"
+  },
+  "3083": {
+    "name": "Warmog's Armor",
+    "texture": "warmog_s_armor.png"
+  },
+  "4638": {
+    "name": "Watchful Wardstone",
+    "texture": "watchful_wardstone.png"
+  },
+  "2526": {
+    "name": "Whispering Circlet",
+    "texture": "whispering_circlet.png"
+  },
+  "3066": {
+    "name": "Winged Moonplate",
+    "texture": "winged_moonplate.png"
+  },
+  "3119": {
+    "name": "Winter's Approach",
+    "texture": "winter_s_approach.png"
+  },
+  "3091": {
+    "name": "Wit's End",
+    "texture": "wit_s_end.png"
+  },
+  "228002": {
+    "name": "Wooglet's Witchcap",
+    "texture": "wooglet_s_witchcap.png"
+  },
+  "3865": {
+    "name": "World Atlas",
+    "texture": "world_atlas.png"
+  },
+  "3142": {
+    "name": "Youmuu's Ghostblade",
+    "texture": "youmuu_s_ghostblade.png"
+  },
+  "3400": {
+    "name": "Your Cut",
+    "texture": "your_cut.png"
+  },
+  "3032": {
+    "name": "Yun Tal Wildarrows",
+    "texture": "yun_tal_wildarrows.png"
+  },
+  "3871": {
+    "name": "Zaz'Zak's Realmspike",
+    "texture": "zaz_zak_s_realmspike.png"
+  },
+  "3086": {
+    "name": "Zeal",
+    "texture": "zeal.png"
+  },
+  "323050": {
+    "name": "Zeke's Convergence",
+    "texture": "zeke_s_convergence.png"
+  },
+  "663172": {
+    "name": "Zephyr",
+    "texture": "zephyr.png"
+  },
+  "3157": {
+    "name": "Zhonya's Hourglass",
+    "texture": "zhonya_s_hourglass.png"
+  }
+}
