@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.winged_moonplate",
+  "icon": "league-of-crafters:winged_moonplate",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:winged_moonplate",
+      "text": "entry.league-of-crafters.item_winged_moonplate.desc"
+    }
+  ]
+}

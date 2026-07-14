@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.leeching_leer",
+  "icon": "league-of-crafters:leeching_leer",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:leeching_leer",
+      "text": "entry.league-of-crafters.item_leeching_leer.desc"
+    }
+  ]
+}

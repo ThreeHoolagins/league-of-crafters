@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.dagger",
+  "icon": "league-of-crafters:dagger",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:dagger",
+      "text": "entry.league-of-crafters.item_dagger.desc"
+    }
+  ]
+}

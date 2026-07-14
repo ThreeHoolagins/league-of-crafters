@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.verdant_barrier",
+  "icon": "league-of-crafters:verdant_barrier",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:verdant_barrier",
+      "text": "entry.league-of-crafters.item_verdant_barrier.desc"
+    }
+  ]
+}

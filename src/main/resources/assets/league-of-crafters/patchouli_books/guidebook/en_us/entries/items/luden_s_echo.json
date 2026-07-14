@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.luden_s_echo",
+  "icon": "league-of-crafters:luden_s_echo",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:luden_s_echo",
+      "text": "entry.league-of-crafters.item_luden_s_echo.desc"
+    }
+  ]
+}

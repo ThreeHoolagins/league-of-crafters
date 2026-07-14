@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.actualizer",
+  "icon": "league-of-crafters:actualizer",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:actualizer",
+      "text": "entry.league-of-crafters.item_actualizer.desc"
+    }
+  ]
+}

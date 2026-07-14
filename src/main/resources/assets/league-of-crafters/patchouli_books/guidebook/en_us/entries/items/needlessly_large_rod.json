@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.needlessly_large_rod",
+  "icon": "league-of-crafters:needlessly_large_rod",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:needlessly_large_rod",
+      "text": "entry.league-of-crafters.item_needlessly_large_rod.desc"
+    }
+  ]
+}

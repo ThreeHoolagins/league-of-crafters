@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.haunting_guise",
+  "icon": "league-of-crafters:haunting_guise",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:haunting_guise",
+      "text": "entry.league-of-crafters.item_haunting_guise.desc"
+    }
+  ]
+}

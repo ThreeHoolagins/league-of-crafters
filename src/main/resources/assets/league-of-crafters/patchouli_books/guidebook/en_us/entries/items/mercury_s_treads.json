@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.mercury_s_treads",
+  "icon": "league-of-crafters:mercury_s_treads",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:mercury_s_treads",
+      "text": "entry.league-of-crafters.item_mercury_s_treads.desc"
+    }
+  ]
+}

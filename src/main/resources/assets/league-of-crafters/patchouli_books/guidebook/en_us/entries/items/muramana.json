@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.muramana",
+  "icon": "league-of-crafters:muramana",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:muramana",
+      "text": "entry.league-of-crafters.item_muramana.desc"
+    }
+  ]
+}

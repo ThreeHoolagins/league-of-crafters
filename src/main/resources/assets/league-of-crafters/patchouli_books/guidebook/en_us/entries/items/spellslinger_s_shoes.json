@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.spellslinger_s_shoes",
+  "icon": "league-of-crafters:spellslinger_s_shoes",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:spellslinger_s_shoes",
+      "text": "entry.league-of-crafters.item_spellslinger_s_shoes.desc"
+    }
+  ]
+}

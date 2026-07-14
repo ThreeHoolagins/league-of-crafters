@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.scarecrow_effigy",
+  "icon": "league-of-crafters:scarecrow_effigy",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:scarecrow_effigy",
+      "text": "entry.league-of-crafters.item_scarecrow_effigy.desc"
+    }
+  ]
+}

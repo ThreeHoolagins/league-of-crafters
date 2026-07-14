@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.trinity_force",
+  "icon": "league-of-crafters:trinity_force",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:trinity_force",
+      "text": "entry.league-of-crafters.item_trinity_force.desc"
+    }
+  ]
+}

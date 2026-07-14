@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.synchronized_souls",
+  "icon": "league-of-crafters:synchronized_souls",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:synchronized_souls",
+      "text": "entry.league-of-crafters.item_synchronized_souls.desc"
+    }
+  ]
+}

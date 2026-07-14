@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.seraph_s_embrace",
+  "icon": "league-of-crafters:seraph_s_embrace",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:seraph_s_embrace",
+      "text": "entry.league-of-crafters.item_seraph_s_embrace.desc"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.bounty_of_worlds",
+  "icon": "league-of-crafters:bounty_of_worlds",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:bounty_of_worlds",
+      "text": "entry.league-of-crafters.item_bounty_of_worlds.desc"
+    }
+  ]
+}

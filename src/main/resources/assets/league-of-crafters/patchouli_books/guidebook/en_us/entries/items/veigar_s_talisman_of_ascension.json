@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.veigar_s_talisman_of_ascension",
+  "icon": "league-of-crafters:veigar_s_talisman_of_ascension",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:veigar_s_talisman_of_ascension",
+      "text": "entry.league-of-crafters.item_veigar_s_talisman_of_ascension.desc"
+    }
+  ]
+}

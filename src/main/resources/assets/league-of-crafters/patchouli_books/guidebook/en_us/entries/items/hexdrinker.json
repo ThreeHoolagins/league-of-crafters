@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.hexdrinker",
+  "icon": "league-of-crafters:hexdrinker",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:hexdrinker",
+      "text": "entry.league-of-crafters.item_hexdrinker.desc"
+    }
+  ]
+}

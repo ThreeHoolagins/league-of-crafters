@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.tear_of_the_goddess",
+  "icon": "league-of-crafters:tear_of_the_goddess",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:tear_of_the_goddess",
+      "text": "entry.league-of-crafters.item_tear_of_the_goddess.desc"
+    }
+  ]
+}

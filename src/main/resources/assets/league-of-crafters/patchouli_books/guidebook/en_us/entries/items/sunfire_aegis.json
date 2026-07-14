@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.sunfire_aegis",
+  "icon": "league-of-crafters:sunfire_aegis",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:sunfire_aegis",
+      "text": "entry.league-of-crafters.item_sunfire_aegis.desc"
+    }
+  ]
+}

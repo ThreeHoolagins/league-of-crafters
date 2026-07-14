@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.rapid_firecannon",
+  "icon": "league-of-crafters:rapid_firecannon",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:rapid_firecannon",
+      "text": "entry.league-of-crafters.item_rapid_firecannon.desc"
+    }
+  ]
+}

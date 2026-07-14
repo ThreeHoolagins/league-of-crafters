@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.runaan_s_hurricane",
+  "icon": "league-of-crafters:runaan_s_hurricane",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:runaan_s_hurricane",
+      "text": "entry.league-of-crafters.item_runaan_s_hurricane.desc"
+    }
+  ]
+}

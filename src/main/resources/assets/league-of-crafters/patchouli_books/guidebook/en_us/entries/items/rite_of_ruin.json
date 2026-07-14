@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.rite_of_ruin",
+  "icon": "league-of-crafters:rite_of_ruin",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:rite_of_ruin",
+      "text": "entry.league-of-crafters.item_rite_of_ruin.desc"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.cosmic_drive",
+  "icon": "league-of-crafters:cosmic_drive",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:cosmic_drive",
+      "text": "entry.league-of-crafters.item_cosmic_drive.desc"
+    }
+  ]
+}

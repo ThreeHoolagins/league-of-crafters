@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.chainlaced_crushers",
+  "icon": "league-of-crafters:chainlaced_crushers",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:chainlaced_crushers",
+      "text": "entry.league-of-crafters.item_chainlaced_crushers.desc"
+    }
+  ]
+}

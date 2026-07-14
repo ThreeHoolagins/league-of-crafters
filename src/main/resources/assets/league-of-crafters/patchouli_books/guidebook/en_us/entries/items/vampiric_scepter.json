@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.vampiric_scepter",
+  "icon": "league-of-crafters:vampiric_scepter",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:vampiric_scepter",
+      "text": "entry.league-of-crafters.item_vampiric_scepter.desc"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.world_atlas",
+  "icon": "league-of-crafters:world_atlas",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:world_atlas",
+      "text": "entry.league-of-crafters.item_world_atlas.desc"
+    }
+  ]
+}

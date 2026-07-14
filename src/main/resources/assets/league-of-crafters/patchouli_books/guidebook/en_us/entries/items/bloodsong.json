@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.bloodsong",
+  "icon": "league-of-crafters:bloodsong",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:bloodsong",
+      "text": "entry.league-of-crafters.item_bloodsong.desc"
+    }
+  ]
+}

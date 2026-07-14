@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.mejai_s_soulstealer",
+  "icon": "league-of-crafters:mejai_s_soulstealer",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:mejai_s_soulstealer",
+      "text": "entry.league-of-crafters.item_mejai_s_soulstealer.desc"
+    }
+  ]
+}

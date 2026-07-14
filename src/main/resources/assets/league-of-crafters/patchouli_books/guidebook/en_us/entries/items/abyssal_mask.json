@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.abyssal_mask",
+  "icon": "league-of-crafters:abyssal_mask",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:abyssal_mask",
+      "text": "entry.league-of-crafters.item_abyssal_mask.desc"
+    }
+  ]
+}

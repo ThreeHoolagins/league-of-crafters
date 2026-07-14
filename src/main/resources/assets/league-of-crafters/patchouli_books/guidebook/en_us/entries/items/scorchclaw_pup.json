@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.scorchclaw_pup",
+  "icon": "league-of-crafters:scorchclaw_pup",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:scorchclaw_pup",
+      "text": "entry.league-of-crafters.item_scorchclaw_pup.desc"
+    }
+  ]
+}

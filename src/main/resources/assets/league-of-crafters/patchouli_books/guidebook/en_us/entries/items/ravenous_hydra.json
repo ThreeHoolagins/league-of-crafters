@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.ravenous_hydra",
+  "icon": "league-of-crafters:ravenous_hydra",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:ravenous_hydra",
+      "text": "entry.league-of-crafters.item_ravenous_hydra.desc"
+    }
+  ]
+}

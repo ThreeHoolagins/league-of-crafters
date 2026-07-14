@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.diadem_of_songs",
+  "icon": "league-of-crafters:diadem_of_songs",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:diadem_of_songs",
+      "text": "entry.league-of-crafters.item_diadem_of_songs.desc"
+    }
+  ]
+}

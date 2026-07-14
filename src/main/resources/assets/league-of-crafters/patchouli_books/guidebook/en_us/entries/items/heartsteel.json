@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.heartsteel",
+  "icon": "league-of-crafters:heartsteel",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:heartsteel",
+      "text": "entry.league-of-crafters.item_heartsteel.desc"
+    }
+  ]
+}

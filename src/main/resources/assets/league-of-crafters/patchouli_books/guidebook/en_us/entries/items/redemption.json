@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.redemption",
+  "icon": "league-of-crafters:redemption",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:redemption",
+      "text": "entry.league-of-crafters.item_redemption.desc"
+    }
+  ]
+}

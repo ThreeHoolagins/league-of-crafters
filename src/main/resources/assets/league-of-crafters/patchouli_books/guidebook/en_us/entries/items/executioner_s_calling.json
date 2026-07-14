@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.executioner_s_calling",
+  "icon": "league-of-crafters:executioner_s_calling",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:executioner_s_calling",
+      "text": "entry.league-of-crafters.item_executioner_s_calling.desc"
+    }
+  ]
+}

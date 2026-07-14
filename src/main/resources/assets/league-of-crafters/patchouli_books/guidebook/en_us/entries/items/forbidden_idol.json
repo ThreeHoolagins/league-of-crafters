@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.forbidden_idol",
+  "icon": "league-of-crafters:forbidden_idol",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:forbidden_idol",
+      "text": "entry.league-of-crafters.item_forbidden_idol.desc"
+    }
+  ]
+}

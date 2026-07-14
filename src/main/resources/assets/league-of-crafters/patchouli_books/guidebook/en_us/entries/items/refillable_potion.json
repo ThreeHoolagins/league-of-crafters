@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.refillable_potion",
+  "icon": "league-of-crafters:refillable_potion",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:refillable_potion",
+      "text": "entry.league-of-crafters.item_refillable_potion.desc"
+    }
+  ]
+}

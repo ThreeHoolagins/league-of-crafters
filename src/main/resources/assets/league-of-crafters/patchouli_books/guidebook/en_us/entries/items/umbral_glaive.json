@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.umbral_glaive",
+  "icon": "league-of-crafters:umbral_glaive",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:umbral_glaive",
+      "text": "entry.league-of-crafters.item_umbral_glaive.desc"
+    }
+  ]
+}

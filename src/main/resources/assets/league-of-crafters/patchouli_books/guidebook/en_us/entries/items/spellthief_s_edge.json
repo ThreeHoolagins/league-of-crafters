@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.spellthief_s_edge",
+  "icon": "league-of-crafters:spellthief_s_edge",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:spellthief_s_edge",
+      "text": "entry.league-of-crafters.item_spellthief_s_edge.desc"
+    }
+  ]
+}

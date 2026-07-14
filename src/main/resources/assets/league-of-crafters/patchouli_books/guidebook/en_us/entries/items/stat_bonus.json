@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.stat_bonus",
+  "icon": "league-of-crafters:stat_bonus",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:stat_bonus",
+      "text": "entry.league-of-crafters.item_stat_bonus.desc"
+    }
+  ]
+}

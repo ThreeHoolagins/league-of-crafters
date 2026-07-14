@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.bami_s_cinder",
+  "icon": "league-of-crafters:bami_s_cinder",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:bami_s_cinder",
+      "text": "entry.league-of-crafters.item_bami_s_cinder.desc"
+    }
+  ]
+}

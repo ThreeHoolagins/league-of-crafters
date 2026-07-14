@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.knight_s_vow",
+  "icon": "league-of-crafters:knight_s_vow",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:knight_s_vow",
+      "text": "entry.league-of-crafters.item_knight_s_vow.desc"
+    }
+  ]
+}

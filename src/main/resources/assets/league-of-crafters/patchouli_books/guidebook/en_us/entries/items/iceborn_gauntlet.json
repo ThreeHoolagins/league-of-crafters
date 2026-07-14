@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.iceborn_gauntlet",
+  "icon": "league-of-crafters:iceborn_gauntlet",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:iceborn_gauntlet",
+      "text": "entry.league-of-crafters.item_iceborn_gauntlet.desc"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.doran_s_ring",
+  "icon": "league-of-crafters:doran_s_ring",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:doran_s_ring",
+      "text": "entry.league-of-crafters.item_doran_s_ring.desc"
+    }
+  ]
+}

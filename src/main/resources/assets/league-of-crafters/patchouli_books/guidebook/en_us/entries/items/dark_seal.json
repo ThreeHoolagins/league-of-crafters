@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.dark_seal",
+  "icon": "league-of-crafters:dark_seal",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:dark_seal",
+      "text": "entry.league-of-crafters.item_dark_seal.desc"
+    }
+  ]
+}

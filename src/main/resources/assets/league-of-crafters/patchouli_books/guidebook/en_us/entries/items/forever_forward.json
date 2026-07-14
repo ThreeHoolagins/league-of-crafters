@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.forever_forward",
+  "icon": "league-of-crafters:forever_forward",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:forever_forward",
+      "text": "entry.league-of-crafters.item_forever_forward.desc"
+    }
+  ]
+}

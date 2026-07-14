@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.oblivion_orb",
+  "icon": "league-of-crafters:oblivion_orb",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:oblivion_orb",
+      "text": "entry.league-of-crafters.item_oblivion_orb.desc"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.terminus",
+  "icon": "league-of-crafters:terminus",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:terminus",
+      "text": "entry.league-of-crafters.item_terminus.desc"
+    }
+  ]
+}

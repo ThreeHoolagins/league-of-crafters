@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.galeforce",
+  "icon": "league-of-crafters:galeforce",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:galeforce",
+      "text": "entry.league-of-crafters.item_galeforce.desc"
+    }
+  ]
+}

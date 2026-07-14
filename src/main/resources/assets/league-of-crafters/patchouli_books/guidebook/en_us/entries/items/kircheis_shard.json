@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.kircheis_shard",
+  "icon": "league-of-crafters:kircheis_shard",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:kircheis_shard",
+      "text": "entry.league-of-crafters.item_kircheis_shard.desc"
+    }
+  ]
+}

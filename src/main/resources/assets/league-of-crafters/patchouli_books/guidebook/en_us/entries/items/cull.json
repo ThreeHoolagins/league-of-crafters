@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.cull",
+  "icon": "league-of-crafters:cull",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:cull",
+      "text": "entry.league-of-crafters.item_cull.desc"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.plated_steelcaps",
+  "icon": "league-of-crafters:plated_steelcaps",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:plated_steelcaps",
+      "text": "entry.league-of-crafters.item_plated_steelcaps.desc"
+    }
+  ]
+}

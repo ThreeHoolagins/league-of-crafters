@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.imperial_mandate",
+  "icon": "league-of-crafters:imperial_mandate",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:imperial_mandate",
+      "text": "entry.league-of-crafters.item_imperial_mandate.desc"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.b_f_sword",
+  "icon": "league-of-crafters:b_f_sword",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:b_f_sword",
+      "text": "entry.league-of-crafters.item_b_f_sword.desc"
+    }
+  ]
+}

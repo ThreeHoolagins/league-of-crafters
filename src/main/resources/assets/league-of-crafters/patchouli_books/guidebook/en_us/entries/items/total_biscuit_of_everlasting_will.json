@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.total_biscuit_of_everlasting_will",
+  "icon": "league-of-crafters:total_biscuit_of_everlasting_will",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:total_biscuit_of_everlasting_will",
+      "text": "entry.league-of-crafters.item_total_biscuit_of_everlasting_will.desc"
+    }
+  ]
+}

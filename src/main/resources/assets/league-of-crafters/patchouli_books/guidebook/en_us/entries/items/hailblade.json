@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.hailblade",
+  "icon": "league-of-crafters:hailblade",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:hailblade",
+      "text": "entry.league-of-crafters.item_hailblade.desc"
+    }
+  ]
+}

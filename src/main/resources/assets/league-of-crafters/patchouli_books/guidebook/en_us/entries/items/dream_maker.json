@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.dream_maker",
+  "icon": "league-of-crafters:dream_maker",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:dream_maker",
+      "text": "entry.league-of-crafters.item_dream_maker.desc"
+    }
+  ]
+}

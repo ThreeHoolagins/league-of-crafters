@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.steel_shoulderguards",
+  "icon": "league-of-crafters:steel_shoulderguards",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:steel_shoulderguards",
+      "text": "entry.league-of-crafters.item_steel_shoulderguards.desc"
+    }
+  ]
+}

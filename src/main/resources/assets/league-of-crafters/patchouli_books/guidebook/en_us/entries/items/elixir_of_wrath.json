@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.elixir_of_wrath",
+  "icon": "league-of-crafters:elixir_of_wrath",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:elixir_of_wrath",
+      "text": "entry.league-of-crafters.item_elixir_of_wrath.desc"
+    }
+  ]
+}

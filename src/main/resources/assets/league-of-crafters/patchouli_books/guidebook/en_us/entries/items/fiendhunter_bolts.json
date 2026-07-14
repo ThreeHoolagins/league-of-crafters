@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.fiendhunter_bolts",
+  "icon": "league-of-crafters:fiendhunter_bolts",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:fiendhunter_bolts",
+      "text": "entry.league-of-crafters.item_fiendhunter_bolts.desc"
+    }
+  ]
+}

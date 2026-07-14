@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.reinforced_armor",
+  "icon": "league-of-crafters:reinforced_armor",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:reinforced_armor",
+      "text": "entry.league-of-crafters.item_reinforced_armor.desc"
+    }
+  ]
+}

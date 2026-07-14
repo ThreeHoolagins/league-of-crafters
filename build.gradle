@@ -20,6 +20,10 @@ repositories {
 		name = "Ladysnake Libs"
 		url = 'https://maven.ladysnake.org/releases'
 	}
+	maven {
+		name = "BlameJared"
+		url = "https://maven.blamejared.com/"
+	}
 }
 
 loom {
@@ -41,6 +45,7 @@ dependencies {
 	mappings loom.officialMojangMappings()
 	modImplementation "net.fabricmc:fabric-loader:${project.loader_version}"
 	modImplementation "dev.emi:trinkets:3.10.0"
+	modImplementation "vazkii.patchouli:Patchouli:1.21-89-FABRIC"
 
 	// Fabric API. This is technically optional, but you probably want it anyway.
 	modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_api_version}"

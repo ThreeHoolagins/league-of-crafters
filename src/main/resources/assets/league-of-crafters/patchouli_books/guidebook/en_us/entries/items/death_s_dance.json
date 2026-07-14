@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.death_s_dance",
+  "icon": "league-of-crafters:death_s_dance",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:death_s_dance",
+      "text": "entry.league-of-crafters.item_death_s_dance.desc"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.rod_of_ages",
+  "icon": "league-of-crafters:rod_of_ages",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:rod_of_ages",
+      "text": "entry.league-of-crafters.item_rod_of_ages.desc"
+    }
+  ]
+}

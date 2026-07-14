@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.hextech_alternator",
+  "icon": "league-of-crafters:hextech_alternator",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:hextech_alternator",
+      "text": "entry.league-of-crafters.item_hextech_alternator.desc"
+    }
+  ]
+}

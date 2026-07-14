@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.infinity_edge",
+  "icon": "league-of-crafters:infinity_edge",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:infinity_edge",
+      "text": "entry.league-of-crafters.item_infinity_edge.desc"
+    }
+  ]
+}

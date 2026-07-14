@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.runic_compass",
+  "icon": "league-of-crafters:runic_compass",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:runic_compass",
+      "text": "entry.league-of-crafters.item_runic_compass.desc"
+    }
+  ]
+}

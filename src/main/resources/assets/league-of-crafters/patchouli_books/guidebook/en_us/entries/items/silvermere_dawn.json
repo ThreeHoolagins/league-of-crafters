@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.silvermere_dawn",
+  "icon": "league-of-crafters:silvermere_dawn",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:silvermere_dawn",
+      "text": "entry.league-of-crafters.item_silvermere_dawn.desc"
+    }
+  ]
+}

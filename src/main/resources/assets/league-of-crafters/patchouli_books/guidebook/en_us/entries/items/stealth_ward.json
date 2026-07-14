@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.stealth_ward",
+  "icon": "league-of-crafters:stealth_ward",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:stealth_ward",
+      "text": "entry.league-of-crafters.item_stealth_ward.desc"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.statikk_shiv",
+  "icon": "league-of-crafters:statikk_shiv",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:statikk_shiv",
+      "text": "entry.league-of-crafters.item_statikk_shiv.desc"
+    }
+  ]
+}

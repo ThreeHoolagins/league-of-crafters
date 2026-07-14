@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.quicksilver_sash",
+  "icon": "league-of-crafters:quicksilver_sash",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:quicksilver_sash",
+      "text": "entry.league-of-crafters.item_quicksilver_sash.desc"
+    }
+  ]
+}

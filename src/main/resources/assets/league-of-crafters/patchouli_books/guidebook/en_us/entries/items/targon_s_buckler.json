@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.targon_s_buckler",
+  "icon": "league-of-crafters:targon_s_buckler",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:targon_s_buckler",
+      "text": "entry.league-of-crafters.item_targon_s_buckler.desc"
+    }
+  ]
+}

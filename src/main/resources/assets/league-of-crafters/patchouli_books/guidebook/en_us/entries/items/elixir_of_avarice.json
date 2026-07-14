@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.elixir_of_avarice",
+  "icon": "league-of-crafters:elixir_of_avarice",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:elixir_of_avarice",
+      "text": "entry.league-of-crafters.item_elixir_of_avarice.desc"
+    }
+  ]
+}

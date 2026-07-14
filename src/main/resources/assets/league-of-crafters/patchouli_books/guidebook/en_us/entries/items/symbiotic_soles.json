@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.symbiotic_soles",
+  "icon": "league-of-crafters:symbiotic_soles",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:symbiotic_soles",
+      "text": "entry.league-of-crafters.item_symbiotic_soles.desc"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.manamune",
+  "icon": "league-of-crafters:manamune",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:manamune",
+      "text": "entry.league-of-crafters.item_manamune.desc"
+    }
+  ]
+}

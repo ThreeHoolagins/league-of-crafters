@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.ionian_boots_of_lucidity",
+  "icon": "league-of-crafters:ionian_boots_of_lucidity",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:ionian_boots_of_lucidity",
+      "text": "entry.league-of-crafters.item_ionian_boots_of_lucidity.desc"
+    }
+  ]
+}

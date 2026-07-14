@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.jak_sho_the_protean",
+  "icon": "league-of-crafters:jak_sho_the_protean",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:jak_sho_the_protean",
+      "text": "entry.league-of-crafters.item_jak_sho_the_protean.desc"
+    }
+  ]
+}

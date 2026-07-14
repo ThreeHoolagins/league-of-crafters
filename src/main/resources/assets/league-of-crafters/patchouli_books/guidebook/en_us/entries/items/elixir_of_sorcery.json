@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.elixir_of_sorcery",
+  "icon": "league-of-crafters:elixir_of_sorcery",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:elixir_of_sorcery",
+      "text": "entry.league-of-crafters.item_elixir_of_sorcery.desc"
+    }
+  ]
+}

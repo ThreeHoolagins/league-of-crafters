@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.maw_of_malmortius",
+  "icon": "league-of-crafters:maw_of_malmortius",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:maw_of_malmortius",
+      "text": "entry.league-of-crafters.item_maw_of_malmortius.desc"
+    }
+  ]
+}

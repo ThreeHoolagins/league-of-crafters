@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.wit_s_end",
+  "icon": "league-of-crafters:wit_s_end",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:wit_s_end",
+      "text": "entry.league-of-crafters.item_wit_s_end.desc"
+    }
+  ]
+}

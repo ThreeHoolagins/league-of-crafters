@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.super_mech_power_field",
+  "icon": "league-of-crafters:super_mech_power_field",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:super_mech_power_field",
+      "text": "entry.league-of-crafters.item_super_mech_power_field.desc"
+    }
+  ]
+}

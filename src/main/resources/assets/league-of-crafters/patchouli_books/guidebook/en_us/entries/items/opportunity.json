@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.opportunity",
+  "icon": "league-of-crafters:opportunity",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:opportunity",
+      "text": "entry.league-of-crafters.item_opportunity.desc"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.frozen_heart",
+  "icon": "league-of-crafters:frozen_heart",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:frozen_heart",
+      "text": "entry.league-of-crafters.item_frozen_heart.desc"
+    }
+  ]
+}

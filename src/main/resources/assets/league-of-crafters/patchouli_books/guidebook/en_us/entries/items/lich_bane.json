@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.lich_bane",
+  "icon": "league-of-crafters:lich_bane",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:lich_bane",
+      "text": "entry.league-of-crafters.item_lich_bane.desc"
+    }
+  ]
+}

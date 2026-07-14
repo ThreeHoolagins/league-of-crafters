@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.cloak_of_agility",
+  "icon": "league-of-crafters:cloak_of_agility",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:cloak_of_agility",
+      "text": "entry.league-of-crafters.item_cloak_of_agility.desc"
+    }
+  ]
+}

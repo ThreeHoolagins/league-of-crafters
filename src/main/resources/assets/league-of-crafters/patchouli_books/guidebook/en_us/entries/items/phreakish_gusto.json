@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.phreakish_gusto",
+  "icon": "league-of-crafters:phreakish_gusto",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:phreakish_gusto",
+      "text": "entry.league-of-crafters.item_phreakish_gusto.desc"
+    }
+  ]
+}

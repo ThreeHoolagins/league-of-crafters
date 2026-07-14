@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.prowler_s_claw",
+  "icon": "league-of-crafters:prowler_s_claw",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:prowler_s_claw",
+      "text": "entry.league-of-crafters.item_prowler_s_claw.desc"
+    }
+  ]
+}

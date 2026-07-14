@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.anathema_s_chains",
+  "icon": "league-of-crafters:anathema_s_chains",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:anathema_s_chains",
+      "text": "entry.league-of-crafters.item_anathema_s_chains.desc"
+    }
+  ]
+}

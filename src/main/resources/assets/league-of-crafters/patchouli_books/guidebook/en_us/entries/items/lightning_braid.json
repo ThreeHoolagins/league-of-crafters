@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.lightning_braid",
+  "icon": "league-of-crafters:lightning_braid",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:lightning_braid",
+      "text": "entry.league-of-crafters.item_lightning_braid.desc"
+    }
+  ]
+}

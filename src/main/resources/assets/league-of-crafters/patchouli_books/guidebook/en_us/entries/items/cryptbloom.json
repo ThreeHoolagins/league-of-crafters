@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.cryptbloom",
+  "icon": "league-of-crafters:cryptbloom",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:cryptbloom",
+      "text": "entry.league-of-crafters.item_cryptbloom.desc"
+    }
+  ]
+}

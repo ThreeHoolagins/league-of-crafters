@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.banshee_s_veil",
+  "icon": "league-of-crafters:banshee_s_veil",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:banshee_s_veil",
+      "text": "entry.league-of-crafters.item_banshee_s_veil.desc"
+    }
+  ]
+}

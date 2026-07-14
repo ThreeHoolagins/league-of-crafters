@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.shattered_armguard",
+  "icon": "league-of-crafters:shattered_armguard",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:shattered_armguard",
+      "text": "entry.league-of-crafters.item_shattered_armguard.desc"
+    }
+  ]
+}

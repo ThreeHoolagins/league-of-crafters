@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.zeke_s_convergence",
+  "icon": "league-of-crafters:zeke_s_convergence",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:zeke_s_convergence",
+      "text": "entry.league-of-crafters.item_zeke_s_convergence.desc"
+    }
+  ]
+}

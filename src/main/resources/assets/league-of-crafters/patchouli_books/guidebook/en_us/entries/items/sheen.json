@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.sheen",
+  "icon": "league-of-crafters:sheen",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:sheen",
+      "text": "entry.league-of-crafters.item_sheen.desc"
+    }
+  ]
+}

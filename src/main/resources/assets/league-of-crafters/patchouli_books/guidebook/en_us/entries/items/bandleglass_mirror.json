@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.bandleglass_mirror",
+  "icon": "league-of-crafters:bandleglass_mirror",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:bandleglass_mirror",
+      "text": "entry.league-of-crafters.item_bandleglass_mirror.desc"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.farsight_alteration",
+  "icon": "league-of-crafters:farsight_alteration",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:farsight_alteration",
+      "text": "entry.league-of-crafters.item_farsight_alteration.desc"
+    }
+  ]
+}

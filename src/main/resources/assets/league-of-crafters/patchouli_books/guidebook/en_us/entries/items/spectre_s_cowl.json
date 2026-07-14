@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.spectre_s_cowl",
+  "icon": "league-of-crafters:spectre_s_cowl",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:spectre_s_cowl",
+      "text": "entry.league-of-crafters.item_spectre_s_cowl.desc"
+    }
+  ]
+}

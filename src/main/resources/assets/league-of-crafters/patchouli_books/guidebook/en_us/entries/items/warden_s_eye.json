@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.warden_s_eye",
+  "icon": "league-of-crafters:warden_s_eye",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:warden_s_eye",
+      "text": "entry.league-of-crafters.item_warden_s_eye.desc"
+    }
+  ]
+}

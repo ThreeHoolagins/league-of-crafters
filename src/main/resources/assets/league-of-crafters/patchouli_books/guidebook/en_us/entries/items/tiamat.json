@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.tiamat",
+  "icon": "league-of-crafters:tiamat",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:tiamat",
+      "text": "entry.league-of-crafters.item_tiamat.desc"
+    }
+  ]
+}

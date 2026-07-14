@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.your_cut",
+  "icon": "league-of-crafters:your_cut",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:your_cut",
+      "text": "entry.league-of-crafters.item_your_cut.desc"
+    }
+  ]
+}

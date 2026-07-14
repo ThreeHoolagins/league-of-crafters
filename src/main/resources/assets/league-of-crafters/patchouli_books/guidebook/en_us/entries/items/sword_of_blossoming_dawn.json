@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.sword_of_blossoming_dawn",
+  "icon": "league-of-crafters:sword_of_blossoming_dawn",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:sword_of_blossoming_dawn",
+      "text": "entry.league-of-crafters.item_sword_of_blossoming_dawn.desc"
+    }
+  ]
+}

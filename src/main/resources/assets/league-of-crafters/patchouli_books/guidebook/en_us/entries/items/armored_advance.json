@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.armored_advance",
+  "icon": "league-of-crafters:armored_advance",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:armored_advance",
+      "text": "entry.league-of-crafters.item_armored_advance.desc"
+    }
+  ]
+}

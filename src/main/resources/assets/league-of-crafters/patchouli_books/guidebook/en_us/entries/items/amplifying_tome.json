@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.amplifying_tome",
+  "icon": "league-of-crafters:amplifying_tome",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:amplifying_tome",
+      "text": "entry.league-of-crafters.item_amplifying_tome.desc"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.swiftmarch",
+  "icon": "league-of-crafters:swiftmarch",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:swiftmarch",
+      "text": "entry.league-of-crafters.item_swiftmarch.desc"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.boots_of_swiftness",
+  "icon": "league-of-crafters:boots_of_swiftness",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:boots_of_swiftness",
+      "text": "entry.league-of-crafters.item_boots_of_swiftness.desc"
+    }
+  ]
+}

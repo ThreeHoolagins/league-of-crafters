@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.slightly_magical_footwear",
+  "icon": "league-of-crafters:slightly_magical_footwear",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:slightly_magical_footwear",
+      "text": "entry.league-of-crafters.item_slightly_magical_footwear.desc"
+    }
+  ]
+}

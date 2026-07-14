@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.lifeline",
+  "icon": "league-of-crafters:lifeline",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:lifeline",
+      "text": "entry.league-of-crafters.item_lifeline.desc"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.boots",
+  "icon": "league-of-crafters:boots",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:boots",
+      "text": "entry.league-of-crafters.item_boots.desc"
+    }
+  ]
+}

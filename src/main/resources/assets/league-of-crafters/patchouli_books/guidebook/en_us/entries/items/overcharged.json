@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.overcharged",
+  "icon": "league-of-crafters:overcharged",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:overcharged",
+      "text": "entry.league-of-crafters.item_overcharged.desc"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.glacial_buckler",
+  "icon": "league-of-crafters:glacial_buckler",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:glacial_buckler",
+      "text": "entry.league-of-crafters.item_glacial_buckler.desc"
+    }
+  ]
+}

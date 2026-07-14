@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.zeal",
+  "icon": "league-of-crafters:zeal",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:zeal",
+      "text": "entry.league-of-crafters.item_zeal.desc"
+    }
+  ]
+}

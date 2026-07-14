@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.chempunk_chainsword",
+  "icon": "league-of-crafters:chempunk_chainsword",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:chempunk_chainsword",
+      "text": "entry.league-of-crafters.item_chempunk_chainsword.desc"
+    }
+  ]
+}

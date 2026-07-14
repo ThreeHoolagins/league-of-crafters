@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.lord_dominik_s_regards",
+  "icon": "league-of-crafters:lord_dominik_s_regards",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:lord_dominik_s_regards",
+      "text": "entry.league-of-crafters.item_lord_dominik_s_regards.desc"
+    }
+  ]
+}

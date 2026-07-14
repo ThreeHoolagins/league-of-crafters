@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.guardian_s_horn",
+  "icon": "league-of-crafters:guardian_s_horn",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:guardian_s_horn",
+      "text": "entry.league-of-crafters.item_guardian_s_horn.desc"
+    }
+  ]
+}

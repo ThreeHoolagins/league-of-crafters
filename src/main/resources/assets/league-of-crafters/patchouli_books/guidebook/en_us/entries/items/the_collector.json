@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.the_collector",
+  "icon": "league-of-crafters:the_collector",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:the_collector",
+      "text": "entry.league-of-crafters.item_the_collector.desc"
+    }
+  ]
+}

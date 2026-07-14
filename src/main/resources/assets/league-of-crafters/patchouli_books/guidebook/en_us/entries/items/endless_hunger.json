@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.endless_hunger",
+  "icon": "league-of-crafters:endless_hunger",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:endless_hunger",
+      "text": "entry.league-of-crafters.item_endless_hunger.desc"
+    }
+  ]
+}

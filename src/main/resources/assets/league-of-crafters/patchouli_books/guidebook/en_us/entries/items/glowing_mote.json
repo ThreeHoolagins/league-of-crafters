@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.glowing_mote",
+  "icon": "league-of-crafters:glowing_mote",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:glowing_mote",
+      "text": "entry.league-of-crafters.item_glowing_mote.desc"
+    }
+  ]
+}

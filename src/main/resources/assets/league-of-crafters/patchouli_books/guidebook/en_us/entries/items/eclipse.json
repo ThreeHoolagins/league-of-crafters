@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.eclipse",
+  "icon": "league-of-crafters:eclipse",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:eclipse",
+      "text": "entry.league-of-crafters.item_eclipse.desc"
+    }
+  ]
+}

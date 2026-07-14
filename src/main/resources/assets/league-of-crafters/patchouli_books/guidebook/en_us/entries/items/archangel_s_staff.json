@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.archangel_s_staff",
+  "icon": "league-of-crafters:archangel_s_staff",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:archangel_s_staff",
+      "text": "entry.league-of-crafters.item_archangel_s_staff.desc"
+    }
+  ]
+}

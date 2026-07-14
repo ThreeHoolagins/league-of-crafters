@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.berserker_s_greaves",
+  "icon": "league-of-crafters:berserker_s_greaves",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:berserker_s_greaves",
+      "text": "entry.league-of-crafters.item_berserker_s_greaves.desc"
+    }
+  ]
+}

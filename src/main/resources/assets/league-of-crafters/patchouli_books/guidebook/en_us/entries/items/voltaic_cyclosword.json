@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.voltaic_cyclosword",
+  "icon": "league-of-crafters:voltaic_cyclosword",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:voltaic_cyclosword",
+      "text": "entry.league-of-crafters.item_voltaic_cyclosword.desc"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.shard_of_true_ice",
+  "icon": "league-of-crafters:shard_of_true_ice",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:shard_of_true_ice",
+      "text": "entry.league-of-crafters.item_shard_of_true_ice.desc"
+    }
+  ]
+}

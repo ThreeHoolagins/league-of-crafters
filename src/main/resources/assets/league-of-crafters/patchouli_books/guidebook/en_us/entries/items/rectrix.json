@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.rectrix",
+  "icon": "league-of-crafters:rectrix",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:rectrix",
+      "text": "entry.league-of-crafters.item_rectrix.desc"
+    }
+  ]
+}

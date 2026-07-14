@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.health_potion",
+  "icon": "league-of-crafters:health_potion",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:health_potion",
+      "text": "entry.league-of-crafters.item_health_potion.desc"
+    }
+  ]
+}

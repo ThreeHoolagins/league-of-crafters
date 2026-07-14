@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.radiant_virtue",
+  "icon": "league-of-crafters:radiant_virtue",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:radiant_virtue",
+      "text": "entry.league-of-crafters.item_radiant_virtue.desc"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.crown_of_the_shattered_queen",
+  "icon": "league-of-crafters:crown_of_the_shattered_queen",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:crown_of_the_shattered_queen",
+      "text": "entry.league-of-crafters.item_crown_of_the_shattered_queen.desc"
+    }
+  ]
+}

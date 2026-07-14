@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.guinsoo_s_rageblade",
+  "icon": "league-of-crafters:guinsoo_s_rageblade",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:guinsoo_s_rageblade",
+      "text": "entry.league-of-crafters.item_guinsoo_s_rageblade.desc"
+    }
+  ]
+}

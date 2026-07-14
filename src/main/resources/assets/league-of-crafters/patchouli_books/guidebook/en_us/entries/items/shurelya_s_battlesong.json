@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.shurelya_s_battlesong",
+  "icon": "league-of-crafters:shurelya_s_battlesong",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:shurelya_s_battlesong",
+      "text": "entry.league-of-crafters.item_shurelya_s_battlesong.desc"
+    }
+  ]
+}

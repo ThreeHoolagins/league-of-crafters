@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.noonquiver",
+  "icon": "league-of-crafters:noonquiver",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:noonquiver",
+      "text": "entry.league-of-crafters.item_noonquiver.desc"
+    }
+  ]
+}

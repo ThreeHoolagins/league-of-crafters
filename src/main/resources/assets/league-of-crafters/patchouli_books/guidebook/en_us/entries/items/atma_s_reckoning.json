@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.atma_s_reckoning",
+  "icon": "league-of-crafters:atma_s_reckoning",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:atma_s_reckoning",
+      "text": "entry.league-of-crafters.item_atma_s_reckoning.desc"
+    }
+  ]
+}

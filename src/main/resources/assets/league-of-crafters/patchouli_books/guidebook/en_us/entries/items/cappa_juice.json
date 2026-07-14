@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.cappa_juice",
+  "icon": "league-of-crafters:cappa_juice",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:cappa_juice",
+      "text": "entry.league-of-crafters.item_cappa_juice.desc"
+    }
+  ]
+}

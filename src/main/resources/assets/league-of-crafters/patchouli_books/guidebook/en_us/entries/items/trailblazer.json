@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.trailblazer",
+  "icon": "league-of-crafters:trailblazer",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:trailblazer",
+      "text": "entry.league-of-crafters.item_trailblazer.desc"
+    }
+  ]
+}

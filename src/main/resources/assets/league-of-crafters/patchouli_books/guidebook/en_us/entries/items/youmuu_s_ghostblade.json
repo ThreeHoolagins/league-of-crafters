@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.youmuu_s_ghostblade",
+  "icon": "league-of-crafters:youmuu_s_ghostblade",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:youmuu_s_ghostblade",
+      "text": "entry.league-of-crafters.item_youmuu_s_ghostblade.desc"
+    }
+  ]
+}

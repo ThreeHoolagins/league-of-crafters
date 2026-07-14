@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.chain_vest",
+  "icon": "league-of-crafters:chain_vest",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:chain_vest",
+      "text": "entry.league-of-crafters.item_chain_vest.desc"
+    }
+  ]
+}

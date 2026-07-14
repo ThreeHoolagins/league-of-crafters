@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.staff_of_flowing_water",
+  "icon": "league-of-crafters:staff_of_flowing_water",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:staff_of_flowing_water",
+      "text": "entry.league-of-crafters.item_staff_of_flowing_water.desc"
+    }
+  ]
+}

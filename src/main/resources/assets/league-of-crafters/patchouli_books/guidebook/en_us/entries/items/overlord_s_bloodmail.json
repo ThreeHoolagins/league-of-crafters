@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.overlord_s_bloodmail",
+  "icon": "league-of-crafters:overlord_s_bloodmail",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:overlord_s_bloodmail",
+      "text": "entry.league-of-crafters.item_overlord_s_bloodmail.desc"
+    }
+  ]
+}

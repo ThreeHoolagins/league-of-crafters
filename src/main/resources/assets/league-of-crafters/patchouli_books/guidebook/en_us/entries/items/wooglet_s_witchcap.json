@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.wooglet_s_witchcap",
+  "icon": "league-of-crafters:wooglet_s_witchcap",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:wooglet_s_witchcap",
+      "text": "entry.league-of-crafters.item_wooglet_s_witchcap.desc"
+    }
+  ]
+}

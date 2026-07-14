@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.hearthbound_axe",
+  "icon": "league-of-crafters:hearthbound_axe",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:hearthbound_axe",
+      "text": "entry.league-of-crafters.item_hearthbound_axe.desc"
+    }
+  ]
+}

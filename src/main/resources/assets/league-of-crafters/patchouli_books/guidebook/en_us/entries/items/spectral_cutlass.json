@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.spectral_cutlass",
+  "icon": "league-of-crafters:spectral_cutlass",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:spectral_cutlass",
+      "text": "entry.league-of-crafters.item_spectral_cutlass.desc"
+    }
+  ]
+}

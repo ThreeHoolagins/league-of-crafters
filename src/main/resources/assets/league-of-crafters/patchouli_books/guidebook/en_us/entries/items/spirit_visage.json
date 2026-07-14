@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.spirit_visage",
+  "icon": "league-of-crafters:spirit_visage",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:spirit_visage",
+      "text": "entry.league-of-crafters.item_spirit_visage.desc"
+    }
+  ]
+}

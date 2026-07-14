@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.fimbulwinter",
+  "icon": "league-of-crafters:fimbulwinter",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:fimbulwinter",
+      "text": "entry.league-of-crafters.item_fimbulwinter.desc"
+    }
+  ]
+}

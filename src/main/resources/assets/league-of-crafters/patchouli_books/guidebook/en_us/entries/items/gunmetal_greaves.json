@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.gunmetal_greaves",
+  "icon": "league-of-crafters:gunmetal_greaves",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:gunmetal_greaves",
+      "text": "entry.league-of-crafters.item_gunmetal_greaves.desc"
+    }
+  ]
+}

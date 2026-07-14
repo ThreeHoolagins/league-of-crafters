@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.sword_of_the_divine",
+  "icon": "league-of-crafters:sword_of_the_divine",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:sword_of_the_divine",
+      "text": "entry.league-of-crafters.item_sword_of_the_divine.desc"
+    }
+  ]
+}

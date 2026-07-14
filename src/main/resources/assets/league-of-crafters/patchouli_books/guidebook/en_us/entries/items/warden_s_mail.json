@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.warden_s_mail",
+  "icon": "league-of-crafters:warden_s_mail",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:warden_s_mail",
+      "text": "entry.league-of-crafters.item_warden_s_mail.desc"
+    }
+  ]
+}

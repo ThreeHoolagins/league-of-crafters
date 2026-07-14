@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.sterak_s_gage",
+  "icon": "league-of-crafters:sterak_s_gage",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:sterak_s_gage",
+      "text": "entry.league-of-crafters.item_sterak_s_gage.desc"
+    }
+  ]
+}

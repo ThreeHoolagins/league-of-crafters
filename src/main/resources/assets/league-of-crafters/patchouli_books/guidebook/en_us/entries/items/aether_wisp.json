@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.aether_wisp",
+  "icon": "league-of-crafters:aether_wisp",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:aether_wisp",
+      "text": "entry.league-of-crafters.item_aether_wisp.desc"
+    }
+  ]
+}

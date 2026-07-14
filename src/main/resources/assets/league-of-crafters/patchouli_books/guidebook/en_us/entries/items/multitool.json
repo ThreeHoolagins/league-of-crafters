@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.multitool",
+  "icon": "league-of-crafters:multitool",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:multitool",
+      "text": "entry.league-of-crafters.item_multitool.desc"
+    }
+  ]
+}

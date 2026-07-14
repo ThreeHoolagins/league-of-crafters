@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.hextech_rocketbelt",
+  "icon": "league-of-crafters:hextech_rocketbelt",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:hextech_rocketbelt",
+      "text": "entry.league-of-crafters.item_hextech_rocketbelt.desc"
+    }
+  ]
+}

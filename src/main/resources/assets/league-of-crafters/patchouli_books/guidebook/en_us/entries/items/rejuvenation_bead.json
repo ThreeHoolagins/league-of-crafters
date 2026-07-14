@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.rejuvenation_bead",
+  "icon": "league-of-crafters:rejuvenation_bead",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:rejuvenation_bead",
+      "text": "entry.league-of-crafters.item_rejuvenation_bead.desc"
+    }
+  ]
+}

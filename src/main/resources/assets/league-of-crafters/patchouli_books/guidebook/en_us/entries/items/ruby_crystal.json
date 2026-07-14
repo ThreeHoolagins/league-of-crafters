@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.ruby_crystal",
+  "icon": "league-of-crafters:ruby_crystal",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:ruby_crystal",
+      "text": "entry.league-of-crafters.item_ruby_crystal.desc"
+    }
+  ]
+}

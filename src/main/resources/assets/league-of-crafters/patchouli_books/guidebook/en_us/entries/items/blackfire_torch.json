@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.blackfire_torch",
+  "icon": "league-of-crafters:blackfire_torch",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:blackfire_torch",
+      "text": "entry.league-of-crafters.item_blackfire_torch.desc"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.stridebreaker",
+  "icon": "league-of-crafters:stridebreaker",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:stridebreaker",
+      "text": "entry.league-of-crafters.item_stridebreaker.desc"
+    }
+  ]
+}

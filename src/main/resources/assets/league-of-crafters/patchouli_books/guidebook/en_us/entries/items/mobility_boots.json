@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.mobility_boots",
+  "icon": "league-of-crafters:mobility_boots",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:mobility_boots",
+      "text": "entry.league-of-crafters.item_mobility_boots.desc"
+    }
+  ]
+}

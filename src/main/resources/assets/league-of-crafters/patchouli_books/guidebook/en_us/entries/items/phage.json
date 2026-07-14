@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.phage",
+  "icon": "league-of-crafters:phage",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:phage",
+      "text": "entry.league-of-crafters.item_phage.desc"
+    }
+  ]
+}

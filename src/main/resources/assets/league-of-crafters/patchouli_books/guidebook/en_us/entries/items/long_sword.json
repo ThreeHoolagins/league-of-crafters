@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.long_sword",
+  "icon": "league-of-crafters:long_sword",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:long_sword",
+      "text": "entry.league-of-crafters.item_long_sword.desc"
+    }
+  ]
+}

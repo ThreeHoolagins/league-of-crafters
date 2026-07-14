@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.kaenic_rookern",
+  "icon": "league-of-crafters:kaenic_rookern",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:kaenic_rookern",
+      "text": "entry.league-of-crafters.item_kaenic_rookern.desc"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.penetrating_bullets",
+  "icon": "league-of-crafters:penetrating_bullets",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:penetrating_bullets",
+      "text": "entry.league-of-crafters.item_penetrating_bullets.desc"
+    }
+  ]
+}

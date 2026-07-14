@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.chalice_of_blessing",
+  "icon": "league-of-crafters:chalice_of_blessing",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:chalice_of_blessing",
+      "text": "entry.league-of-crafters.item_chalice_of_blessing.desc"
+    }
+  ]
+}

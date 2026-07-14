@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.ghostcrawlers",
+  "icon": "league-of-crafters:ghostcrawlers",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:ghostcrawlers",
+      "text": "entry.league-of-crafters.item_ghostcrawlers.desc"
+    }
+  ]
+}

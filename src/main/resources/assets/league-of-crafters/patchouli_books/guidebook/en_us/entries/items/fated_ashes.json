@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.fated_ashes",
+  "icon": "league-of-crafters:fated_ashes",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:fated_ashes",
+      "text": "entry.league-of-crafters.item_fated_ashes.desc"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.emberknife",
+  "icon": "league-of-crafters:emberknife",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:emberknife",
+      "text": "entry.league-of-crafters.item_emberknife.desc"
+    }
+  ]
+}

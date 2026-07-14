@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.mercurial_scimitar",
+  "icon": "league-of-crafters:mercurial_scimitar",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:mercurial_scimitar",
+      "text": "entry.league-of-crafters.item_mercurial_scimitar.desc"
+    }
+  ]
+}

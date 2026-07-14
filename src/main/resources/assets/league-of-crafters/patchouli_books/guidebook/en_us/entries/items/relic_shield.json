@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.relic_shield",
+  "icon": "league-of-crafters:relic_shield",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:relic_shield",
+      "text": "entry.league-of-crafters.item_relic_shield.desc"
+    }
+  ]
+}

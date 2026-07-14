@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.crimson_lucidity",
+  "icon": "league-of-crafters:crimson_lucidity",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:crimson_lucidity",
+      "text": "entry.league-of-crafters.item_crimson_lucidity.desc"
+    }
+  ]
+}

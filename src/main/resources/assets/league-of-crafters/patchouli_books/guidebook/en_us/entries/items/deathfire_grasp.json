@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.deathfire_grasp",
+  "icon": "league-of-crafters:deathfire_grasp",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:deathfire_grasp",
+      "text": "entry.league-of-crafters.item_deathfire_grasp.desc"
+    }
+  ]
+}

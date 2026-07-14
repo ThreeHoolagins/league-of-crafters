@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.yun_tal_wildarrows",
+  "icon": "league-of-crafters:yun_tal_wildarrows",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:yun_tal_wildarrows",
+      "text": "entry.league-of-crafters.item_yun_tal_wildarrows.desc"
+    }
+  ]
+}

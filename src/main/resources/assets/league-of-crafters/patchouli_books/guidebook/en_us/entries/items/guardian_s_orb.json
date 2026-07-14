@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.guardian_s_orb",
+  "icon": "league-of-crafters:guardian_s_orb",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:guardian_s_orb",
+      "text": "entry.league-of-crafters.item_guardian_s_orb.desc"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.last_whisper",
+  "icon": "league-of-crafters:last_whisper",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:last_whisper",
+      "text": "entry.league-of-crafters.item_last_whisper.desc"
+    }
+  ]
+}

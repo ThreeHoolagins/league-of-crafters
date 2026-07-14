@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.caulfield_s_warhammer",
+  "icon": "league-of-crafters:caulfield_s_warhammer",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:caulfield_s_warhammer",
+      "text": "entry.league-of-crafters.item_caulfield_s_warhammer.desc"
+    }
+  ]
+}

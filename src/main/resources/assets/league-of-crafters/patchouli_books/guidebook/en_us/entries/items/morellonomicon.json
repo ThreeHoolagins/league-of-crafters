@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.morellonomicon",
+  "icon": "league-of-crafters:morellonomicon",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:morellonomicon",
+      "text": "entry.league-of-crafters.item_morellonomicon.desc"
+    }
+  ]
+}

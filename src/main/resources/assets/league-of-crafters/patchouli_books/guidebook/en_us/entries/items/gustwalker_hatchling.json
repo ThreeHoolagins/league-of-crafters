@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.gustwalker_hatchling",
+  "icon": "league-of-crafters:gustwalker_hatchling",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:gustwalker_hatchling",
+      "text": "entry.league-of-crafters.item_gustwalker_hatchling.desc"
+    }
+  ]
+}

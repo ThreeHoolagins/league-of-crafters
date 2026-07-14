@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.protoplasm_harness",
+  "icon": "league-of-crafters:protoplasm_harness",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:protoplasm_harness",
+      "text": "entry.league-of-crafters.item_protoplasm_harness.desc"
+    }
+  ]
+}

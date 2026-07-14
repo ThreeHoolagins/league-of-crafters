@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.frostfang",
+  "icon": "league-of-crafters:frostfang",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:frostfang",
+      "text": "entry.league-of-crafters.item_frostfang.desc"
+    }
+  ]
+}

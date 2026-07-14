@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.randuin_s_omen",
+  "icon": "league-of-crafters:randuin_s_omen",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:randuin_s_omen",
+      "text": "entry.league-of-crafters.item_randuin_s_omen.desc"
+    }
+  ]
+}

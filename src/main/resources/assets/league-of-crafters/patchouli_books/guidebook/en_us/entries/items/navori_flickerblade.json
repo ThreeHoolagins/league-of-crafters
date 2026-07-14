@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.navori_flickerblade",
+  "icon": "league-of-crafters:navori_flickerblade",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:navori_flickerblade",
+      "text": "entry.league-of-crafters.item_navori_flickerblade.desc"
+    }
+  ]
+}

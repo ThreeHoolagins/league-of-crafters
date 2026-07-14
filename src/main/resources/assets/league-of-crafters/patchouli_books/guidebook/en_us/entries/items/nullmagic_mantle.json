@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.nullmagic_mantle",
+  "icon": "league-of-crafters:nullmagic_mantle",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:nullmagic_mantle",
+      "text": "entry.league-of-crafters.item_nullmagic_mantle.desc"
+    }
+  ]
+}

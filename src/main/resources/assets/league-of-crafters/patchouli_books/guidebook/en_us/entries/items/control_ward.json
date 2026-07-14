@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.control_ward",
+  "icon": "league-of-crafters:control_ward",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:control_ward",
+      "text": "entry.league-of-crafters.item_control_ward.desc"
+    }
+  ]
+}

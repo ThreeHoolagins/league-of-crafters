@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.negatron_cloak",
+  "icon": "league-of-crafters:negatron_cloak",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:negatron_cloak",
+      "text": "entry.league-of-crafters.item_negatron_cloak.desc"
+    }
+  ]
+}

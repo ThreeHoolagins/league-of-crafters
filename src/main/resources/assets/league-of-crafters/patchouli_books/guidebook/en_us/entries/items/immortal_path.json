@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.immortal_path",
+  "icon": "league-of-crafters:immortal_path",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:immortal_path",
+      "text": "entry.league-of-crafters.item_immortal_path.desc"
+    }
+  ]
+}

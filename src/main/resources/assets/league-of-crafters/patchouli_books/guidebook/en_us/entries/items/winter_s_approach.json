@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.winter_s_approach",
+  "icon": "league-of-crafters:winter_s_approach",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:winter_s_approach",
+      "text": "entry.league-of-crafters.item_winter_s_approach.desc"
+    }
+  ]
+}

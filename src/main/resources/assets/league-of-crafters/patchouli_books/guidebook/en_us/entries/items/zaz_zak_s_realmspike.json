@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.zaz_zak_s_realmspike",
+  "icon": "league-of-crafters:zaz_zak_s_realmspike",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:zaz_zak_s_realmspike",
+      "text": "entry.league-of-crafters.item_zaz_zak_s_realmspike.desc"
+    }
+  ]
+}

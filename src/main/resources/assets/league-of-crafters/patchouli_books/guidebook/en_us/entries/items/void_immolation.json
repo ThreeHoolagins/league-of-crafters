@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.void_immolation",
+  "icon": "league-of-crafters:void_immolation",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:void_immolation",
+      "text": "entry.league-of-crafters.item_void_immolation.desc"
+    }
+  ]
+}

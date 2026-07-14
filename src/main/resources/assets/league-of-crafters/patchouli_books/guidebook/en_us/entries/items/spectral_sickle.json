@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.spectral_sickle",
+  "icon": "league-of-crafters:spectral_sickle",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:spectral_sickle",
+      "text": "entry.league-of-crafters.item_spectral_sickle.desc"
+    }
+  ]
+}

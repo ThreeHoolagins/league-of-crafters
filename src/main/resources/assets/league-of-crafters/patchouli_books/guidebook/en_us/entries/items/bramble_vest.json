@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.bramble_vest",
+  "icon": "league-of-crafters:bramble_vest",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:bramble_vest",
+      "text": "entry.league-of-crafters.item_bramble_vest.desc"
+    }
+  ]
+}

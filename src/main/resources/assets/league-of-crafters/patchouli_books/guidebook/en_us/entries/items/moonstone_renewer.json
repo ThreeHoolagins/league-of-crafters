@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.moonstone_renewer",
+  "icon": "league-of-crafters:moonstone_renewer",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:moonstone_renewer",
+      "text": "entry.league-of-crafters.item_moonstone_renewer.desc"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.divine_sunderer",
+  "icon": "league-of-crafters:divine_sunderer",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:divine_sunderer",
+      "text": "entry.league-of-crafters.item_divine_sunderer.desc"
+    }
+  ]
+}

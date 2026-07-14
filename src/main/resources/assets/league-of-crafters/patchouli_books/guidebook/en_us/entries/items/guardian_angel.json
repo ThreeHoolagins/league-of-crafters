@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.guardian_angel",
+  "icon": "league-of-crafters:guardian_angel",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:guardian_angel",
+      "text": "entry.league-of-crafters.item_guardian_angel.desc"
+    }
+  ]
+}

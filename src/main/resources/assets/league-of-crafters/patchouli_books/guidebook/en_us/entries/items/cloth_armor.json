@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.cloth_armor",
+  "icon": "league-of-crafters:cloth_armor",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:cloth_armor",
+      "text": "entry.league-of-crafters.item_cloth_armor.desc"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.demon_king_s_crown",
+  "icon": "league-of-crafters:demon_king_s_crown",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:demon_king_s_crown",
+      "text": "entry.league-of-crafters.item_demon_king_s_crown.desc"
+    }
+  ]
+}

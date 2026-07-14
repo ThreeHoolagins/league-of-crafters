@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.gluttonous_greaves",
+  "icon": "league-of-crafters:gluttonous_greaves",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:gluttonous_greaves",
+      "text": "entry.league-of-crafters.item_gluttonous_greaves.desc"
+    }
+  ]
+}

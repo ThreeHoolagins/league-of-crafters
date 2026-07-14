@@ -1,0 +1,12 @@
+{
+  "name": "entry.league-of-crafters.blue_sentinel",
+  "icon": "league-of-crafters:long_sword",
+  "category": "league-of-crafters:world_gen",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "entry.league-of-crafters.blue_sentinel.page1"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.nashor_s_tooth",
+  "icon": "league-of-crafters:nashor_s_tooth",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:nashor_s_tooth",
+      "text": "entry.league-of-crafters.item_nashor_s_tooth.desc"
+    }
+  ]
+}

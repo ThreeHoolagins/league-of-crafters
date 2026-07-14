@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.zhonya_s_hourglass",
+  "icon": "league-of-crafters:zhonya_s_hourglass",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:zhonya_s_hourglass",
+      "text": "entry.league-of-crafters.item_zhonya_s_hourglass.desc"
+    }
+  ]
+}

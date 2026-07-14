@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.stirring_wardstone",
+  "icon": "league-of-crafters:stirring_wardstone",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:stirring_wardstone",
+      "text": "entry.league-of-crafters.item_stirring_wardstone.desc"
+    }
+  ]
+}

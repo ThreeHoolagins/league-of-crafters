@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.duskblade_of_draktharr",
+  "icon": "league-of-crafters:duskblade_of_draktharr",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:duskblade_of_draktharr",
+      "text": "entry.league-of-crafters.item_duskblade_of_draktharr.desc"
+    }
+  ]
+}

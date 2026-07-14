@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.sin_eater",
+  "icon": "league-of-crafters:sin_eater",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:sin_eater",
+      "text": "entry.league-of-crafters.item_sin_eater.desc"
+    }
+  ]
+}

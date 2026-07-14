@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.everfrost",
+  "icon": "league-of-crafters:everfrost",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:everfrost",
+      "text": "entry.league-of-crafters.item_everfrost.desc"
+    }
+  ]
+}

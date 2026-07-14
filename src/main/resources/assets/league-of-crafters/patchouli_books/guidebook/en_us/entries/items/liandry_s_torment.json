@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.liandry_s_torment",
+  "icon": "league-of-crafters:liandry_s_torment",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:liandry_s_torment",
+      "text": "entry.league-of-crafters.item_liandry_s_torment.desc"
+    }
+  ]
+}

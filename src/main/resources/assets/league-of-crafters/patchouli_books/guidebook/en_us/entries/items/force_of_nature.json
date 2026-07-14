@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.force_of_nature",
+  "icon": "league-of-crafters:force_of_nature",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:force_of_nature",
+      "text": "entry.league-of-crafters.item_force_of_nature.desc"
+    }
+  ]
+}

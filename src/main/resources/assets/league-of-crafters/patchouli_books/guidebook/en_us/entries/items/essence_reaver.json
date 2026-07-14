@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.essence_reaver",
+  "icon": "league-of-crafters:essence_reaver",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:essence_reaver",
+      "text": "entry.league-of-crafters.item_essence_reaver.desc"
+    }
+  ]
+}

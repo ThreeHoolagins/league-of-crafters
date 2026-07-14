@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.oracle_lens",
+  "icon": "league-of-crafters:oracle_lens",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:oracle_lens",
+      "text": "entry.league-of-crafters.item_oracle_lens.desc"
+    }
+  ]
+}

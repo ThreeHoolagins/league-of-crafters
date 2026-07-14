@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.frozen_mallet",
+  "icon": "league-of-crafters:frozen_mallet",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:frozen_mallet",
+      "text": "entry.league-of-crafters.item_frozen_mallet.desc"
+    }
+  ]
+}

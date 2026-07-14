@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.rabadon_s_deathcap",
+  "icon": "league-of-crafters:rabadon_s_deathcap",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:rabadon_s_deathcap",
+      "text": "entry.league-of-crafters.item_rabadon_s_deathcap.desc"
+    }
+  ]
+}

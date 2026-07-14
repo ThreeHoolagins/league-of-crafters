@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.harrowing_crescent",
+  "icon": "league-of-crafters:harrowing_crescent",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:harrowing_crescent",
+      "text": "entry.league-of-crafters.item_harrowing_crescent.desc"
+    }
+  ]
+}

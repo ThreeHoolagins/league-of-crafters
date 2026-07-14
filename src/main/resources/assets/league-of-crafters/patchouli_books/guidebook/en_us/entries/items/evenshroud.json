@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.evenshroud",
+  "icon": "league-of-crafters:evenshroud",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:evenshroud",
+      "text": "entry.league-of-crafters.item_evenshroud.desc"
+    }
+  ]
+}

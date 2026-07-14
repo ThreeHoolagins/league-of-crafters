@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.bastionbreaker",
+  "icon": "league-of-crafters:bastionbreaker",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:bastionbreaker",
+      "text": "entry.league-of-crafters.item_bastionbreaker.desc"
+    }
+  ]
+}

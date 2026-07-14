@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.the_golden_spatula",
+  "icon": "league-of-crafters:the_golden_spatula",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:the_golden_spatula",
+      "text": "entry.league-of-crafters.item_the_golden_spatula.desc"
+    }
+  ]
+}

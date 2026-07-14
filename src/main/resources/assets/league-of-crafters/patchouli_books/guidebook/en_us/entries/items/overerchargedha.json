@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.overerchargedha",
+  "icon": "league-of-crafters:overerchargedha",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:overerchargedha",
+      "text": "entry.league-of-crafters.item_overerchargedha.desc"
+    }
+  ]
+}

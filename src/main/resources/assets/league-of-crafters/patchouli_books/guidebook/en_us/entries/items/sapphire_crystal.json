@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.sapphire_crystal",
+  "icon": "league-of-crafters:sapphire_crystal",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:sapphire_crystal",
+      "text": "entry.league-of-crafters.item_sapphire_crystal.desc"
+    }
+  ]
+}

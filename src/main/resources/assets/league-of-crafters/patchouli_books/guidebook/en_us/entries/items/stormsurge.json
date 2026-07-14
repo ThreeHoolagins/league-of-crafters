@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.stormsurge",
+  "icon": "league-of-crafters:stormsurge",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:stormsurge",
+      "text": "entry.league-of-crafters.item_stormsurge.desc"
+    }
+  ]
+}

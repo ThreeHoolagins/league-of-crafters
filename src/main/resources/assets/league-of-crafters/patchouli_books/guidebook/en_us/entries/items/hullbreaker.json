@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.hullbreaker",
+  "icon": "league-of-crafters:hullbreaker",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:hullbreaker",
+      "text": "entry.league-of-crafters.item_hullbreaker.desc"
+    }
+  ]
+}

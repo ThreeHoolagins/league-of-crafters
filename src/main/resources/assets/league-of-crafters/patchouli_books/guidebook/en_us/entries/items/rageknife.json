@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.rageknife",
+  "icon": "league-of-crafters:rageknife",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:rageknife",
+      "text": "entry.league-of-crafters.item_rageknife.desc"
+    }
+  ]
+}

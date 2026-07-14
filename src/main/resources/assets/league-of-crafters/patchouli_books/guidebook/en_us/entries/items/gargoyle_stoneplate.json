@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.gargoyle_stoneplate",
+  "icon": "league-of-crafters:gargoyle_stoneplate",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:gargoyle_stoneplate",
+      "text": "entry.league-of-crafters.item_gargoyle_stoneplate.desc"
+    }
+  ]
+}

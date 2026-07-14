@@ -1,0 +1,16 @@
+{
+  "name": "entry.league-of-crafters.stat_conversion",
+  "icon": "league-of-crafters:infinity_edge",
+  "category": "league-of-crafters:stats",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "entry.league-of-crafters.stat_conversion.page1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "entry.league-of-crafters.stat_conversion.page2"
+    }
+  ]
+}

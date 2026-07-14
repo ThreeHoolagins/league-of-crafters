@@ -10,6 +10,8 @@ import java.util.*;
 public class ModItems {
     private static final Map<String, Item> ITEMS = new LinkedHashMap<>();
 
+    public static final Item LEAGUE_COIN = registerItem("league_coin");
+    public static final Item GUIDEBOOK = registerItem("guidebook");
     public static final Item ABYSSAL_MASK = registerItem("abyssal_mask");
     public static final Item ACTUALIZER = registerItem("actualizer");
     public static final Item AETHER_WISP = registerItem("aether_wisp");

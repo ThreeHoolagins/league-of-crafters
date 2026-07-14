@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.solstice_sleigh",
+  "icon": "league-of-crafters:solstice_sleigh",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:solstice_sleigh",
+      "text": "entry.league-of-crafters.item_solstice_sleigh.desc"
+    }
+  ]
+}

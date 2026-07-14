@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.horizon_focus",
+  "icon": "league-of-crafters:horizon_focus",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:horizon_focus",
+      "text": "entry.league-of-crafters.item_horizon_focus.desc"
+    }
+  ]
+}

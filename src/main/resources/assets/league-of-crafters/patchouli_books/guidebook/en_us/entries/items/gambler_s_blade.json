@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.gambler_s_blade",
+  "icon": "league-of-crafters:gambler_s_blade",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:gambler_s_blade",
+      "text": "entry.league-of-crafters.item_gambler_s_blade.desc"
+    }
+  ]
+}

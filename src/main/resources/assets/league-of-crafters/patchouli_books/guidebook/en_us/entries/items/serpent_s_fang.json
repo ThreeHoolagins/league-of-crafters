@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.serpent_s_fang",
+  "icon": "league-of-crafters:serpent_s_fang",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:serpent_s_fang",
+      "text": "entry.league-of-crafters.item_serpent_s_fang.desc"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.blasting_wand",
+  "icon": "league-of-crafters:blasting_wand",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:blasting_wand",
+      "text": "entry.league-of-crafters.item_blasting_wand.desc"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.malignance",
+  "icon": "league-of-crafters:malignance",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:malignance",
+      "text": "entry.league-of-crafters.item_malignance.desc"
+    }
+  ]
+}

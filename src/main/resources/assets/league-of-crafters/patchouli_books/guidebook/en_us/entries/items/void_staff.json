@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.void_staff",
+  "icon": "league-of-crafters:void_staff",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:void_staff",
+      "text": "entry.league-of-crafters.item_void_staff.desc"
+    }
+  ]
+}

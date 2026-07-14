@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.bulwark_of_the_mountain",
+  "icon": "league-of-crafters:bulwark_of_the_mountain",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:bulwark_of_the_mountain",
+      "text": "entry.league-of-crafters.item_bulwark_of_the_mountain.desc"
+    }
+  ]
+}

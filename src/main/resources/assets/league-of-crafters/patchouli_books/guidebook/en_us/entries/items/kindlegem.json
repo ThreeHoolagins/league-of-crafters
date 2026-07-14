@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.kindlegem",
+  "icon": "league-of-crafters:kindlegem",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:kindlegem",
+      "text": "entry.league-of-crafters.item_kindlegem.desc"
+    }
+  ]
+}

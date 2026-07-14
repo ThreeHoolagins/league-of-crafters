@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.shield_of_the_rakkor",
+  "icon": "league-of-crafters:shield_of_the_rakkor",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:shield_of_the_rakkor",
+      "text": "entry.league-of-crafters.item_shield_of_the_rakkor.desc"
+    }
+  ]
+}

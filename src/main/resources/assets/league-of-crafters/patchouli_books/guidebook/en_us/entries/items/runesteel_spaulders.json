@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.runesteel_spaulders",
+  "icon": "league-of-crafters:runesteel_spaulders",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:runesteel_spaulders",
+      "text": "entry.league-of-crafters.item_runesteel_spaulders.desc"
+    }
+  ]
+}

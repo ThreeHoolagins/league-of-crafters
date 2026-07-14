@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.celestial_opposition",
+  "icon": "league-of-crafters:celestial_opposition",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:celestial_opposition",
+      "text": "entry.league-of-crafters.item_celestial_opposition.desc"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.catalyst_of_aeons",
+  "icon": "league-of-crafters:catalyst_of_aeons",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:catalyst_of_aeons",
+      "text": "entry.league-of-crafters.item_catalyst_of_aeons.desc"
+    }
+  ]
+}

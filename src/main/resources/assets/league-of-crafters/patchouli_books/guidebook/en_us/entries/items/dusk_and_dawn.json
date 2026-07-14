@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.dusk_and_dawn",
+  "icon": "league-of-crafters:dusk_and_dawn",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:dusk_and_dawn",
+      "text": "entry.league-of-crafters.item_dusk_and_dawn.desc"
+    }
+  ]
+}

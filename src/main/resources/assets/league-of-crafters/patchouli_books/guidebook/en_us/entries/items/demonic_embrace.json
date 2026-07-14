@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.demonic_embrace",
+  "icon": "league-of-crafters:demonic_embrace",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:demonic_embrace",
+      "text": "entry.league-of-crafters.item_demonic_embrace.desc"
+    }
+  ]
+}

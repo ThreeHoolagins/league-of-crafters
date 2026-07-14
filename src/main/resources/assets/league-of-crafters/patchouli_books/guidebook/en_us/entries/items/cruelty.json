@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.cruelty",
+  "icon": "league-of-crafters:cruelty",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:cruelty",
+      "text": "entry.league-of-crafters.item_cruelty.desc"
+    }
+  ]
+}

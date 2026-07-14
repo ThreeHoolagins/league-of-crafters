@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.ironspike_whip",
+  "icon": "league-of-crafters:ironspike_whip",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:ironspike_whip",
+      "text": "entry.league-of-crafters.item_ironspike_whip.desc"
+    }
+  ]
+}

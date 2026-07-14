@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.faerie_charm",
+  "icon": "league-of-crafters:faerie_charm",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:faerie_charm",
+      "text": "entry.league-of-crafters.item_faerie_charm.desc"
+    }
+  ]
+}

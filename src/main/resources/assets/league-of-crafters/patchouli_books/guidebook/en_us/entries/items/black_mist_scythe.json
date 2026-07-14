@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.black_mist_scythe",
+  "icon": "league-of-crafters:black_mist_scythe",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:black_mist_scythe",
+      "text": "entry.league-of-crafters.item_black_mist_scythe.desc"
+    }
+  ]
+}

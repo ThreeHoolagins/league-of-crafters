@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.ardent_censer",
+  "icon": "league-of-crafters:ardent_censer",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:ardent_censer",
+      "text": "entry.league-of-crafters.item_ardent_censer.desc"
+    }
+  ]
+}

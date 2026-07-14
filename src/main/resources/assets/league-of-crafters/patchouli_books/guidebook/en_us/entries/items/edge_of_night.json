@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.edge_of_night",
+  "icon": "league-of-crafters:edge_of_night",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:edge_of_night",
+      "text": "entry.league-of-crafters.item_edge_of_night.desc"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.serylda_s_grudge",
+  "icon": "league-of-crafters:serylda_s_grudge",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:serylda_s_grudge",
+      "text": "entry.league-of-crafters.item_serylda_s_grudge.desc"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.obsidian_edge",
+  "icon": "league-of-crafters:obsidian_edge",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:obsidian_edge",
+      "text": "entry.league-of-crafters.item_obsidian_edge.desc"
+    }
+  ]
+}

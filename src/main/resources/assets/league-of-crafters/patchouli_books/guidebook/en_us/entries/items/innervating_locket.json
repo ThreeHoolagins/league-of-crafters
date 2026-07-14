@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.innervating_locket",
+  "icon": "league-of-crafters:innervating_locket",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:innervating_locket",
+      "text": "entry.league-of-crafters.item_innervating_locket.desc"
+    }
+  ]
+}

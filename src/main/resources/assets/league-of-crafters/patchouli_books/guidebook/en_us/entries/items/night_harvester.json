@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.night_harvester",
+  "icon": "league-of-crafters:night_harvester",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:night_harvester",
+      "text": "entry.league-of-crafters.item_night_harvester.desc"
+    }
+  ]
+}

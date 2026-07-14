@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.mortal_reminder",
+  "icon": "league-of-crafters:mortal_reminder",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:mortal_reminder",
+      "text": "entry.league-of-crafters.item_mortal_reminder.desc"
+    }
+  ]
+}

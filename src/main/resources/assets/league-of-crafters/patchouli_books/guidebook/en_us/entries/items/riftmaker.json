@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.riftmaker",
+  "icon": "league-of-crafters:riftmaker",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:riftmaker",
+      "text": "entry.league-of-crafters.item_riftmaker.desc"
+    }
+  ]
+}

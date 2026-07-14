@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.scout_s_slingshot",
+  "icon": "league-of-crafters:scout_s_slingshot",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:scout_s_slingshot",
+      "text": "entry.league-of-crafters.item_scout_s_slingshot.desc"
+    }
+  ]
+}

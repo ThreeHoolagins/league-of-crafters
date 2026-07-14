@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.dawncore",
+  "icon": "league-of-crafters:dawncore",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:dawncore",
+      "text": "entry.league-of-crafters.item_dawncore.desc"
+    }
+  ]
+}

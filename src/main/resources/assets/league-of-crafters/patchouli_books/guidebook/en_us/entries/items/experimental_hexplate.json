@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.experimental_hexplate",
+  "icon": "league-of-crafters:experimental_hexplate",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:experimental_hexplate",
+      "text": "entry.league-of-crafters.item_experimental_hexplate.desc"
+    }
+  ]
+}

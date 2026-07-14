@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.titanic_hydra",
+  "icon": "league-of-crafters:titanic_hydra",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:titanic_hydra",
+      "text": "entry.league-of-crafters.item_titanic_hydra.desc"
+    }
+  ]
+}

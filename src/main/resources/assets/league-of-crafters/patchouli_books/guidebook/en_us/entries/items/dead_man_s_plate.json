@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.dead_man_s_plate",
+  "icon": "league-of-crafters:dead_man_s_plate",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:dead_man_s_plate",
+      "text": "entry.league-of-crafters.item_dead_man_s_plate.desc"
+    }
+  ]
+}

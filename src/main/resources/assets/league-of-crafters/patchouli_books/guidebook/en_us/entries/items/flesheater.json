@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.flesheater",
+  "icon": "league-of-crafters:flesheater",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:flesheater",
+      "text": "entry.league-of-crafters.item_flesheater.desc"
+    }
+  ]
+}

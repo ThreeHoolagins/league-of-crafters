@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.zephyr",
+  "icon": "league-of-crafters:zephyr",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:zephyr",
+      "text": "entry.league-of-crafters.item_zephyr.desc"
+    }
+  ]
+}

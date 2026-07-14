@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.echoes_of_helia",
+  "icon": "league-of-crafters:echoes_of_helia",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:echoes_of_helia",
+      "text": "entry.league-of-crafters.item_echoes_of_helia.desc"
+    }
+  ]
+}

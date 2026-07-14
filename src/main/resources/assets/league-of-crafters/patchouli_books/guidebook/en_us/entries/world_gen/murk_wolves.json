@@ -1,0 +1,12 @@
+{
+  "name": "entry.league-of-crafters.murk_wolves",
+  "icon": "league-of-crafters:long_sword",
+  "category": "league-of-crafters:world_gen",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "entry.league-of-crafters.murk_wolves.page1"
+    }
+  ]
+}

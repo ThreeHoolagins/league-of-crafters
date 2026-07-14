@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.phantom_dancer",
+  "icon": "league-of-crafters:phantom_dancer",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:phantom_dancer",
+      "text": "entry.league-of-crafters.item_phantom_dancer.desc"
+    }
+  ]
+}

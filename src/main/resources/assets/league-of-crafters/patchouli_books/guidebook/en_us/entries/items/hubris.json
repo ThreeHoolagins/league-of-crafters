@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.hubris",
+  "icon": "league-of-crafters:hubris",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:hubris",
+      "text": "entry.league-of-crafters.item_hubris.desc"
+    }
+  ]
+}

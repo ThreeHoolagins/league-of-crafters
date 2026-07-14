@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.twin_mask",
+  "icon": "league-of-crafters:twin_mask",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:twin_mask",
+      "text": "entry.league-of-crafters.item_twin_mask.desc"
+    }
+  ]
+}

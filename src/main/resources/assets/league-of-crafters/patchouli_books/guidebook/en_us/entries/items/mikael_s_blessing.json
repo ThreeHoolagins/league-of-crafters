@@ -1,0 +1,12 @@
+{
+  "name": "item.league-of-crafters.mikael_s_blessing",
+  "icon": "league-of-crafters:mikael_s_blessing",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:mikael_s_blessing",
+      "text": "entry.league-of-crafters.item_mikael_s_blessing.desc"
+    }
+  ]
+}
