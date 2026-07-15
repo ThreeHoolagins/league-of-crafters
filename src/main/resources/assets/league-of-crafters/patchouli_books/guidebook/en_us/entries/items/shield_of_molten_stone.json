@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:shield_of_molten_stone",
-      "text": "entry.league-of-crafters.item_shield_of_molten_stone.desc"
+      "text": "Gold: Total: 2500g (Base: 2500g, Sell: 1000g)\nStats: Health: 250, Armor: 80\nTags: Health, Armor\n\n[Passive] Immovable as the Earth: Increase your armor by 20%, and gain Block Chance based on your Armor."
     }
   ]
 }

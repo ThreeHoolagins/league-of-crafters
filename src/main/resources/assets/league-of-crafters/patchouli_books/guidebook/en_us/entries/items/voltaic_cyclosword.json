@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:voltaic_cyclosword",
-      "text": "entry.league-of-crafters.item_voltaic_cyclosword.desc"
+      "text": "Gold: Total: 3000g (Base: 963g, Sell: 2100g)\nStats: Attack Damage: 55\nTags: Damage, Active, CooldownReduction, ArmorPenetration, AbilityHaste\n\n[Passive] Galvanize: Damaging an Enemy Champions with an ability triggers Energized if it is ready.\n\n[Passive] Firmament: Your Energized Attack deals % target's Current Health as bonus physical damage and grants you bonus Lethality for 4 seconds."
     }
   ]
 }

@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:malignance",
-      "text": "entry.league-of-crafters.item_malignance.desc"
+      "text": "Gold: Total: 2700g (Base: 650g, Sell: 1890g)\nStats: Mana: 600, Ability Power: 90\nTags: SpellDamage, Mana, AbilityHaste\n\n[Passive] Scorn: Gain 20 Ultimate Ability Haste.\n\n[Passive] Hatefog: Damaging a champion with your Ultimate burns the ground beneath them for 3s, dealing magic damage per second and reducing their Magic Resist."
     }
   ]
 }

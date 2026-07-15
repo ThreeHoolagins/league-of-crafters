@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:plated_steelcaps",
-      "text": "entry.league-of-crafters.item_plated_steelcaps.desc"
+      "text": "Gold: Total: 1200g (Base: 600g, Sell: 840g)\nStats: Move Speed: 45, Armor: 25\nTags: Armor, Boots\n\n[Passive] Plating: Reduces incoming damage from Attacks by 10%."
     }
   ]
 }

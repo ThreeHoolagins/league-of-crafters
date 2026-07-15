@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:sword_of_the_divine",
-      "text": "entry.league-of-crafters.item_sword_of_the_divine.desc"
+      "text": "Gold: Total: 2500g (Base: 2500g, Sell: 1000g)\nStats: Critical Strike Chance: 50%\nTags: Damage, CriticalStrike, SpellDamage\n\n[Passive] Excoriate: Each Critical strike deals random bonus Critical Strike Damage, scaling up to 50% of your Critical Strike Chance."
     }
   ]
 }

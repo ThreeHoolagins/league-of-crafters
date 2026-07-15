@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:chainlaced_crushers",
-      "text": "entry.league-of-crafters.item_chainlaced_crushers.desc"
+      "text": "Gold: Total: 1250g (Base: 0g, Sell: 875g)\nStats: Magic Resist: 30, Move Speed: 45\nTags: SpellBlock, Boots, Tenacity, MagicResist\n\n[Passive] Noxian Persistence: (0s) After taking magic damage from a Champion, gain a magic shield for 5 seconds."
     }
   ]
 }

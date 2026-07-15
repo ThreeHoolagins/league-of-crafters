@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:mejai_s_soulstealer",
-      "text": "entry.league-of-crafters.item_mejai_s_soulstealer.desc"
+      "text": "Gold: Total: 1500g (Base: 1150g, Sell: 1050g)\nStats: Health: 100, Ability Power: 20\nTags: Health, SpellDamage, NonbootsMovement\n\n[Passive] Glory: Takedowns grant\n\n[Passive] Glory: , up to 25. 10\n\n[Passive] Glory: is lost on death. Gain 5 Ability Power per\n\n[Passive] Glory: and 10% Move Speed at 10 or higher\n\n[Passive] Glory: ."
     }
   ]
 }

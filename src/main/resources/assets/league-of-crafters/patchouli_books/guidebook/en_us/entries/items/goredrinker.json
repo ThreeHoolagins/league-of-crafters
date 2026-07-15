@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:goredrinker",
-      "text": "entry.league-of-crafters.item_goredrinker.desc"
+      "text": "Gold: Total: 3200g (Sell: 2240g)\nStats: Health: 400, Attack Damage: 55\nTags: Health, Damage, LifeSteal, Active, CooldownReduction, SpellVamp, AbilityHaste\n\n[Active] Thirsting Slash: Deal damage to nearby enemies. Restore Health for each champion hit."
     }
   ]
 }

@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:hullbreaker",
-      "text": "entry.league-of-crafters.item_hullbreaker.desc"
+      "text": "Gold: Total: 3000g (Base: 175g, Sell: 2100g)\nStats: Health: 500, Attack Damage: 40, Move Speed: 4%\nTags: Health, Damage, NonbootsMovement\n\n[Passive] Skipper: Every fifth Attack against champions and epic monsters deals bonus physical damage, increased against Structures.\n\n[Passive] Boarding Party: Nearby allied siege and super minions gain Armor and Magic Resist."
     }
   ]
 }

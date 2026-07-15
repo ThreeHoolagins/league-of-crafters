@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:muramana",
-      "text": "entry.league-of-crafters.item_muramana.desc"
+      "text": "Gold: Total: 2900g (Sell: 2030g)\nStats: Mana: 1000, Attack Damage: 35\nTags: Damage, Mana, CooldownReduction, OnHit, ArmorPenetration\n\n[Passive] Awe: Gain 2% max Mana as bonus Attack Damage.\n\n[Passive] Shock: Attacks against champions deal 1.2% max Mana as bonus physical damage On-Hit. Damaging Abilities against champions deal 3% - 4% max Mana as bonus physical damage."
     }
   ]
 }

@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:atma_s_reckoning",
-      "text": "entry.league-of-crafters.item_atma_s_reckoning.desc"
+      "text": "Gold: Total: 2900g (Base: 500g, Sell: 2030g)\nStats: Health: 700, Critical Strike Chance: 20%\nTags: Health, CriticalStrike\n\n[Passive] Big Hands: Gain 0-30% Critical Strike Chance, scaling with your bonus Health."
     }
   ]
 }

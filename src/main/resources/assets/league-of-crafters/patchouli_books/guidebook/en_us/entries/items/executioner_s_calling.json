@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:executioner_s_calling",
-      "text": "entry.league-of-crafters.item_executioner_s_calling.desc"
+      "text": "Gold: Total: 800g (Base: 450g, Sell: 560g)\nStats: Attack Damage: 15\nTags: Damage\n\n[Passive] Grievous Wounds: Dealing physical damage to champions applies 40% Wounds for 3 seconds."
     }
   ]
 }

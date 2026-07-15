@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:mercurial_scimitar",
-      "text": "entry.league-of-crafters.item_mercurial_scimitar.desc"
+      "text": "Gold: Total: 3200g (Base: 125g, Sell: 2240g)\nStats: Magic Resist: 35, Attack Damage: 50, Life Steal: 10%\nTags: SpellBlock, Damage, LifeSteal, Active, NonbootsMovement, Tenacity\n\n[Active] Quicksilver: Removes all crowd control debuffs (excluding Airborne) and grants Move Speed."
     }
   ]
 }

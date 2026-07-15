@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:wooglet_s_witchcap",
-      "text": "entry.league-of-crafters.item_wooglet_s_witchcap.desc"
+      "text": "Gold: Total: 6000g (Base: 6000g, Sell: 4200g)\nStats: Ability Power: 300, Armor: 50\nTags: Armor, SpellDamage, Active\n\n[Passive] Magical Opus: Increases your total Ability Power by 50% (0).\n\n[Active] Time Stop: Enter Stasis for 2.5 seconds."
     }
   ]
 }

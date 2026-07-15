@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:luden_s_echo",
-      "text": "entry.league-of-crafters.item_luden_s_echo.desc"
+      "text": "Gold: Total: 2750g (Base: 450g, Sell: 1925g)\nStats: Mana: 600, Ability Power: 100\nTags: SpellDamage, Mana, CooldownReduction, AbilityHaste\n\n[Passive] Echo: Damaging Abilities fire 6 Echoes that deal bonus magic damage to the target and nearby enemies. Remaining Echoes fire on the primary target, dealing 20% damage."
     }
   ]
 }

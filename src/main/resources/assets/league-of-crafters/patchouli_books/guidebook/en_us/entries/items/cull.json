@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:cull",
-      "text": "entry.league-of-crafters.item_cull.desc"
+      "text": "Gold: Total: 450g (Base: 450g, Sell: 180g)\nStats: Attack Damage: 7\nTags: Damage, OnHit, Lane\n\n[Passive] Reap: Restore 3 Health On-Hit. Killing minions grants 1 gold, up to 100. Reaching the limit grants another 350 gold."
     }
   ]
 }

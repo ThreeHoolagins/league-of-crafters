@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:zeal",
-      "text": "entry.league-of-crafters.item_zeal.desc"
+      "text": "Gold: Total: 1200g (Base: 350g, Sell: 840g)\nStats: Critical Strike Chance: 15%, Attack Speed: 15%, Move Speed: 4%\nTags: CriticalStrike, AttackSpeed, NonbootsMovement"
     }
   ]
 }

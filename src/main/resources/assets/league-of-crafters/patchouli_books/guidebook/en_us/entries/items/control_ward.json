@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:control_ward",
-      "text": "entry.league-of-crafters.item_control_ward.desc"
+      "text": "Gold: Total: 75g (Base: 75g, Sell: 30g)\nStats: No stats\nTags: Consumable, Lane, Stealth, Vision\n\n[Active] Consume: Places a Control Ward that grants vision and reveals enemy Stealth Wards, traps and Camouflaged enemies."
     }
   ]
 }

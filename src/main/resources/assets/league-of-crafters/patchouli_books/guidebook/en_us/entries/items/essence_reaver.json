@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:essence_reaver",
-      "text": "entry.league-of-crafters.item_essence_reaver.desc"
+      "text": "Gold: Total: 3050g (Base: 500g, Sell: 2135g)\nStats: Critical Strike Chance: 25%, Attack Damage: 50\nTags: Damage, CriticalStrike, ManaRegen, CooldownReduction, OnHit, AbilityHaste\n\n[Passive] Spellblade: After using an Ability, your next Attack deals bonus physical damage and grants Mana On-Hit."
     }
   ]
 }

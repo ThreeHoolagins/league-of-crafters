@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:haunting_guise",
-      "text": "entry.league-of-crafters.item_haunting_guise.desc"
+      "text": "Gold: Total: 1300g (Base: 500g, Sell: 910g)\nStats: Health: 200, Ability Power: 30\nTags: Health, SpellDamage\n\n[Passive] Madness: For each second in combat with enemy champions, deal 2% bonus damage, up to 6%."
     }
   ]
 }

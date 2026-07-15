@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:spectral_cutlass",
-      "text": "entry.league-of-crafters.item_spectral_cutlass.desc"
+      "text": "Gold: Total: 2800g (Base: 200g, Sell: 1960g)\nStats: Attack Damage: 50, Move Speed: 4%\nTags: Damage, NonbootsMovement, ArmorPenetration\n\n[Active] Soul Anchor: (0s) Mark your current location. After 4 seconds, return to that location. You may recast at any point during\n\n[Active] Soul Anchor's: duration to return to your marked location early."
     }
   ]
 }

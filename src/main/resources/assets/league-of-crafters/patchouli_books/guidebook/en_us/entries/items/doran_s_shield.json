@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:doran_s_shield",
-      "text": "entry.league-of-crafters.item_doran_s_shield.desc"
+      "text": "Gold: Total: 450g (Base: 450g, Sell: 180g)\nStats: Health: 110, Health Regen: 80%\nTags: Health, HealthRegen, Lane\n\n[Passive] Enduring Focus: Restore 4 Health every 5 seconds. After taking damage from a champion, restore Health over 8 seconds.\n\n[Passive] Helping Hand: Attacks deal 5 bonus physical damage to minions."
     }
   ]
 }

@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:rejuvenation_bead",
-      "text": "entry.league-of-crafters.item_rejuvenation_bead.desc"
+      "text": "Gold: Total: 300g (Base: 300g, Sell: 120g)\nStats: No stats\nTags: HealthRegen"
     }
   ]
 }

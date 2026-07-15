@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:fimbulwinter",
-      "text": "entry.league-of-crafters.item_fimbulwinter.desc"
+      "text": "Gold: Total: 2400g (Sell: 1680g)\nStats: Mana: 1000, Health: 550\nTags: Health, Mana, AbilityHaste\n\n[Passive] Awe: Gain Health.\n\n[Passive] Everlasting: (0s) Immobilizing or Slowing (Melee only) an enemy champion grants a Shield for 3 seconds. The Shield is increased by 80% if more than one enemy is nearby."
     }
   ]
 }

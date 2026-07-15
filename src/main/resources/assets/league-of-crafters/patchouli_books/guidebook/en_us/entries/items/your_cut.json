@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:your_cut",
-      "text": "entry.league-of-crafters.item_your_cut.desc"
+      "text": "Gold: Total: 0g (Sell: 0g)\nStats: No stats\nTags: Consumable, GoldPer\n\n[Active] Active - Consume: Gain 0 gold. Bonus gold given to an ally when Pyke executes an enemy champion using his Ultimate Ability. If no ally was involved in the kill, Pyke gets to keep the Cut!"
     }
   ]
 }

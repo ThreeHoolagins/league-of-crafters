@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:tiamat",
-      "text": "entry.league-of-crafters.item_tiamat.desc"
+      "text": "Gold: Total: 1200g (Base: 500g, Sell: 840g)\nStats: Attack Damage: 20\nTags: Damage, OnHit\n\n[Passive] Cleave: Attacks deal physical damage to nearby enemies.\n\n[Active] Crescent: Deal physical damage to enemies around you."
     }
   ]
 }

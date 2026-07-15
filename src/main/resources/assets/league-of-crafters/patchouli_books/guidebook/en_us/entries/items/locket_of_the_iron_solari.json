@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:locket_of_the_iron_solari",
-      "text": "entry.league-of-crafters.item_locket_of_the_iron_solari.desc"
+      "text": "Gold: Total: 2600g (Base: 1100g, Sell: 1820g)\nStats: Magic Resist: 30, Health: 250, Armor: 30\nTags: Health, SpellBlock, Armor, Aura, Active, MagicResist, AbilityHaste\n\n[Active] Devotion: Grant nearby allies a 290 - 360 Shield that decays over 2.5 seconds."
     }
   ]
 }

@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:shard_of_true_ice",
-      "text": "entry.league-of-crafters.item_shard_of_true_ice.desc"
+      "text": "Gold: Total: 400g (Sell: 160g)\nStats: Health: 75, Ability Power: 40\nTags: GoldPer, Lane, ManaRegen, SpellDamage\n\n[Active] Ward: Place an Invisible Stealth Ward that grants vision. Stores 0 Stealth Wards, which refill upon visiting the shop."
     }
   ]
 }

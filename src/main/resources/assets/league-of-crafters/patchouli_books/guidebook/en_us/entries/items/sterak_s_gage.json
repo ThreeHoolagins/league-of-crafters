@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:sterak_s_gage",
-      "text": "entry.league-of-crafters.item_sterak_s_gage.desc"
+      "text": "Gold: Total: 3200g (Base: 775g, Sell: 2240g)\nStats: Health: 400\nTags: Health, Damage, Tenacity\n\n[Passive] The Claws that Catch: Gain bonus Attack Damage.\n\n[Passive] Lifeline: Taking damage that would reduce your Health below 30% grants a decaying Shield for 4.5 seconds."
     }
   ]
 }

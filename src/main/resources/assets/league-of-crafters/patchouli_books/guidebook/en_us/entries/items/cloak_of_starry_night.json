@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:cloak_of_starry_night",
-      "text": "entry.league-of-crafters.item_cloak_of_starry_night.desc"
+      "text": "Gold: Total: 2500g (Base: 2500g, Sell: 1000g)\nStats: Magic Resist: 60, Health: 250\nTags: Health, SpellBlock\n\n[Passive] Limitless as the Stars: Increase your Magic Resist by 10%. Reduce all damage you take from non-Basic Attack sources by a percentage, scaling with your Magic Resist up to a cap of 25%."
     }
   ]
 }

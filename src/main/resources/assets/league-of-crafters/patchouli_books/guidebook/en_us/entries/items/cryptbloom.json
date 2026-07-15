@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:cryptbloom",
-      "text": "entry.league-of-crafters.item_cryptbloom.desc"
+      "text": "Gold: Total: 3000g (Base: 200g, Sell: 2100g)\nStats: Ability Power: 75\nTags: SpellDamage, MagicPenetration, AbilityHaste\n\n[Passive] Life from Death: When a champion that you damaged within 3 seconds dies, a nova spreads from their corpse that heals."
     }
   ]
 }

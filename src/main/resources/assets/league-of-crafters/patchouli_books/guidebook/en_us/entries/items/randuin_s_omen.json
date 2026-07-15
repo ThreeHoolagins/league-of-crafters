@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:randuin_s_omen",
-      "text": "entry.league-of-crafters.item_randuin_s_omen.desc"
+      "text": "Gold: Total: 2700g (Base: 800g, Sell: 1890g)\nStats: Health: 350, Armor: 75\nTags: Health, Armor, Active, Slow\n\n[Passive] Resilience: Receive 30% less damage from Critical Strikes.\n\n[Active] Humility: Slow nearby enemies by 70% for 2 seconds."
     }
   ]
 }

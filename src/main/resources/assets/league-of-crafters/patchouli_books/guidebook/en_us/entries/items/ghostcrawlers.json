@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:ghostcrawlers",
-      "text": "entry.league-of-crafters.item_ghostcrawlers.desc"
+      "text": "Gold: Total: 1000g (Base: 700g, Sell: 700g)\nStats: Move Speed: 45\nTags: Boots\n\n[Active] Wall Walk: (0s) Gain the ability to walk through walls for 6 seconds. While inside walls, gain 125 move speed. Casting a spell or attacking will end this effect."
     }
   ]
 }

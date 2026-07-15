@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:stirring_wardstone",
-      "text": "entry.league-of-crafters.item_stirring_wardstone.desc"
+      "text": "Gold: Total: 350g (Sell: 140g)\nStats: Health: 80\nTags: Health, Damage, SpellDamage, ManaRegen, Vision, Active, CooldownReduction, AbilityHaste\n\n[Passive] Arcane Cache: This item can store up to 2 purchased Control Wards."
     }
   ]
 }

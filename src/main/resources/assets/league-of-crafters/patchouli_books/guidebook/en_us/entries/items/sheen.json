@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:sheen",
-      "text": "entry.league-of-crafters.item_sheen.desc"
+      "text": "Gold: Total: 900g (Base: 650g, Sell: 630g)\nStats: No stats\nTags: OnHit, AbilityHaste\n\n[Passive] Spellblade: After using an Ability, your next Attack deals bonus physical damage On-Hit."
     }
   ]
 }

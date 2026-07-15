@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:black_mist_scythe",
-      "text": "entry.league-of-crafters.item_black_mist_scythe.desc"
+      "text": "Gold: Total: 400g (Sell: 160g)\nStats: Health: 75, Attack Damage: 20\nTags: Health, ManaRegen, GoldPer, Lane\n\n[Active] Ward: Place an Invisible Stealth Ward that grants vision. Stores 0 Stealth Wards, which refill upon visiting the shop."
     }
   ]
 }

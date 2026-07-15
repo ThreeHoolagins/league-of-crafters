@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:crimson_lucidity",
-      "text": "entry.league-of-crafters.item_crimson_lucidity.desc"
+      "text": "Gold: Total: 900g (Base: 0g, Sell: 630g)\nStats: Move Speed: 45\nTags: CooldownReduction, Boots\n\n[Passive] Ionian Insight: Gain 20 Summoner Spell Haste.\n\n[Passive] Noxian Haste: Empowering or protecting allies with abilities, dealing damage to enemy Champions with abilities, or casting a Summoner Spell grants Move Speed for 4 seconds. Noxian Haste can only be triggered once per Ability cast."
     }
   ]
 }

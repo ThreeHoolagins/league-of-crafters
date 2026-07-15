@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:relic_shield",
-      "text": "entry.league-of-crafters.item_relic_shield.desc"
+      "text": "Gold: Total: 400g (Sell: 160g)\nStats: Health: 50, Ability Power: 7\nTags: Health, HealthRegen, SpellDamage, Vision, GoldPer, Lane\n\n[Passive] Quest: Earn 500 gold from this item to transform it into Targon's Buckler, gaining {{ Item_Active_Named_NoBullet }}\n\n[Active] Warding: . {{ Item_Support_Minion_Warning }}"
     }
   ]
 }

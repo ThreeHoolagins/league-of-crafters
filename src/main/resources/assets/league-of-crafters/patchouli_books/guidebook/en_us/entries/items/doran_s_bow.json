@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:doran_s_bow",
-      "text": "entry.league-of-crafters.item_doran_s_bow.desc"
+      "text": "Gold: Total: 400g (Base: 400g, Sell: 160g)\nStats: Attack Damage: 8, Attack Speed: 15%\nTags: Damage, AttackSpeed, SpellVamp, Lane"
     }
   ]
 }

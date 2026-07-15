@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:spear_of_shojin",
-      "text": "entry.league-of-crafters.item_spear_of_shojin.desc"
+      "text": "Gold: Total: 3100g (Base: 675g, Sell: 2170g)\nStats: Health: 450, Attack Damage: 45\nTags: Health, Damage, AbilityHaste\n\n[Passive] Dragonforce: Gain 25 Basic Ability Haste.\n\n[Passive] Focused Will: Dealing damage with Abilities increases your Champion's Ability and Passive damage by 3% for 6 seconds. (stacks 4 times)."
     }
   ]
 }

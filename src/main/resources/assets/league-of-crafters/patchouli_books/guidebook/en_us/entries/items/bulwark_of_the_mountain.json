@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:bulwark_of_the_mountain",
-      "text": "entry.league-of-crafters.item_bulwark_of_the_mountain.desc"
+      "text": "Gold: Total: 400g (Sell: 160g)\nStats: Health: 250, Ability Power: 20\nTags: Health, HealthRegen, GoldPer, Lane\n\n[Active] Ward: Place an Invisible Stealth Ward that grants vision. Stores 0 Stealth Wards, which refill upon visiting the shop."
     }
   ]
 }

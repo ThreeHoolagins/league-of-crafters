@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:elixir_of_sorcery",
-      "text": "entry.league-of-crafters.item_elixir_of_sorcery.desc"
+      "text": "Gold: Total: 500g (Base: 500g, Sell: 200g)\nStats: No stats\nTags: Consumable, ManaRegen, SpellDamage\n\n[Active] Consume: Grants 50 Ability Power and 15% Mana Regen for 3 minutes. While active, damaging a champion or turret deals 25 bonus true damage (5s against champions)."
     }
   ]
 }

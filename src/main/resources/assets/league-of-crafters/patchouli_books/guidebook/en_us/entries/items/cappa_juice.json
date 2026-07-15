@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:cappa_juice",
-      "text": "entry.league-of-crafters.item_cappa_juice.desc"
+      "text": "Gold: Total: 300g (Base: 300g, Sell: 300g)\nStats: No stats\nTags: Damage, Consumable\n\n[Active] Active - Consume: This juice does nothing."
     }
   ]
 }

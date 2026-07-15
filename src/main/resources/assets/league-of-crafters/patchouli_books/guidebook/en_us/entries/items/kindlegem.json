@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:kindlegem",
-      "text": "entry.league-of-crafters.item_kindlegem.desc"
+      "text": "Gold: Total: 800g (Base: 150g, Sell: 560g)\nStats: Health: 200\nTags: Health, CooldownReduction, AbilityHaste"
     }
   ]
 }

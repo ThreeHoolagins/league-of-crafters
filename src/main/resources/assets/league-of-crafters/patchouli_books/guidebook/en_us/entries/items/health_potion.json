@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:health_potion",
-      "text": "entry.league-of-crafters.item_health_potion.desc"
+      "text": "Gold: Total: 50g (Base: 50g, Sell: 20g)\nStats: No stats\nTags: HealthRegen, Consumable, Lane, Jungle\n\n[Active] Consume: Restores 120 Health over 15 seconds."
     }
   ]
 }

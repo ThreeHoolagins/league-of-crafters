@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:dark_seal",
-      "text": "entry.league-of-crafters.item_dark_seal.desc"
+      "text": "Gold: Total: 350g (Base: 350g, Sell: 140g)\nStats: Health: 50, Ability Power: 15\nTags: Health, SpellDamage, Lane\n\n[Passive] Glory: Takedowns grant\n\n[Passive] Glory: , up to 10. 5\n\n[Passive] Glory: is lost on death. Gain 4 Ability Power per\n\n[Passive] Glory: ."
     }
   ]
 }

@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:nashor_s_tooth",
-      "text": "entry.league-of-crafters.item_nashor_s_tooth.desc"
+      "text": "Gold: Total: 2900g (Base: 500g, Sell: 2030g)\nStats: Ability Power: 80, Attack Speed: 50%\nTags: AttackSpeed, SpellDamage, OnHit, AbilityHaste\n\n[Passive] Icathian Bite: Attacks deal bonus magic damage On-Hit."
     }
   ]
 }

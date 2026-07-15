@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:quicksilver_sash",
-      "text": "entry.league-of-crafters.item_quicksilver_sash.desc"
+      "text": "Gold: Total: 1300g (Base: 900g, Sell: 910g)\nStats: Magic Resist: 30\nTags: Active, SpellBlock\n\n[Active] Quicksilver: Remove all crowd control debuffs (excluding Airborne)."
     }
   ]
 }

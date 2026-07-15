@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:deathfire_grasp",
-      "text": "entry.league-of-crafters.item_deathfire_grasp.desc"
+      "text": "Gold: Total: 2900g (Base: 850g, Sell: 2030g)\nStats: Ability Power: 120\nTags: SpellDamage, CooldownReduction\n\n[Active] The Silence: Deal magic damage equal to 15% of the Target's Max Health, and then amplify damage they take by 15% for 4 seconds (90(0s))."
     }
   ]
 }

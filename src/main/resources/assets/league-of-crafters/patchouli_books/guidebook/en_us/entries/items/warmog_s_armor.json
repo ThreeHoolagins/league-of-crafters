@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:warmog_s_armor",
-      "text": "entry.league-of-crafters.item_warmog_s_armor.desc"
+      "text": "Gold: Total: 3100g (Base: 500g, Sell: 2170g)\nStats: Health: 1000\nTags: Health, HealthRegen\n\n[Passive] Warmog's Heart: If you have 2000 bonus Health and have not taken damage within 8 seconds, restore Health per second.\n\n[Passive] Warmog's Vitality: Gain bonus Health equal to 12% of your Item Health (0)."
     }
   ]
 }

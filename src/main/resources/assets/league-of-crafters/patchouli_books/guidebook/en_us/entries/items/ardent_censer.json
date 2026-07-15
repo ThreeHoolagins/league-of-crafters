@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:ardent_censer",
-      "text": "entry.league-of-crafters.item_ardent_censer.desc"
+      "text": "Gold: Total: 2600g (Base: 700g, Sell: 1820g)\nStats: Ability Power: 55, Move Speed: 6%\nTags: AttackSpeed, SpellDamage, ManaRegen, NonbootsMovement\n\n[Passive] Sanctify: Healing or Shielding an ally enhances you both for 6 seconds, granting 25% Attack Speed and 20 magic damage On-Hit."
     }
   ]
 }

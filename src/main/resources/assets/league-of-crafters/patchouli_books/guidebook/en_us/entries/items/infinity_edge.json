@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:infinity_edge",
-      "text": "entry.league-of-crafters.item_infinity_edge.desc"
+      "text": "Gold: Total: 3500g (Base: 725g, Sell: 2450g)\nStats: Critical Strike Chance: 25%, Attack Damage: 75\nTags: CriticalStrike, Damage"
     }
   ]
 }

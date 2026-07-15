@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:stealth_ward",
-      "text": "entry.league-of-crafters.item_stealth_ward.desc"
+      "text": "Gold: Total: 0g (Base: 0g, Sell: 0g)\nStats: No stats\nTags: Active, Jungle, Lane, Trinket, Vision\n\n[Active] Active: (210 - 90s, max 2 charges) Places an Invisible Stealth Ward that grants vision for 90-120 seconds."
     }
   ]
 }

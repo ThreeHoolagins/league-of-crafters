@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:everfrost",
-      "text": "entry.league-of-crafters.item_everfrost.desc"
+      "text": "Gold: Total: 2865g (Sell: 2006g)\nStats: Mana: 600, Health: 250, Ability Power: 70\nTags: Health, SpellDamage, Mana, Active, CooldownReduction, Slow, AbilityHaste\n\n[Active] Glaciate: Deal damage in a cone, Slowing enemies hit. Enemies at the center of the cone are Rooted instead."
     }
   ]
 }

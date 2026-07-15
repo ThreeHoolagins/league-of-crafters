@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:chalice_of_blessing",
-      "text": "entry.league-of-crafters.item_chalice_of_blessing.desc"
+      "text": "Gold: Total: 900g (Sell: 630g)\nStats: Health: 200\nTags: Health, ManaRegen\n\n[Passive] Harmony: Gain 25% Base Health Regen per 25% Base Mana Regen. 'These blessed waters still carry their power to the worthy.'"
     }
   ]
 }

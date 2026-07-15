@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:kaenic_rookern",
-      "text": "entry.league-of-crafters.item_kaenic_rookern.desc"
+      "text": "Gold: Total: 2900g (Base: 800g, Sell: 2030g)\nStats: Magic Resist: 80, Health: 400\nTags: Health, SpellBlock, HealthRegen\n\n[Passive] Magebane: After not taking magic damage for 15 seconds, gain a magic shield."
     }
   ]
 }

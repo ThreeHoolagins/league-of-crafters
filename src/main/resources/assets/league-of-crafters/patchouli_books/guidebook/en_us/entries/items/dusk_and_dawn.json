@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:dusk_and_dawn",
-      "text": "entry.league-of-crafters.item_dusk_and_dawn.desc"
+      "text": "Gold: Total: 3100g (Base: 300g, Sell: 2170g)\nStats: Health: 300, Ability Power: 60, Attack Speed: 20%\nTags: Health, AttackSpeed, SpellDamage, OnHit, AbilityHaste\n\n[Passive] Spellblade: (0s) After using an Ability, your next Attack deals bonus magic damage and heals you for On-Hit and then applies On-Hit effects an additional time."
     }
   ]
 }

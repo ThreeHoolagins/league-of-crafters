@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:shattered_armguard",
-      "text": "entry.league-of-crafters.item_shattered_armguard.desc"
+      "text": "Gold: Total: 1600g (Base: 500g, Sell: 640g)\nStats: Ability Power: 40, Armor: 25\n\n[Passive] Shattered Time: Armguard is broken, but can still be upgraded. After breaking one Armguard, the shopkeeper will only sell you Shattered Armguard."
     }
   ]
 }

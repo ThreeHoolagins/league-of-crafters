@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:bandlepipes",
-      "text": "entry.league-of-crafters.item_bandlepipes.desc"
+      "text": "Gold: Total: 2300g (Base: 800g, Sell: 1610g)\nStats: Magic Resist: 20, Health: 200, Armor: 20\nTags: Health, SpellBlock, Armor, AttackSpeed, NonbootsMovement, AbilityHaste\n\n[Passive] Fanfare: Slowing or Immobilizing an enemy champion grants Fanfare for seconds. Fanfare grants you 20 Move Speed. While you have Fanfare, nearby allies, including yourself, gain Attack Speed."
     }
   ]
 }

@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:elixir_of_force",
-      "text": "entry.league-of-crafters.item_elixir_of_force.desc"
+      "text": "Gold: Total: 50g (Sell: 20g)\nStats: No stats\nTags: Consumable, Tenacity\n\n[Active] Consume: Grants 25 Adaptive Force for 60 seconds."
     }
   ]
 }

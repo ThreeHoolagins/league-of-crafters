@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:guardian_s_orb",
-      "text": "entry.league-of-crafters.item_guardian_s_orb.desc"
+      "text": "Gold: Total: 950g (Base: 950g, Sell: 665g)\nStats: Health: 150, Ability Power: 50\nTags: Health, SpellDamage, ManaRegen, Lane\n\n[Passive] Recovery: Restores 10 Mana every 5 seconds. If you can't gain mana, restores 15 Health instead."
     }
   ]
 }

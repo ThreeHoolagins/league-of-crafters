@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:slightly_magical_footwear",
-      "text": "entry.league-of-crafters.item_slightly_magical_footwear.desc"
+      "text": "Gold: Total: 300g (Sell: 90g)\nStats: Move Speed: 25\nTags: Boots\n\n[Passive] Effect: Grants an additional 10 Move Speed. Boots that build from Slightly Magical Footwear retain this bonus Move Speed."
     }
   ]
 }

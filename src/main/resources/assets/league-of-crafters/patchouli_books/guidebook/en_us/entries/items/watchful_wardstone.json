@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:watchful_wardstone",
-      "text": "entry.league-of-crafters.item_watchful_wardstone.desc"
+      "text": "Gold: Total: 1100g (Base: 1100g, Sell: 770g)\nStats: Magic Resist: 15, Health: 150, Armor: 10\nTags: Health, SpellBlock, Armor, Vision, Active, CooldownReduction, AbilityHaste\n\n[Passive] Arcane Cache: This item can store up to 3 purchased Control Wards."
     }
   ]
 }

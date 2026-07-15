@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:horizon_focus",
-      "text": "entry.league-of-crafters.item_horizon_focus.desc"
+      "text": "Gold: Total: 2700g (Base: 600g, Sell: 1890g)\nStats: Ability Power: 75\nTags: SpellDamage, AbilityHaste\n\n[Passive] Hypershot: Dealing Ability damage to champions at 600 range or greater Reveals them for 6 seconds.\n\n[Passive] Focus: When\n\n[Passive] Hypershot: is triggered, Reveal all other enemy champions within 1400 range of them for 3 seconds."
     }
   ]
 }

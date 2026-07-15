@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:sundered_sky",
-      "text": "entry.league-of-crafters.item_sundered_sky.desc"
+      "text": "Gold: Total: 3100g (Base: 500g, Sell: 2170g)\nStats: Health: 400, Attack Damage: 45\nTags: Health, Damage, CooldownReduction, AbilityHaste\n\n[Passive] Lightshield Strike: Your first Attack against a champion Critically Strikes and restores Health."
     }
   ]
 }

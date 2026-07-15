@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:spellthief_s_edge",
-      "text": "entry.league-of-crafters.item_spellthief_s_edge.desc"
+      "text": "Gold: Total: 400g (Sell: 160g)\nStats: Health: 25, Ability Power: 10\nTags: Health, SpellDamage, ManaRegen, Vision, GoldPer, Lane\n\n[Passive] Tribute: While nearby an ally champion, damaging Abilities and Attacks against champions or buildings grant 20 gold. This can occur up to 3 times every 36 seconds.\n\n[Passive] Quest: Earn 500 gold from this item to transform it into Frostfang, gaining\n\n[Active] Warding: . This item grants reduced gold from minions if anyone on your team with this item kill excessive numbers of them."
     }
   ]
 }

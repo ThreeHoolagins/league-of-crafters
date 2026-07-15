@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:bloodthirster",
-      "text": "entry.league-of-crafters.item_bloodthirster.desc"
+      "text": "Gold: Total: 3400g (Base: 325g, Sell: 2380g)\nStats: Attack Damage: 80, Life Steal: 15%\nTags: Damage, LifeSteal\n\n[Passive] Ichorshield: Convert excess healing from your Lifesteal to a Shield."
     }
   ]
 }

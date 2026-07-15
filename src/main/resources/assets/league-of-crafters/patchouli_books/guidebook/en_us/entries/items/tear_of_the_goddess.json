@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:tear_of_the_goddess",
-      "text": "entry.league-of-crafters.item_tear_of_the_goddess.desc"
+      "text": "Gold: Total: 400g (Base: 400g, Sell: 280g)\nStats: Mana: 240\nTags: Mana, ManaRegen\n\n[Passive] Manaflow: (8s, max 4 charges) Landing Abilities grants 3 max Mana (doubled vs. champions), up to 360.\n\n[Passive] Helping Hand: Attacks deal an additional 5 physical damage to minions."
     }
   ]
 }

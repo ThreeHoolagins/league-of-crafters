@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:doran_s_blade",
-      "text": "entry.league-of-crafters.item_doran_s_blade.desc"
+      "text": "Gold: Total: 450g (Base: 450g, Sell: 180g)\nStats: Health: 80, Attack Damage: 10\nTags: Health, Damage, LifeSteal, SpellVamp, Lane"
     }
   ]
 }

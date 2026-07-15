@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:guardian_s_blade",
-      "text": "entry.league-of-crafters.item_guardian_s_blade.desc"
+      "text": "Gold: Total: 950g (Base: 950g, Sell: 665g)\nStats: Health: 150, Attack Damage: 30\nTags: Health, Damage, Lane, AbilityHaste"
     }
   ]
 }

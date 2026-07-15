@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:edge_of_night",
-      "text": "entry.league-of-crafters.item_edge_of_night.desc"
+      "text": "Gold: Total: 3000g (Base: 850g, Sell: 2100g)\nStats: Health: 250, Attack Damage: 50\nTags: Health, Damage, ArmorPenetration\n\n[Passive] Annul: Grants a Spell Shield that blocks the next enemy Ability."
     }
   ]
 }

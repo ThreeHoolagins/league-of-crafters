@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:jak_sho_the_protean",
-      "text": "entry.league-of-crafters.item_jak_sho_the_protean.desc"
+      "text": "Gold: Total: 3200g (Base: 650g, Sell: 2240g)\nStats: Magic Resist: 45, Health: 350, Armor: 45\nTags: Health, SpellBlock, Armor, MagicResist\n\n[Passive] Voidborn Resilience: After 5 seconds of champion combat, increase your bonus Armor and Magic Resist by 30% until end of combat."
     }
   ]
 }

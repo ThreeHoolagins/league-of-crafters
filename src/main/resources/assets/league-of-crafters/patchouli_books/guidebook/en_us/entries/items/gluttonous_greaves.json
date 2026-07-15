@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:gluttonous_greaves",
-      "text": "entry.league-of-crafters.item_gluttonous_greaves.desc"
+      "text": "Gold: Total: 1000g (Base: 700g, Sell: 700g)\nStats: Move Speed: 45\nTags: LifeSteal, SpellVamp, Boots\n\n[Passive] Slay: Gain 0.6% Omnivamp on Champion takedown, stacking up to 10 times."
     }
   ]
 }

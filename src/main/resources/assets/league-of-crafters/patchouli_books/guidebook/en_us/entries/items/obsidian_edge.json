@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:obsidian_edge",
-      "text": "entry.league-of-crafters.item_obsidian_edge.desc"
+      "text": "Gold: Total: 350g (Base: 350g, Sell: 140g)\nStats: No stats\nTags: LifeSteal, SpellVamp, Jungle\n\n[Passive] 8%: Omnivamp against jungle monsters\n\n[Passive] Sear: Damaging jungle monsters burns them for magic damage over 5 seconds.\n\n[Passive] Auto Path: Smiting 5 times consumes this item and upgrades your Attack-Smite, increasing its damage to monsters to 900.\n\n[Passive] Huntsman: Killing large jungle monsters grants bonus experience.\n\n[Passive] Recoup: Regen up to Mana (based on missing mana) per second when in the jungle or river. Consuming this item grants all item effects permanently and increases Smite damage to monsters. If you have gained more gold from minions than jungle monsters, gold and experience from minions is heavily reduced. Healing is not reduced on AoE attacks. If two levels behind the average champion level of the game, monster kills grant bonus experience."
     }
   ]
 }

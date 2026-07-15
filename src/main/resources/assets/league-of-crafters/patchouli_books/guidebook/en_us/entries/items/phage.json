@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:phage",
-      "text": "entry.league-of-crafters.item_phage.desc"
+      "text": "Gold: Total: 1100g (Base: 350g, Sell: 770g)\nStats: Health: 200, Attack Damage: 15\nTags: Health, Damage, NonbootsMovement\n\n[Passive] Rage: Attacking grants Move Speed for 2 seconds."
     }
   ]
 }

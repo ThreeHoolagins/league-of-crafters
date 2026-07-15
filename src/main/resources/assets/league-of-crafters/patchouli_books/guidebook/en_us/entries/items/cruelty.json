@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:cruelty",
-      "text": "entry.league-of-crafters.item_cruelty.desc"
+      "text": "Gold: Total: 2500g (Base: 2500g, Sell: 1000g)\nStats: Magic Resist: 25, Ability Power: 60, Armor: 25\nTags: Armor, SpellDamage, MagicResist\n\n[Passive] Watch Them Fall: On Immobilize or Grounding an enemy champion, summon a comet above them. The comet lands after 1 second, dealing additional magic damage in the area. This effect has a 6s cooldown per target per spell cast."
     }
   ]
 }

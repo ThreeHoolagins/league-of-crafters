@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:hextech_alternator",
-      "text": "entry.league-of-crafters.item_hextech_alternator.desc"
+      "text": "Gold: Total: 1100g (Base: 300g, Sell: 770g)\nStats: Ability Power: 45\nTags: SpellDamage\n\n[Passive] Revved: Damaging a champion deals bonus magic damage."
     }
   ]
 }

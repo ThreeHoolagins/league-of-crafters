@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:liandry_s_torment",
-      "text": "entry.league-of-crafters.item_liandry_s_torment.desc"
+      "text": "Gold: Total: 3000g (Base: 800g, Sell: 2100g)\nStats: Health: 300, Ability Power: 60\nTags: Health, SpellDamage\n\n[Passive] Torment: Damaging Abilities burn enemies for 2% max Health magic damage per second for 3 seconds.\n\n[Passive] Suffering: For each second in combat with enemy champions, deal 2% bonus damage, up to 6%."
     }
   ]
 }

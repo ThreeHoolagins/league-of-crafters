@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:glacial_buckler",
-      "text": "entry.league-of-crafters.item_glacial_buckler.desc"
+      "text": "Gold: Total: 900g (Base: 50g, Sell: 630g)\nStats: Mana: 300, Armor: 25\nTags: Armor, Mana, CooldownReduction, AbilityHaste"
     }
   ]
 }

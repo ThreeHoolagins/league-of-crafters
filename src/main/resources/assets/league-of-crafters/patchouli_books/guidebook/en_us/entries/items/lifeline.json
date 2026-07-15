@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:lifeline",
-      "text": "entry.league-of-crafters.item_lifeline.desc"
+      "text": "Gold: Total: 1600g (Base: 475g, Sell: 1120g)\nStats: Attack Damage: 25, Move Speed: 4%\nTags: Damage, NonbootsMovement, ArmorPenetration\n\n[Active] Soul Anchor: (0s) Mark your current location. After 4 seconds, return to that location. You may recast at any point during\n\n[Active] Soul Anchor's: duration to return to your marked location early."
     }
   ]
 }

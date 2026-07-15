@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:opportunity",
-      "text": "entry.league-of-crafters.item_opportunity.desc"
+      "text": "Gold: Total: 2700g (Sell: 1890g)\nStats: Attack Damage: 55\nTags: Damage, Active, NonbootsMovement, ArmorPenetration\n\n[Passive] Preparation: After being out of combat with Champions for 8 seconds gain Lethality. This Lethality lasts for 3 seconds after dealing damage to champions.\n\n[Passive] Extraction: When a champion that you damaged within 3 seconds dies, gain 200 decaying Move Speed for 1.5 seconds."
     }
   ]
 }

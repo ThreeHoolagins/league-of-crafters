@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:bami_s_cinder",
-      "text": "entry.league-of-crafters.item_bami_s_cinder.desc"
+      "text": "Gold: Total: 900g (Base: 250g, Sell: 630g)\nStats: Health: 150\nTags: Health, AbilityHaste\n\n[Passive] Immolate: After taking or dealing damage, deal magic damage to nearby enemies for 3 seconds."
     }
   ]
 }

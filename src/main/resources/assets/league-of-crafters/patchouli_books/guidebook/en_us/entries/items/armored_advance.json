@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:armored_advance",
-      "text": "entry.league-of-crafters.item_armored_advance.desc"
+      "text": "Gold: Total: 1200g (Base: 0g, Sell: 840g)\nStats: Move Speed: 45, Armor: 35\nTags: Armor, Boots\n\n[Passive] Plating: Reduces incoming damage from Attacks by 10%.\n\n[Passive] Noxian Endurance: (0s) After taking physical damage from a Champion, gain a physical shield for 5 seconds."
     }
   ]
 }

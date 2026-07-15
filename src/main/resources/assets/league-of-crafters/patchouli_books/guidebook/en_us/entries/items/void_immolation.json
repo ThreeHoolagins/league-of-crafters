@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:void_immolation",
-      "text": "entry.league-of-crafters.item_void_immolation.desc"
+      "text": "Gold: Total: 6000g (Base: 6000g, Sell: 4200g)\nStats: Magic Resist: 80, Health: 1000, Armor: 100\nTags: Health, SpellBlock, HealthRegen, Armor, Aura, CooldownReduction, MagicResist, AbilityHaste\n\n[Passive] Immolate: After taking or dealing damage, deal magic damage per second to nearby enemies for 5 seconds.\n\n[Passive] Desolate: Killing an enemy deals magic damage around them."
     }
   ]
 }

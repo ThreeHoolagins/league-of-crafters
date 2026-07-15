@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:black_cleaver",
-      "text": "entry.league-of-crafters.item_black_cleaver.desc"
+      "text": "Gold: Total: 3000g (Base: 225g, Sell: 2100g)\nStats: Health: 400, Attack Damage: 40\nTags: Health, Damage, CooldownReduction, OnHit, NonbootsMovement, ArmorPenetration, AbilityHaste\n\n[Passive] Carve: Dealing physical damage to champions reduces the target's Armor by 6% for 6 seconds. (stacks 5 times).\n\n[Passive] Fervor: Dealing physical damage grants 20 Move Speed for 2 seconds."
     }
   ]
 }

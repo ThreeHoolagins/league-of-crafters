@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:unending_despair",
-      "text": "entry.league-of-crafters.item_unending_despair.desc"
+      "text": "Gold: Total: 2800g (Base: 800g, Sell: 1960g)\nStats: Health: 400, Armor: 50\nTags: Health, Armor, CooldownReduction, AbilityHaste\n\n[Passive] Anguish: Every 4 seconds while in combat with champions, deal magic damage to nearby enemy champions and heal for 250% of the damage dealt."
     }
   ]
 }

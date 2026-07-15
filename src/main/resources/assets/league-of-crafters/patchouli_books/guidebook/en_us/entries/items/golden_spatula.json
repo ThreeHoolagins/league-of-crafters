@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:golden_spatula",
-      "text": "entry.league-of-crafters.item_golden_spatula.desc"
+      "text": "Gold: Total: 2500g (Base: 2500g, Sell: 1750g)\nStats: Magic Resist: 20, Mana: 200, Health: 200, Ability Power: 110, Armor: 20, Critical Strike Chance: 15%, Attack Damage: 90, Attack Speed: 40%, Life Steal: 10%, Move Speed: 10%\nTags: Health, SpellBlock, HealthRegen, Armor, Damage, CriticalStrike, AttackSpeed, LifeSteal, SpellDamage, Mana, ManaRegen, CooldownReduction, NonbootsMovement\n\n[Passive] Doing Something: You are permanently On Fire! \"It must do something... Declined, it does EVERYTHING\""
     }
   ]
 }

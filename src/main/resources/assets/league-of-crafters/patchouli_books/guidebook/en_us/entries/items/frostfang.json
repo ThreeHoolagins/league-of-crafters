@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:frostfang",
-      "text": "entry.league-of-crafters.item_frostfang.desc"
+      "text": "Gold: Total: 400g (Sell: 160g)\nStats: Health: 70, Ability Power: 15\nTags: GoldPer, Lane, ManaRegen, SpellDamage\n\n[Passive] Tribute: While nearby an ally champion, damaging Abilities and Attacks against champions or buildings grant 20 gold. This can occur up to 3 times every 36 seconds.\n\n[Passive] Quest: Earn 1000 gold from this item to transform it into World Rune T2. This item grants reduced gold from minions if anyone on your team with this item kill excessive numbers of them.\n\n[Active] Ward: Place an Invisible Stealth Ward that grants vision. Stores 0 Stealth Wards, which refill upon visiting the shop."
     }
   ]
 }

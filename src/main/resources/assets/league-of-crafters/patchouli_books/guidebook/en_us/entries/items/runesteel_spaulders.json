@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:runesteel_spaulders",
-      "text": "entry.league-of-crafters.item_runesteel_spaulders.desc"
+      "text": "Gold: Total: 400g (Sell: 160g)\nStats: Health: 100, Attack Damage: 6\nTags: Health, HealthRegen, GoldPer, Lane\n\n[Passive] Spoils of War: While nearby an allied champion, Attacks execute minions below 0% of their max Health. Killing a minion grants the same kill gold to the nearest allied champion. These effects recharge every 0 seconds (Max 0 charges).\n\n[Passive] Quest: Earn 1000 gold from this item to transform it into Pauldrons of Whiterock. This item grants reduced gold from minions if anyone on your team with this item kill excessive numbers of them.\n\n[Active] Ward: Place an Invisible Stealth Ward that grants vision. Stores 0 Stealth Wards, which refill upon visiting the shop."
     }
   ]
 }

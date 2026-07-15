@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:morellonomicon",
-      "text": "entry.league-of-crafters.item_morellonomicon.desc"
+      "text": "Gold: Total: 2850g (Base: 400g, Sell: 1995g)\nStats: Health: 350, Ability Power: 75\nTags: Health, SpellDamage, CooldownReduction, AbilityHaste\n\n[Passive] Grievous Wounds: Dealing magic damage to champions applies 40% Wounds for 3 seconds."
     }
   ]
 }

@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:lightning_braid",
-      "text": "entry.league-of-crafters.item_lightning_braid.desc"
+      "text": "Gold: Total: 3000g (Base: 3000g, Sell: 2100g)\nStats: Magic Resist: 30, Ability Power: 70, Armor: 30\nTags: SpellBlock, Armor, SpellDamage, Tenacity\n\n[Passive] Chain Lightning: You deal 20% reduced ability damage. On a 1 second cadence, enemies you've damaged with abilities chain 66.6% of the ability damage you've dealt them to another nearby enemy, prioritizing champions."
     }
   ]
 }

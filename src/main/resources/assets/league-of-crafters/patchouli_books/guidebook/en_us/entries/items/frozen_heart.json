@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:frozen_heart",
-      "text": "entry.league-of-crafters.item_frozen_heart.desc"
+      "text": "Gold: Total: 2700g (Base: 800g, Sell: 1890g)\nStats: Mana: 500, Armor: 75\nTags: Armor, Mana, Aura, CooldownReduction, AbilityHaste\n\n[Passive] Winter's Caress: Reduce the Attack Speed of nearby champions by 20%."
     }
   ]
 }

@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:hollow_radiance",
-      "text": "entry.league-of-crafters.item_hollow_radiance.desc"
+      "text": "Gold: Total: 2800g (Base: 650g, Sell: 1960g)\nStats: Magic Resist: 40, Health: 400\nTags: Health, SpellBlock, HealthRegen, Aura, MagicResist, AbilityHaste\n\n[Passive] Immolate: After taking or dealing damage, deal magic damage per second to nearby enemies for 3 seconds.\n\n[Passive] Desolate: Killing an enemy deals magic damage around them."
     }
   ]
 }

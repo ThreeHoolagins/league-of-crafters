@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:elixir_of_iron",
-      "text": "entry.league-of-crafters.item_elixir_of_iron.desc"
+      "text": "Gold: Total: 500g (Base: 500g, Sell: 200g)\nStats: No stats\nTags: Health, Consumable, NonbootsMovement, Tenacity\n\n[Active] Consume: Grants 300 Health, 25% Tenacity and increased size for 3 minutes. While active, you leave a path behind that boosts allied champions' Move Speed by 15%."
     }
   ]
 }

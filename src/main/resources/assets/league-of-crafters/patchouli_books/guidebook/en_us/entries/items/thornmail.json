@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:thornmail",
-      "text": "entry.league-of-crafters.item_thornmail.desc"
+      "text": "Gold: Total: 2650g (Base: 650g, Sell: 1855g)\nStats: Health: 200, Armor: 85\nTags: Health, Armor\n\n[Passive] Thorns: When struck by an Attack, deal magic damage to the attacker and apply 40% Wounds for 3 seconds if they are a champion."
     }
   ]
 }

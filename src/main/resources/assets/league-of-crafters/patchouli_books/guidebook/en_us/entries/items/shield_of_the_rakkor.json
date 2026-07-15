@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:shield_of_the_rakkor",
-      "text": "entry.league-of-crafters.item_shield_of_the_rakkor.desc"
+      "text": "Gold: Total: 2675g (Sell: 1873g)\nStats: Armor: 30, Attack Damage: 50, Move Speed: 5%\nTags: Armor, Damage, Active, CooldownReduction, ArmorPenetration, AbilityHaste\n\n[Passive] Aegis: Every 8(0s), block the first Attack that would hit you. While the shield is broken, your first attack against a champion refunds 50% of its current Cooldown and grants 20% Movement Speed for a short duration."
     }
   ]
 }

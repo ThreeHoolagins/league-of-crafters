@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:dream_maker",
-      "text": "entry.league-of-crafters.item_dream_maker.desc"
+      "text": "Gold: Total: 400g (Base: 0g, Sell: 160g)\nStats: Health: 200\nTags: Health, HealthRegen, ManaRegen, Vision, GoldPer, Lane\n\n[Passive] Dream Maker: Healing or Shielding another ally blows Dream Bubbles to them for 3 seconds. Their next Attack deals bonus magic damage On-Hit and the next damage they take is reduced.\n\n[Active] Active: (4 charges) Places an Invisible Stealth Ward that grants vision."
     }
   ]
 }

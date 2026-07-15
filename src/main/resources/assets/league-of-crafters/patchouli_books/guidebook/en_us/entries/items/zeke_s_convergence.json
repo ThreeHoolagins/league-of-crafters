@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:zeke_s_convergence",
-      "text": "entry.league-of-crafters.item_zeke_s_convergence.desc"
+      "text": "Gold: Total: 2300g (Base: 800g, Sell: 1610g)\nStats: Magic Resist: 30, Health: 350, Armor: 30\nTags: Health, SpellBlock, Armor, AbilityHaste\n\n[Passive] Frostfire Tempest: Casting your Ultimate summons a storm around you for 5 seconds. The storm deals 30 magic damage per second to enemy champions and Slows them by 30%."
     }
   ]
 }

@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:kraken_slayer",
-      "text": "entry.league-of-crafters.item_kraken_slayer.desc"
+      "text": "Gold: Total: 3000g (Base: 325g, Sell: 2100g)\nStats: Attack Damage: 45, Attack Speed: 40%, Move Speed: 4%\nTags: Damage, AttackSpeed, OnHit, NonbootsMovement\n\n[Passive] Bring It Down: Every third Attack deals bonus physical damage On-Hit, increased based on their missing Health."
     }
   ]
 }

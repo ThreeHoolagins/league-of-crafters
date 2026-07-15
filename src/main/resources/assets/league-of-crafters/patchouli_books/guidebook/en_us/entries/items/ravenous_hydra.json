@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:ravenous_hydra",
-      "text": "entry.league-of-crafters.item_ravenous_hydra.desc"
+      "text": "Gold: Total: 3300g (Base: 150g, Sell: 2310g)\nStats: Attack Damage: 65, Life Steal: 12%\nTags: Damage, LifeSteal, CooldownReduction, OnHit, AbilityHaste\n\n[Passive] Cleave: Attacks deal physical damage to nearby enemies.\n\n[Active] Ravenous Crescent: Deal physical damage to enemies around you. Your Life Steal applies to this damage."
     }
   ]
 }

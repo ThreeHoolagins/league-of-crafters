@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:frozen_mallet",
-      "text": "entry.league-of-crafters.item_frozen_mallet.desc"
+      "text": "Gold: Total: 3000g (Sell: 2100g)\nStats: Health: 600, Attack Speed: 60%\nTags: Health, Damage, AttackSpeed, Slow\n\n[Passive] Encroaching Frost: On-Hit, apply a stacking {{ Item_Melee_Ranged_Split }} move speed slow for 1.5 seconds. This effect stacks up to 35%. {{ Item_Melee_Ranged_Rules }}"
     }
   ]
 }

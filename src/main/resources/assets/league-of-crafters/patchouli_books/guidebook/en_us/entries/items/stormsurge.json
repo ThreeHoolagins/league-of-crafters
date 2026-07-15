@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:stormsurge",
-      "text": "entry.league-of-crafters.item_stormsurge.desc"
+      "text": "Gold: Total: 2800g (Base: 800g, Sell: 1960g)\nStats: Ability Power: 90, Move Speed: 6%\nTags: SpellDamage, GoldPer, NonbootsMovement, MagicPenetration\n\n[Passive] Stormraider: Dealing 25% of a champion's maximum Health within 2.5s applies\n\n[Passive] Squall: to them.\n\n[Passive] Squall: After 2 seconds, deal magic damage. If the target dies before\n\n[Passive] Squall: triggers, it damages nearby enemies."
     }
   ]
 }

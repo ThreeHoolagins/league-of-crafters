@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:imperial_mandate",
-      "text": "entry.league-of-crafters.item_imperial_mandate.desc"
+      "text": "Gold: Total: 2400g (Base: 700g, Sell: 1680g)\nStats: Ability Power: 60\nTags: SpellDamage, ManaRegen, CooldownReduction, AbilityHaste\n\n[Passive] Control: Gain 20 Ability Haste for your abilities with Immobilizing effects.\n\n[Passive] Command: On Immobilizing an enemy champion, mark them as 7% Vulnerable for 4 seconds."
     }
   ]
 }
