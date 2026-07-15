@@ -325,6 +325,8 @@
 4. Look into adding champions as possible boss mobs with their own structures
 5. Set up NEI compatibility
 6. Set up a Patchouli-based in-game guidebook (like Ars Nouveau's Worn Notebook) that documents all items, recipes, crafting mechanics, and world generation. The book would be a craftable item with JSON-driven categories and entries, and the wiki could be auto-generated from the same Patchouli source files.
+7. Add tower or nexus world generation with minions that regularly spawn and push along set paths
+8. Add towers that attack players on sight, functioning as defensive structures that must be destroyed to progress
 
 ## Setup
 
