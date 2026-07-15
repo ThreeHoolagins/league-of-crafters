@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:last_whisper",
-      "text": "Gold: Total: 1450g (Base: 750g, Sell: 1015g)\nStats: Attack Damage: 20\nTags: ArmorPenetration, Damage"
+      "text": "Gold: Total: 1450g (Base: 750g, Sell: 1015g)$(br)Stats: Attack Damage: 20$(br)Tags: ArmorPenetration, Damage"
     }
   ]
 }

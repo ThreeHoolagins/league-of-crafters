@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:crown_of_the_shattered_queen",
-      "text": "Gold: Total: 2500g (Base: 2500g, Sell: 1000g)\nStats: Mana: 600, Health: 250, Ability Power: 65\nTags: Health, SpellDamage, Mana, AbilityHaste\n\n[Passive] Safeguard: You are Safeguarded, reducing incoming champion damage by 40%. Safeguard persists for 3 seconds after taking champion damage. (0s). Item Cooldown is restarted when damage is taken from champions."
+      "text": "Gold: Total: 2500g (Base: 2500g, Sell: 1000g)$(br)Stats: Mana: 600, Health: 250, Ability Power: 65$(br)Tags: Health, SpellDamage, Mana, AbilityHaste$(br2)[Passive] Safeguard: You are Safeguarded, reducing incoming champion damage by 40%. Safeguard persists for 3 seconds after taking champion damage. (0s). Item Cooldown is restarted when damage is taken from champions."
     }
   ]
 }

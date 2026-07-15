@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:serylda_s_grudge",
-      "text": "Gold: Total: 3000g (Base: 500g, Sell: 2100g)\nStats: Attack Damage: 45\nTags: Damage, CooldownReduction, ArmorPenetration, AbilityHaste\n\n[Passive] Bitter Cold: Damaging Abilities Slow enemies below 50% Health by 30% for 1 second."
+      "text": "Gold: Total: 3000g (Base: 500g, Sell: 2100g)$(br)Stats: Attack Damage: 45$(br)Tags: Damage, CooldownReduction, ArmorPenetration, AbilityHaste$(br2)[Passive] Bitter Cold: Damaging Abilities Slow enemies below 50% Health by 30% for 1 second."
     }
   ]
 }

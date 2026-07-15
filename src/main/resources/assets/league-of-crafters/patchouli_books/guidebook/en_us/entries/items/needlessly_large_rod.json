@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:needlessly_large_rod",
-      "text": "Gold: Total: 1200g (Base: 1200g, Sell: 840g)\nStats: Ability Power: 65\nTags: SpellDamage"
+      "text": "Gold: Total: 1200g (Base: 1200g, Sell: 840g)$(br)Stats: Ability Power: 65$(br)Tags: SpellDamage"
     }
   ]
 }

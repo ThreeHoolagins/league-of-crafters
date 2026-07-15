@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:statikk_shiv",
-      "text": "Gold: Total: 3000g (Base: 625g, Sell: 2100g)\nStats: Ability Power: 45, Attack Damage: 45, Attack Speed: 30%, Move Speed: 4%\nTags: Damage, AttackSpeed, SpellDamage, OnHit, NonbootsMovement\n\n[Passive] Electrospark: Your Energized Attacks fire chain lightning, applying On-Hit effects and dealing magic damage to nearby targets.\n\n[Passive] Electroshock: Basic Attacks grant extra Energized stacks."
+      "text": "Gold: Total: 3000g (Base: 625g, Sell: 2100g)$(br)Stats: Ability Power: 45, Attack Damage: 45, Attack Speed: 30%, Move Speed: 4%$(br)Tags: Damage, AttackSpeed, SpellDamage, OnHit, NonbootsMovement$(br2)[Passive] Electrospark: Your Energized Attacks fire chain lightning, applying On-Hit effects and dealing magic damage to nearby targets.$(br2)[Passive] Electroshock: Basic Attacks grant extra Energized stacks."
     }
   ]
 }

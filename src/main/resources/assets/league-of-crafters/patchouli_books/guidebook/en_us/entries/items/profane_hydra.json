@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:profane_hydra",
-      "text": "Gold: Total: 2850g (Base: 313g, Sell: 1995g)\nStats: Attack Damage: 55\nTags: Damage, Active, CooldownReduction, ArmorPenetration, AbilityHaste\n\n[Passive] Cleave: Attacks deal physical damage to nearby enemies.\n\n[Active] Heretical Cleave: Deal physical damage around you."
+      "text": "Gold: Total: 2850g (Base: 313g, Sell: 1995g)$(br)Stats: Attack Damage: 55$(br)Tags: Damage, Active, CooldownReduction, ArmorPenetration, AbilityHaste$(br2)[Passive] Cleave: Attacks deal physical damage to nearby enemies.$(br2)[Active] Heretical Cleave: Deal physical damage around you."
     }
   ]
 }

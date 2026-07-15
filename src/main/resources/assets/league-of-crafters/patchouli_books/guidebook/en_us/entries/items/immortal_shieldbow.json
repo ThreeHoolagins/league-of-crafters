@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:immortal_shieldbow",
-      "text": "Gold: Total: 3000g (Base: 825g, Sell: 2100g)\nStats: Critical Strike Chance: 25%, Attack Damage: 55\nTags: Damage, CriticalStrike\n\n[Passive] Lifeline: Taking damage that would reduce your Health below 30% grants a Shield for 3 seconds."
+      "text": "Gold: Total: 3000g (Base: 825g, Sell: 2100g)$(br)Stats: Critical Strike Chance: 25%, Attack Damage: 55$(br)Tags: Damage, CriticalStrike$(br2)[Passive] Lifeline: Taking damage that would reduce your Health below 30% grants a Shield for 3 seconds."
     }
   ]
 }

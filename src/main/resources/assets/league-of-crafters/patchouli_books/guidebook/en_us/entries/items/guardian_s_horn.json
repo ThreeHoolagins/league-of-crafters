@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:guardian_s_horn",
-      "text": "Gold: Total: 950g (Base: 950g, Sell: 665g)\nStats: Health: 150, Health Regen: 4\nTags: Health, HealthRegen, Lane\n\n[Passive] Recovery: Restores 20 Health every 5 seconds.\n\n[Passive] Undaunted: Blocks 15 damage from attacks and spells from champions (25% effectiveness vs. damage over time abilities)."
+      "text": "Gold: Total: 950g (Base: 950g, Sell: 665g)$(br)Stats: Health: 150, Health Regen: 4$(br)Tags: Health, HealthRegen, Lane$(br2)[Passive] Recovery: Restores 20 Health every 5 seconds.$(br2)[Passive] Undaunted: Blocks 15 damage from attacks and spells from champions (25% effectiveness vs. damage over time abilities)."
     }
   ]
 }

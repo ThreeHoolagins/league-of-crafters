@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:archangel_s_staff",
-      "text": "Gold: Total: 2900g (Base: 450g, Sell: 2030g)\nStats: Mana: 600, Ability Power: 70\nTags: SpellDamage, Mana, AbilityHaste\n\n[Passive] Awe: Gain Ability Power equal to 1% bonus Mana.\n\n[Passive] Manaflow: (8s, max 5 charges) Landing Abilities grants 5 max Mana (doubled vs. champions). Transforms into Seraph's Embrace at 360 max Mana."
+      "text": "Gold: Total: 2900g (Base: 450g, Sell: 2030g)$(br)Stats: Mana: 600, Ability Power: 70$(br)Tags: SpellDamage, Mana, AbilityHaste$(br2)[Passive] Awe: Gain Ability Power equal to 1% bonus Mana.$(br2)[Passive] Manaflow: (8s, max 5 charges) Landing Abilities grants 5 max Mana (doubled vs. champions). Transforms into Seraph's Embrace at 360 max Mana."
     }
   ]
 }

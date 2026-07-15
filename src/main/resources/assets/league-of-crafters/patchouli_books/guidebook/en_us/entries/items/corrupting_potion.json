@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:corrupting_potion",
-      "text": "Gold: Total: 500g (Sell: 200g)\nStats: No stats\nTags: Active, Consumable, HealthRegen, Lane, ManaRegen\n\n[Active] Active - Consume: Consumes a charge to restore 100 Health and 75 Mana over 12 seconds. During this time, damaging Abilities and Attacks burn enemy champions for 15 (20 if you cannot gain Mana) magic damage over 3 seconds. Holds up to 3 charges and refills upon visiting the shop. Corrupting damage is reduced to 50% when triggered by area of effect or periodic damage."
+      "text": "Gold: Total: 500g (Sell: 200g)$(br)Stats: No stats$(br)Tags: Active, Consumable, HealthRegen, Lane, ManaRegen$(br2)[Active] Active - Consume: Consumes a charge to restore 100 Health and 75 Mana over 12 seconds. During this time, damaging Abilities and Attacks burn enemy champions for 15 (20 if you cannot gain Mana) magic damage over 3 seconds. Holds up to 3 charges and refills upon visiting the shop. Corrupting damage is reduced to 50% when triggered by area of effect or periodic damage."
     }
   ]
 }

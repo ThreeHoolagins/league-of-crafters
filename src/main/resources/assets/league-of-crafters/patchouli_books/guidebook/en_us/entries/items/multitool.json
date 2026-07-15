@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:multitool",
-      "text": "Gold: Total: 2500g (Base: 2500g, Sell: 1250g)\nStats: No stats\n\n[Passive] Effect: Molds into another item each Shopping Phase."
+      "text": "Gold: Total: 2500g (Base: 2500g, Sell: 1250g)$(br)Stats: No stats$(br2)[Passive] Effect: Molds into another item each Shopping Phase."
     }
   ]
 }

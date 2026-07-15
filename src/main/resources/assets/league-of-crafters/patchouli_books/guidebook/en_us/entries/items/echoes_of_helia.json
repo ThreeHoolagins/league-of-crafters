@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:echoes_of_helia",
-      "text": "Gold: Total: 2600g (Base: 900g, Sell: 1820g)\nStats: Health: 250, Ability Power: 35\nTags: Health, SpellDamage, ManaRegen, CooldownReduction, AbilityHaste\n\n[Passive] Soul Siphon: Gain 30% of pre-mitigation damage dealt to champions as Soul Charges. Healing or Shielding an ally consumes all\n\n[Passive] Soul Charges: to restore Health."
+      "text": "Gold: Total: 2600g (Base: 900g, Sell: 1820g)$(br)Stats: Health: 250, Ability Power: 35$(br)Tags: Health, SpellDamage, ManaRegen, CooldownReduction, AbilityHaste$(br2)[Passive] Soul Siphon: Gain 30% of pre-mitigation damage dealt to champions as Soul Charges. Healing or Shielding an ally consumes all$(br2)[Passive] Soul Charges: to restore Health."
     }
   ]
 }

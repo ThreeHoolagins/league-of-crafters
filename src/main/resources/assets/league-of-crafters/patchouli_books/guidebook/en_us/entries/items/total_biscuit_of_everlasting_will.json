@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:total_biscuit_of_everlasting_will",
-      "text": "Gold: Total: 50g (Sell: 5g)\nStats: No stats\n\n[Active] Active - Consume: Eat the biscuit to restore Health over 5 seconds, increased based on missing health. Consuming or selling a biscuit permanently grants 30 maximum Health."
+      "text": "Gold: Total: 50g (Sell: 5g)$(br)Stats: No stats$(br2)[Active] Active - Consume: Eat the biscuit to restore Health over 5 seconds, increased based on missing health. Consuming or selling a biscuit permanently grants 30 maximum Health."
     }
   ]
 }

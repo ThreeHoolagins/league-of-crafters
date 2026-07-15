@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:lich_bane",
-      "text": "Gold: Total: 2900g (Base: 250g, Sell: 2030g)\nStats: Ability Power: 100, Move Speed: 6%\nTags: SpellDamage, OnHit, NonbootsMovement, AbilityHaste\n\n[Passive] Spellblade: After using an Ability, your next Attack deals bonus magic damage On-Hit."
+      "text": "Gold: Total: 2900g (Base: 250g, Sell: 2030g)$(br)Stats: Ability Power: 100, Move Speed: 6%$(br)Tags: SpellDamage, OnHit, NonbootsMovement, AbilityHaste$(br2)[Passive] Spellblade: After using an Ability, your next Attack deals bonus magic damage On-Hit."
     }
   ]
 }

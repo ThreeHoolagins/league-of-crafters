@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:elixir_of_avarice",
-      "text": "Gold: Total: 50g (Sell: 20g)\nStats: No stats\nTags: Health, Consumable, Tenacity\n\n[Active] Consume: Grants 5 true damage on hit against minions for 60 seconds. When this effect expires, gain 60 gold."
+      "text": "Gold: Total: 50g (Sell: 20g)$(br)Stats: No stats$(br)Tags: Health, Consumable, Tenacity$(br2)[Active] Consume: Grants 5 true damage on hit against minions for 60 seconds. When this effect expires, gain 60 gold."
     }
   ]
 }

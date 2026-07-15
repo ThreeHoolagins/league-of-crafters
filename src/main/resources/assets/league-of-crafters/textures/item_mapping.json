@@ -227,14 +227,6 @@
     "name": "Death's Dance",
     "texture": "death_s_dance.png"
   },
-  "3128": {
-    "name": "Deathfire Grasp",
-    "texture": "deathfire_grasp.png"
-  },
-  "663056": {
-    "name": "Demon King's Crown",
-    "texture": "demon_king_s_crown.png"
-  },
   "4637": {
     "name": "Demonic Embrace",
     "texture": "demonic_embrace.png"
@@ -387,10 +379,6 @@
     "name": "Frozen Heart",
     "texture": "frozen_heart.png"
   },
-  "4014": {
-    "name": "Frozen Mallet",
-    "texture": "frozen_mallet.png"
-  },
   "6671": {
     "name": "Galeforce",
     "texture": "galeforce.png"
@@ -470,10 +458,6 @@
   "3172": {
     "name": "Gunmetal Greaves",
     "texture": "gunmetal_greaves.png"
-  },
-  "1509": {
-    "name": "Gusto",
-    "texture": "gusto.png"
   },
   "1102": {
     "name": "Gustwalker Hatchling",
@@ -579,10 +563,6 @@
     "name": "Kaenic Rookern",
     "texture": "kaenic_rookern.png"
   },
-  "3599": {
-    "name": "Kalista's Black Spear",
-    "texture": "kalista_s_black_spear.png"
-  },
   "3067": {
     "name": "Kindlegem",
     "texture": "kindlegem.png"
@@ -603,10 +583,6 @@
     "name": "Last Whisper",
     "texture": "last_whisper.png"
   },
-  "4635": {
-    "name": "Leeching Leer",
-    "texture": "leeching_leer.png"
-  },
   "6653": {
     "name": "Liandry's Torment",
     "texture": "liandry_s_torment.png"
@@ -622,10 +598,6 @@
   "3023": {
     "name": "Lifewell Pendant",
     "texture": "lifewell_pendant.png"
-  },
-  "4013": {
-    "name": "Lightning Braid",
-    "texture": "lightning_braid.png"
   },
   "323190": {
     "name": "Locket of the Iron Solari",
@@ -747,18 +719,6 @@
     "name": "Oracle Lens",
     "texture": "oracle_lens.png"
   },
-  "1507": {
-    "name": "Overcharged",
-    "texture": "overcharged.png"
-  },
-  "1520": {
-    "name": "OvererchargedHA",
-    "texture": "overerchargedha.png"
-  },
-  "1524": {
-    "name": "Overgrowth",
-    "texture": "overgrowth.png"
-  },
   "2501": {
     "name": "Overlord's Bloodmail",
     "texture": "overlord_s_bloodmail.png"
@@ -767,10 +727,6 @@
     "name": "Pauldrons of Whiterock",
     "texture": "pauldrons_of_whiterock.png"
   },
-  "1500": {
-    "name": "Penetrating Bullets",
-    "texture": "penetrating_bullets.png"
-  },
   "3044": {
     "name": "Phage",
     "texture": "phage.png"
@@ -778,10 +734,6 @@
   "3046": {
     "name": "Phantom Dancer",
     "texture": "phantom_dancer.png"
-  },
-  "1510": {
-    "name": "Phreakish Gusto",
-    "texture": "phreakish_gusto.png"
   },
   "1037": {
     "name": "Pickaxe",
@@ -847,10 +799,6 @@
     "name": "Refillable Potion",
     "texture": "refillable_potion.png"
   },
-  "1502": {
-    "name": "Reinforced Armor",
-    "texture": "reinforced_armor.png"
-  },
   "1006": {
     "name": "Rejuvenation Bead",
     "texture": "rejuvenation_bead.png"
@@ -895,10 +843,6 @@
     "name": "Sapphire Crystal",
     "texture": "sapphire_crystal.png"
   },
-  "3330": {
-    "name": "Scarecrow Effigy",
-    "texture": "scarecrow_effigy.png"
-  },
   "1101": {
     "name": "Scorchclaw Pup",
     "texture": "scorchclaw_pup.png"
@@ -931,10 +875,6 @@
     "name": "Shadowflame",
     "texture": "shadowflame.png"
   },
-  "3853": {
-    "name": "Shard of True Ice",
-    "texture": "shard_of_true_ice.png"
-  },
   "2421": {
     "name": "Shattered Armguard",
     "texture": "shattered_armguard.png"
@@ -947,10 +887,6 @@
     "name": "Shield of Molten Stone",
     "texture": "shield_of_molten_stone.png"
   },
-  "6700": {
-    "name": "Shield of the Rakkor",
-    "texture": "shield_of_the_rakkor.png"
-  },
   "322065": {
     "name": "Shurelya's Battlesong",
     "texture": "shurelya_s_battlesong.png"
@@ -958,10 +894,6 @@
   "6035": {
     "name": "Silvermere Dawn",
     "texture": "silvermere_dawn.png"
-  },
-  "4012": {
-    "name": "Sin Eater",
-    "texture": "sin_eater.png"
   },
   "2422": {
     "name": "Slightly Magical Footwear",
@@ -1007,10 +939,6 @@
     "name": "Staff of Flowing Water",
     "texture": "staff_of_flowing_water.png"
   },
-  "6032": {
-    "name": "Stat Bonus",
-    "texture": "stat_bonus.png"
-  },
   "3087": {
     "name": "Statikk Shiv",
     "texture": "statikk_shiv.png"
@@ -1054,14 +982,6 @@
   "3068": {
     "name": "Sunfire Aegis",
     "texture": "sunfire_aegis.png"
-  },
-  "1511": {
-    "name": "Super Mech Armor",
-    "texture": "super_mech_armor.png"
-  },
-  "1512": {
-    "name": "Super Mech Power Field",
-    "texture": "super_mech_power_field.png"
   },
   "3170": {
     "name": "Swiftmarch",
@@ -1175,10 +1095,6 @@
     "name": "Voltaic Cyclosword",
     "texture": "voltaic_cyclosword.png"
   },
-  "1503": {
-    "name": "Warden's Eye",
-    "texture": "warden_s_eye.png"
-  },
   "3082": {
     "name": "Warden's Mail",
     "texture": "warden_s_mail.png"
@@ -1218,10 +1134,6 @@
   "3142": {
     "name": "Youmuu's Ghostblade",
     "texture": "youmuu_s_ghostblade.png"
-  },
-  "3400": {
-    "name": "Your Cut",
-    "texture": "your_cut.png"
   },
   "3032": {
     "name": "Yun Tal Wildarrows",

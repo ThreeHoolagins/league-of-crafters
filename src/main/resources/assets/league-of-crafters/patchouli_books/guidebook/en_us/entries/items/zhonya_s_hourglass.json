@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:zhonya_s_hourglass",
-      "text": "Gold: Total: 3250g (Base: 450g, Sell: 2275g)\nStats: Ability Power: 105, Armor: 50\nTags: Armor, SpellDamage, Active\n\n[Active] Time Stop: Enter Stasis for 2.5 seconds."
+      "text": "Gold: Total: 3250g (Base: 450g, Sell: 2275g)$(br)Stats: Ability Power: 105, Armor: 50$(br)Tags: Armor, SpellDamage, Active$(br2)[Active] Time Stop: Enter Stasis for 2.5 seconds."
     }
   ]
 }

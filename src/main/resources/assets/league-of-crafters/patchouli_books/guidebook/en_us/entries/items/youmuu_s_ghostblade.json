@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:youmuu_s_ghostblade",
-      "text": "Gold: Total: 2800g (Base: 675g, Sell: 1960g)\nStats: Attack Damage: 55, Move Speed: 4%\nTags: Damage, Active, NonbootsMovement, ArmorPenetration\n\n[Passive] Haunt: Gain Move Speed while out of combat.\n\n[Active] Wraith Step: Gain Move Speed and Ghosting for seconds."
+      "text": "Gold: Total: 2800g (Base: 675g, Sell: 1960g)$(br)Stats: Attack Damage: 55, Move Speed: 4%$(br)Tags: Damage, Active, NonbootsMovement, ArmorPenetration$(br2)[Passive] Haunt: Gain Move Speed while out of combat.$(br2)[Active] Wraith Step: Gain Move Speed and Ghosting for seconds."
     }
   ]
 }

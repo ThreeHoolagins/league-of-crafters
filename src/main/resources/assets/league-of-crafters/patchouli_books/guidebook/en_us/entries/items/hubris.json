@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:hubris",
-      "text": "Gold: Total: 2950g (Base: 900g, Sell: 2065g)\nStats: Attack Damage: 55\nTags: Damage, Active, CooldownReduction, ArmorPenetration, AbilityHaste\n\n[Passive] Eminence: Gain temporary AD based on champion kills on kill."
+      "text": "Gold: Total: 2950g (Base: 900g, Sell: 2065g)$(br)Stats: Attack Damage: 55$(br)Tags: Damage, Active, CooldownReduction, ArmorPenetration, AbilityHaste$(br2)[Passive] Eminence: Gain temporary AD based on champion kills on kill."
     }
   ]
 }

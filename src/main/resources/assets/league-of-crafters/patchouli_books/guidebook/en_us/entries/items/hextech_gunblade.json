@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:hextech_gunblade",
-      "text": "Gold: Total: 3000g (Base: 600g, Sell: 2100g)\nStats: Ability Power: 80, Attack Damage: 40\nTags: Damage, LifeSteal, SpellDamage, Active, SpellVamp\n\n[Active] Lightning Bolt: Shocks the target enemy champion, dealing magic damage and slowing them by 25% for 1.5 seconds."
+      "text": "Gold: Total: 3000g (Base: 600g, Sell: 2100g)$(br)Stats: Ability Power: 80, Attack Damage: 40$(br)Tags: Damage, LifeSteal, SpellDamage, Active, SpellVamp$(br2)[Active] Lightning Bolt: Shocks the target enemy champion, dealing magic damage and slowing them by 25% for 1.5 seconds."
     }
   ]
 }

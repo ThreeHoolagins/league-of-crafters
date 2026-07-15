@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:doran_s_helm",
-      "text": "Gold: Total: 450g (Base: 450g, Sell: 180g)\nStats: Magic Resist: 8, Health: 150, Armor: 8\nTags: Health, SpellBlock, Armor, Lane\n\n[Passive] Helping Hand: Attacks deal 5 bonus physical damage to minions."
+      "text": "Gold: Total: 450g (Base: 450g, Sell: 180g)$(br)Stats: Magic Resist: 8, Health: 150, Armor: 8$(br)Tags: Health, SpellBlock, Armor, Lane$(br2)[Passive] Helping Hand: Attacks deal 5 bonus physical damage to minions."
     }
   ]
 }

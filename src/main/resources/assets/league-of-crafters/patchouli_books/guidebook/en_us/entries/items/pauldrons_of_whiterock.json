@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:pauldrons_of_whiterock",
-      "text": "Gold: Total: 400g (Sell: 160g)\nStats: Health: 250, Attack Damage: 15\nTags: Health, HealthRegen, GoldPer, Lane\n\n[Active] Ward: Place an Invisible Stealth Ward that grants vision. Stores 0 Stealth Wards, which refill upon visiting the shop."
+      "text": "Gold: Total: 400g (Sell: 160g)$(br)Stats: Health: 250, Attack Damage: 15$(br)Tags: Health, HealthRegen, GoldPer, Lane$(br2)[Active] Ward: Place an Invisible Stealth Ward that grants vision. Stores 0 Stealth Wards, which refill upon visiting the shop."
     }
   ]
 }

@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:fiendish_codex",
-      "text": "Gold: Total: 850g (Base: 200g, Sell: 595g)\nStats: Ability Power: 25\nTags: SpellDamage, CooldownReduction, AbilityHaste"
+      "text": "Gold: Total: 850g (Base: 200g, Sell: 595g)$(br)Stats: Ability Power: 25$(br)Tags: SpellDamage, CooldownReduction, AbilityHaste"
     }
   ]
 }

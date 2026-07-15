@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:cosmic_drive",
-      "text": "Gold: Total: 3000g (Base: 450g, Sell: 2100g)\nStats: Health: 350, Ability Power: 70, Move Speed: 4%\nTags: Health, SpellDamage, NonbootsMovement, AbilityHaste\n\n[Passive] Spelldance: Dealing magic or true damage to champions grants Move Speed for 4 seconds."
+      "text": "Gold: Total: 3000g (Base: 450g, Sell: 2100g)$(br)Stats: Health: 350, Ability Power: 70, Move Speed: 4%$(br)Tags: Health, SpellDamage, NonbootsMovement, AbilityHaste$(br2)[Passive] Spelldance: Dealing magic or true damage to champions grants Move Speed for 4 seconds."
     }
   ]
 }

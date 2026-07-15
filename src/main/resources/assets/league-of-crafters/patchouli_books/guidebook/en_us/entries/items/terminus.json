@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:terminus",
-      "text": "Gold: Total: 3000g (Base: 1100g, Sell: 2100g)\nStats: Attack Damage: 30, Attack Speed: 35%\nTags: Damage, AttackSpeed, OnHit, MagicPenetration, ArmorPenetration\n\n[Passive] Shadow: Attacks deal 30 bonus magic damage On-Hit.\n\n[Passive] Juxtaposition: Alternate between Light and Dark Attacks against champions: Light Attacks grant Armor and Magic Resist for 5s. Dark Attacks grant 10% Armor Penetration and Magic Penetration for 5s."
+      "text": "Gold: Total: 3000g (Base: 1100g, Sell: 2100g)$(br)Stats: Attack Damage: 30, Attack Speed: 35%$(br)Tags: Damage, AttackSpeed, OnHit, MagicPenetration, ArmorPenetration$(br2)[Passive] Shadow: Attacks deal 30 bonus magic damage On-Hit.$(br2)[Passive] Juxtaposition: Alternate between Light and Dark Attacks against champions: Light Attacks grant Armor and Magic Resist for 5s. Dark Attacks grant 10% Armor Penetration and Magic Penetration for 5s."
     }
   ]
 }

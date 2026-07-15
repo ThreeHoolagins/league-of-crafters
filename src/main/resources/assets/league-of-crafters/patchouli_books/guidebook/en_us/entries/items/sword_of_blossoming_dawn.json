@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:sword_of_blossoming_dawn",
-      "text": "Gold: Total: 2500g (Base: 2500g, Sell: 1250g)\nStats: Health: 150, Ability Power: 35\nTags: Health, SpellDamage, CooldownReduction, OnHit, AbilityHaste\n\n[Passive] Effervescence: Gain +1% Attack Speed for every 1% Heal and Shield Power you have.\n\n[Passive] Peppermint: On-Hit, heal the lowest health ally champion near you for , prioritizing lower health allies."
+      "text": "Gold: Total: 2500g (Base: 2500g, Sell: 1250g)$(br)Stats: Health: 150, Ability Power: 35$(br)Tags: Health, SpellDamage, CooldownReduction, OnHit, AbilityHaste$(br2)[Passive] Effervescence: Gain +1% Attack Speed for every 1% Heal and Shield Power you have.$(br2)[Passive] Peppermint: On-Hit, heal the lowest health ally champion near you for , prioritizing lower health allies."
     }
   ]
 }

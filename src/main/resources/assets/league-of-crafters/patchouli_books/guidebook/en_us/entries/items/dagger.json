@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:dagger",
-      "text": "Gold: Total: 250g (Base: 250g, Sell: 175g)\nStats: Attack Speed: 10%\nTags: AttackSpeed"
+      "text": "Gold: Total: 250g (Base: 250g, Sell: 175g)$(br)Stats: Attack Speed: 10%$(br)Tags: AttackSpeed"
     }
   ]
 }

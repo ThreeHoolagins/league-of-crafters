@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:oracle_lens",
-      "text": "Gold: Total: 0g (Base: 0g, Sell: 0g)\nStats: No stats\nTags: Active, Trinket, Vision\n\n[Active] Active: (160 - 100s, max 2 charges) Reveals enemy Stealth Wards and traps around you for 8 seconds."
+      "text": "Gold: Total: 0g (Base: 0g, Sell: 0g)$(br)Stats: No stats$(br)Tags: Active, Trinket, Vision$(br2)[Active] Active: (160 - 100s, max 2 charges) Reveals enemy Stealth Wards and traps around you for 8 seconds."
     }
   ]
 }

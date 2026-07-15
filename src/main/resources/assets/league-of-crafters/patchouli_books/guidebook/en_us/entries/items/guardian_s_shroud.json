@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:guardian_s_shroud",
-      "text": "Gold: Total: 500g (Base: 500g, Sell: 250g)\nStats: Health: 300, Ability Power: 35\nTags: Health, SpellDamage, CooldownReduction, Lane, AbilityHaste"
+      "text": "Gold: Total: 500g (Base: 500g, Sell: 250g)$(br)Stats: Health: 300, Ability Power: 35$(br)Tags: Health, SpellDamage, CooldownReduction, Lane, AbilityHaste"
     }
   ]
 }

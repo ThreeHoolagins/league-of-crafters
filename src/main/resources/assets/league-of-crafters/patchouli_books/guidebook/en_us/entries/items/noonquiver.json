@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:noonquiver",
-      "text": "Gold: Total: 1300g (Base: 350g, Sell: 910g)\nStats: Critical Strike Chance: 20%, Attack Damage: 15\nTags: Damage, CriticalStrike"
+      "text": "Gold: Total: 1300g (Base: 350g, Sell: 910g)$(br)Stats: Critical Strike Chance: 20%, Attack Damage: 15$(br)Tags: Damage, CriticalStrike"
     }
   ]
 }

@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:ruby_crystal",
-      "text": "Gold: Total: 400g (Base: 400g, Sell: 280g)\nStats: Health: 150\nTags: Health"
+      "text": "Gold: Total: 400g (Base: 400g, Sell: 280g)$(br)Stats: Health: 150$(br)Tags: Health"
     }
   ]
 }

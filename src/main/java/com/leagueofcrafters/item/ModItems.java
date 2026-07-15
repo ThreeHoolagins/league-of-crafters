@@ -80,8 +80,6 @@ public class ModItems {
     public static final Item DAWNCORE = registerItem("dawncore");
     public static final Item DEAD_MAN_S_PLATE = registerItem("dead_man_s_plate");
     public static final Item DEATH_S_DANCE = registerItem("death_s_dance");
-    public static final Item DEATHFIRE_GRASP = registerItem("deathfire_grasp");
-    public static final Item DEMON_KING_S_CROWN = registerItem("demon_king_s_crown");
     public static final Item DEMONIC_EMBRACE = registerItem("demonic_embrace");
     public static final Item DIADEM_OF_SONGS = registerItem("diadem_of_songs");
     public static final Item DIVINE_SUNDERER = registerItem("divine_sunderer");
@@ -135,7 +133,7 @@ public class ModItems {
     public static final Item FOREVER_FORWARD = registerCustomItem("forever_forward", new BootItem(55f, new Item.Properties()));
     public static final Item FROSTFANG = registerItem("frostfang");
     public static final Item FROZEN_HEART = registerItem("frozen_heart");
-    public static final Item FROZEN_MALLET = registerItem("frozen_mallet");
+
     public static final Item GALEFORCE = registerItem("galeforce");
     public static final Item GAMBLER_S_BLADE = registerItem("gambler_s_blade");
     public static final Item GARGOYLE_STONEPLATE = registerItem("gargoyle_stoneplate");
@@ -156,7 +154,7 @@ public class ModItems {
     public static final Item GUARDIAN_S_SHROUD = registerItem("guardian_s_shroud");
     public static final Item GUINSOO_S_RAGEBLADE = registerItem("guinsoo_s_rageblade");
     public static final Item GUNMETAL_GREAVES = registerCustomItem("gunmetal_greaves", new BootItem(45f, new Item.Properties()));
-    public static final Item GUSTO = registerItem("gusto");
+
     public static final Item GUSTWALKER_HATCHLING = registerItem("gustwalker_hatchling");
     public static final Item HAILBLADE = registerItem("hailblade");
     public static final Item HARROWING_CRESCENT = registerItem("harrowing_crescent");
@@ -185,18 +183,18 @@ public class ModItems {
     public static final Item IRONSPIKE_WHIP = registerItem("ironspike_whip");
     public static final Item JAK_SHO_THE_PROTEAN = registerItem("jak_sho_the_protean");
     public static final Item KAENIC_ROOKERN = registerItem("kaenic_rookern");
-    public static final Item KALISTA_S_BLACK_SPEAR = registerItem("kalista_s_black_spear");
+
     public static final Item KINDLEGEM = registerItem("kindlegem");
     public static final Item KIRCHEIS_SHARD = registerItem("kircheis_shard");
     public static final Item KNIGHT_S_VOW = registerItem("knight_s_vow");
     public static final Item KRAKEN_SLAYER = registerItem("kraken_slayer");
     public static final Item LAST_WHISPER = registerItem("last_whisper");
-    public static final Item LEECHING_LEER = registerItem("leeching_leer");
+
     public static final Item LIANDRY_S_TORMENT = registerItem("liandry_s_torment");
     public static final Item LICH_BANE = registerItem("lich_bane");
     public static final Item LIFELINE = registerItem("lifeline");
     public static final Item LIFEWELL_PENDANT = registerItem("lifewell_pendant");
-    public static final Item LIGHTNING_BRAID = registerItem("lightning_braid");
+
     public static final Item LOCKET_OF_THE_IRON_SOLARI = registerItem("locket_of_the_iron_solari");
     public static final Item LONG_SWORD = registerItem("long_sword");
     public static final Item LORD_DOMINIK_S_REGARDS = registerItem("lord_dominik_s_regards");
@@ -227,15 +225,13 @@ public class ModItems {
     public static final Item OBSIDIAN_EDGE = registerItem("obsidian_edge");
     public static final Item OPPORTUNITY = registerItem("opportunity");
     public static final Item ORACLE_LENS = registerCustomItem("oracle_lens", new WardItem(new Item.Properties(), ModBlocks.ORACLE_LENS_BLOCK));
-    public static final Item OVERCHARGED = registerItem("overcharged");
-    public static final Item OVERERCHARGEDHA = registerItem("overerchargedha");
-    public static final Item OVERGROWTH = registerItem("overgrowth");
+
     public static final Item OVERLORD_S_BLOODMAIL = registerItem("overlord_s_bloodmail");
     public static final Item PAULDRONS_OF_WHITEROCK = registerItem("pauldrons_of_whiterock");
-    public static final Item PENETRATING_BULLETS = registerItem("penetrating_bullets");
+
     public static final Item PHAGE = registerItem("phage");
     public static final Item PHANTOM_DANCER = registerItem("phantom_dancer");
-    public static final Item PHREAKISH_GUSTO = registerItem("phreakish_gusto");
+
     public static final Item PICKAXE = registerItem("pickaxe");
     public static final Item PLATED_STEELCAPS = registerCustomItem("plated_steelcaps", new BootItem(45f, new Item.Properties()));
     public static final Item PROFANE_HYDRA = registerItem("profane_hydra");
@@ -255,7 +251,7 @@ public class ModItems {
         player.heal(4.0f);
         player.addEffect(new MobEffectInstance(MobEffects.REGENERATION, 100, 0));
     }));
-    public static final Item REINFORCED_ARMOR = registerItem("reinforced_armor");
+
     public static final Item REJUVENATION_BEAD = registerItem("rejuvenation_bead");
     public static final Item RELIC_SHIELD = registerItem("relic_shield");
     public static final Item RIFTMAKER = registerItem("riftmaker");
@@ -267,7 +263,7 @@ public class ModItems {
     public static final Item RUNIC_COMPASS = registerItem("runic_compass");
     public static final Item RYLAI_S_CRYSTAL_SCEPTER = registerItem("rylai_s_crystal_scepter");
     public static final Item SAPPHIRE_CRYSTAL = registerItem("sapphire_crystal");
-    public static final Item SCARECROW_EFFIGY = registerCustomItem("scarecrow_effigy", new WardItem(new Item.Properties(), ModBlocks.SCARECROW_EFFIGY_BLOCK));
+
     public static final Item SCORCHCLAW_PUP = registerItem("scorchclaw_pup");
     public static final Item SCOUT_S_SLINGSHOT = registerItem("scout_s_slingshot");
     public static final Item SEEKER_S_ARMGUARD = registerItem("seeker_s_armguard");
@@ -276,14 +272,14 @@ public class ModItems {
     public static final Item SERRATED_DIRK = registerItem("serrated_dirk");
     public static final Item SERYLDA_S_GRUDGE = registerItem("serylda_s_grudge");
     public static final Item SHADOWFLAME = registerItem("shadowflame");
-    public static final Item SHARD_OF_TRUE_ICE = registerItem("shard_of_true_ice");
+
     public static final Item SHATTERED_ARMGUARD = registerItem("shattered_armguard");
     public static final Item SHEEN = registerItem("sheen");
     public static final Item SHIELD_OF_MOLTEN_STONE = registerItem("shield_of_molten_stone");
-    public static final Item SHIELD_OF_THE_RAKKOR = registerItem("shield_of_the_rakkor");
+
     public static final Item SHURELYA_S_BATTLESONG = registerItem("shurelya_s_battlesong");
     public static final Item SILVERMERE_DAWN = registerItem("silvermere_dawn");
-    public static final Item SIN_EATER = registerItem("sin_eater");
+
     public static final Item SLIGHTLY_MAGICAL_FOOTWEAR = registerCustomItem("slightly_magical_footwear", new BootItem(25f, new Item.Properties()));
     public static final Item SOLSTICE_SLEIGH = registerItem("solstice_sleigh");
     public static final Item SORCERER_S_SHOES = registerCustomItem("sorcerer_s_shoes", new BootItem(45f, new Item.Properties()));
@@ -295,7 +291,7 @@ public class ModItems {
     public static final Item SPELLTHIEF_S_EDGE = registerItem("spellthief_s_edge");
     public static final Item SPIRIT_VISAGE = registerItem("spirit_visage");
     public static final Item STAFF_OF_FLOWING_WATER = registerItem("staff_of_flowing_water");
-    public static final Item STAT_BONUS = registerItem("stat_bonus");
+
     public static final Item STATIKK_SHIV = registerItem("statikk_shiv");
     public static final Item STEALTH_WARD = registerCustomItem("stealth_ward", new WardItem(new Item.Properties(), ModBlocks.STEALTH_WARD_BLOCK));
     public static final Item STEEL_SHOULDERGUARDS = registerItem("steel_shoulderguards");
@@ -307,8 +303,7 @@ public class ModItems {
     public static final Item STRIDEBREAKER = registerItem("stridebreaker");
     public static final Item SUNDERED_SKY = registerItem("sundered_sky");
     public static final Item SUNFIRE_AEGIS = registerItem("sunfire_aegis");
-    public static final Item SUPER_MECH_ARMOR = registerItem("super_mech_armor");
-    public static final Item SUPER_MECH_POWER_FIELD = registerItem("super_mech_power_field");
+
     public static final Item SWIFTMARCH = registerCustomItem("swiftmarch", new BootItem(65f, new Item.Properties()));
     public static final Item SWORD_OF_BLOSSOMING_DAWN = registerItem("sword_of_blossoming_dawn");
     public static final Item SWORD_OF_THE_DIVINE = registerItem("sword_of_the_divine");
@@ -337,7 +332,7 @@ public class ModItems {
     public static final Item VOID_IMMOLATION = registerItem("void_immolation");
     public static final Item VOID_STAFF = registerItem("void_staff");
     public static final Item VOLTAIC_CYCLOSWORD = registerItem("voltaic_cyclosword");
-    public static final Item WARDEN_S_EYE = registerItem("warden_s_eye");
+
     public static final Item WARDEN_S_MAIL = registerItem("warden_s_mail");
     public static final Item WARMOG_S_ARMOR = registerItem("warmog_s_armor");
     public static final Item WATCHFUL_WARDSTONE = registerItem("watchful_wardstone");
@@ -348,7 +343,7 @@ public class ModItems {
     public static final Item WOOGLET_S_WITCHCAP = registerItem("wooglet_s_witchcap");
     public static final Item WORLD_ATLAS = registerItem("world_atlas");
     public static final Item YOUMUU_S_GHOSTBLADE = registerItem("youmuu_s_ghostblade");
-    public static final Item YOUR_CUT = registerItem("your_cut");
+
     public static final Item YUN_TAL_WILDARROWS = registerItem("yun_tal_wildarrows");
     public static final Item ZAZ_ZAK_S_REALMSPIKE = registerItem("zaz_zak_s_realmspike");
     public static final Item ZEAL = registerItem("zeal");

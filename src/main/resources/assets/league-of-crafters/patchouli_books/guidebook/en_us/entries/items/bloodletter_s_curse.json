@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:bloodletter_s_curse",
-      "text": "Gold: Total: 2900g (Base: 750g, Sell: 2030g)\nStats: Health: 400, Ability Power: 65\nTags: Health, SpellDamage, CooldownReduction, MagicPenetration\n\n[Passive] Vile Decay: Dealing magic damage with abilities or passives to champions reduces their Magic Resist by 7.5% for 6 seconds. (Stacks 4 times)."
+      "text": "Gold: Total: 2900g (Base: 750g, Sell: 2030g)$(br)Stats: Health: 400, Ability Power: 65$(br)Tags: Health, SpellDamage, CooldownReduction, MagicPenetration$(br2)[Passive] Vile Decay: Dealing magic damage with abilities or passives to champions reduces their Magic Resist by 7.5% for 6 seconds. (Stacks 4 times)."
     }
   ]
 }

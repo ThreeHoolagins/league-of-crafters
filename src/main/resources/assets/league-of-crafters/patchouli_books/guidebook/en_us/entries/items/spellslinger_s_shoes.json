@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:spellslinger_s_shoes",
-      "text": "Gold: Total: 1100g (Base: 0g, Sell: 770g)\nStats: Move Speed: 45\nTags: Boots, MagicPenetration"
+      "text": "Gold: Total: 1100g (Base: 0g, Sell: 770g)$(br)Stats: Move Speed: 45$(br)Tags: Boots, MagicPenetration"
     }
   ]
 }

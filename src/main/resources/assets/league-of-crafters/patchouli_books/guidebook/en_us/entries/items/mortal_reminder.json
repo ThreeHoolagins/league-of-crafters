@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:mortal_reminder",
-      "text": "Gold: Total: 3000g (Base: 150g, Sell: 2100g)\nStats: Critical Strike Chance: 25%, Attack Damage: 35\nTags: Damage, CriticalStrike, ArmorPenetration\n\n[Passive] Grievous Wounds: Dealing physical damage applies 40% Wounds to enemy champions for 3 seconds."
+      "text": "Gold: Total: 3000g (Base: 150g, Sell: 2100g)$(br)Stats: Critical Strike Chance: 25%, Attack Damage: 35$(br)Tags: Damage, CriticalStrike, ArmorPenetration$(br2)[Passive] Grievous Wounds: Dealing physical damage applies 40% Wounds to enemy champions for 3 seconds."
     }
   ]
 }

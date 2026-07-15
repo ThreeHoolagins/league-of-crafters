@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:berserker_s_greaves",
-      "text": "Gold: Total: 1100g (Base: 300g, Sell: 770g)\nStats: Move Speed: 45, Attack Speed: 25%\nTags: AttackSpeed, Boots"
+      "text": "Gold: Total: 1100g (Base: 300g, Sell: 770g)$(br)Stats: Move Speed: 45, Attack Speed: 25%$(br)Tags: AttackSpeed, Boots"
     }
   ]
 }

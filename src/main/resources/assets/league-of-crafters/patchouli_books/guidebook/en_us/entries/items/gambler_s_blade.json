@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:gambler_s_blade",
-      "text": "Gold: Total: 2500g (Base: 2500g, Sell: 0g)\nStats: Move Speed: 15%\nTags: Damage, NonbootsMovement, MagicPenetration, ArmorPenetration, AbilityHaste\n\n[Passive] Playing for Time: Champion takedowns while using Gambler's Blade delays Doom-boss Veigar's arrival by an additional 10 seconds. Deaths while carrying the Blade accelerate it by 10 seconds. (Will not lose time past the 14:30 minute mark)\n\n[Passive] Double Down: Champion takedowns grant a stack, each granting 10 bonus gold on kill. Also take 5% increased damage per stack. Lose all stacks on death."
+      "text": "Gold: Total: 2500g (Base: 2500g, Sell: 0g)$(br)Stats: Move Speed: 15%$(br)Tags: Damage, NonbootsMovement, MagicPenetration, ArmorPenetration, AbilityHaste$(br2)[Passive] Playing for Time: Champion takedowns while using Gambler's Blade delays Doom-boss Veigar's arrival by an additional 10 seconds. Deaths while carrying the Blade accelerate it by 10 seconds. (Will not lose time past the 14:30 minute mark)$(br2)[Passive] Double Down: Champion takedowns grant a stack, each granting 10 bonus gold on kill. Also take 5% increased damage per stack. Lose all stacks on death."
     }
   ]
 }

@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:the_collector",
-      "text": "Gold: Total: 3000g (Base: 525g, Sell: 2100g)\nStats: Critical Strike Chance: 25%, Attack Damage: 50\nTags: Damage, CriticalStrike, ArmorPenetration\n\n[Passive] Death: Your damage executes champions that are below 5% Health.\n\n[Passive] Taxes: Champion kills grant 25 bonus gold."
+      "text": "Gold: Total: 3000g (Base: 525g, Sell: 2100g)$(br)Stats: Critical Strike Chance: 25%, Attack Damage: 50$(br)Tags: Damage, CriticalStrike, ArmorPenetration$(br2)[Passive] Death: Your damage executes champions that are below 5% Health.$(br2)[Passive] Taxes: Champion kills grant 25 bonus gold."
     }
   ]
 }

@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:eclipse",
-      "text": "Gold: Total: 2900g (Base: 625g, Sell: 2030g)\nStats: Attack Damage: 60\nTags: Damage, CooldownReduction, AbilityHaste\n\n[Passive] Ever Rising Moon: Hitting a champion with 2 separate Attacks or Abilities within 2 seconds grants you a Shield for 2 seconds."
+      "text": "Gold: Total: 2900g (Base: 625g, Sell: 2030g)$(br)Stats: Attack Damage: 60$(br)Tags: Damage, CooldownReduction, AbilityHaste$(br2)[Passive] Ever Rising Moon: Hitting a champion with 2 separate Attacks or Abilities within 2 seconds grants you a Shield for 2 seconds."
     }
   ]
 }

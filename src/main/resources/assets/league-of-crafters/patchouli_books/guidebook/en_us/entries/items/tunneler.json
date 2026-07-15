@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:tunneler",
-      "text": "Gold: Total: 1150g (Base: 400g, Sell: 805g)\nStats: Health: 250, Attack Damage: 15\nTags: Health, Damage"
+      "text": "Gold: Total: 1150g (Base: 400g, Sell: 805g)$(br)Stats: Health: 250, Attack Damage: 15$(br)Tags: Health, Damage"
     }
   ]
 }

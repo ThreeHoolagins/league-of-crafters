@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:twin_mask",
-      "text": "Gold: Total: 2750g (Sell: 1100g)\nStats: No stats\nTags: Health, Armor, Damage, AttackSpeed, SpellDamage, MagicResist, AbilityHaste\n\n[Passive] Unanimity: Gain a percent of your teammate's Health, Armor, Magic Resist, Attack Damage, Ability Power, Attack Speed, and Ability Haste, increased significantly if they also have Twin Mask and are alive."
+      "text": "Gold: Total: 2750g (Sell: 1100g)$(br)Stats: No stats$(br)Tags: Health, Armor, Damage, AttackSpeed, SpellDamage, MagicResist, AbilityHaste$(br2)[Passive] Unanimity: Gain a percent of your teammate's Health, Armor, Magic Resist, Attack Damage, Ability Power, Attack Speed, and Ability Haste, increased significantly if they also have Twin Mask and are alive."
     }
   ]
 }

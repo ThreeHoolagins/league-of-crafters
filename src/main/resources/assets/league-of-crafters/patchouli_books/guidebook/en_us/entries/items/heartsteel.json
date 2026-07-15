@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:heartsteel",
-      "text": "Gold: Total: 3000g (Base: 400g, Sell: 2100g)\nStats: Health: 900\nTags: Health, HealthRegen\n\n[Passive] Colossal Consumption: (0s) per target If an enemy champion is nearby for a few seconds, your next Attack against them deals 70 plus 6% of your max Health as bonus physical damage and grants 10% of the damage as max Health.\n\n[Passive] Goliath: For each 1000 max Health, gain 3% increased size, up to 30%."
+      "text": "Gold: Total: 3000g (Base: 400g, Sell: 2100g)$(br)Stats: Health: 900$(br)Tags: Health, HealthRegen$(br2)[Passive] Colossal Consumption: (0s) per target If an enemy champion is nearby for a few seconds, your next Attack against them deals 70 plus 6% of your max Health as bonus physical damage and grants 10% of the damage as max Health.$(br2)[Passive] Goliath: For each 1000 max Health, gain 3% increased size, up to 30%."
     }
   ]
 }

@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:boots",
-      "text": "Gold: Total: 300g (Base: 300g, Sell: 210g)\nStats: Move Speed: 25\nTags: Boots"
+      "text": "Gold: Total: 300g (Base: 300g, Sell: 210g)$(br)Stats: Move Speed: 25$(br)Tags: Boots"
     }
   ]
 }

@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:boots_of_swiftness",
-      "text": "Gold: Total: 1000g (Base: 700g, Sell: 700g)\nStats: Move Speed: 55\nTags: Boots\n\n[Passive] Fleetfooted: Reduce the effectiveness of Slows by 25%."
+      "text": "Gold: Total: 1000g (Base: 700g, Sell: 700g)$(br)Stats: Move Speed: 55$(br)Tags: Boots$(br2)[Passive] Fleetfooted: Reduce the effectiveness of Slows by 25%."
     }
   ]
 }

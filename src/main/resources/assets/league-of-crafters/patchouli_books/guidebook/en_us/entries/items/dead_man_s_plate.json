@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:dead_man_s_plate",
-      "text": "Gold: Total: 2900g (Base: 900g, Sell: 2030g)\nStats: Health: 350, Armor: 55, Move Speed: 4%\nTags: Health, Armor, Slow, NonbootsMovement\n\n[Passive] Shipwrecker: While moving, build up to 20 bonus Move Speed. Your next Attack discharges built up Move Speed to deal bonus physical damage.\n\n[Passive] Unsinkable: Reduce the effectiveness of Slows by 15%."
+      "text": "Gold: Total: 2900g (Base: 900g, Sell: 2030g)$(br)Stats: Health: 350, Armor: 55, Move Speed: 4%$(br)Tags: Health, Armor, Slow, NonbootsMovement$(br2)[Passive] Shipwrecker: While moving, build up to 20 bonus Move Speed. Your next Attack discharges built up Move Speed to deal bonus physical damage.$(br2)[Passive] Unsinkable: Reduce the effectiveness of Slows by 15%."
     }
   ]
 }

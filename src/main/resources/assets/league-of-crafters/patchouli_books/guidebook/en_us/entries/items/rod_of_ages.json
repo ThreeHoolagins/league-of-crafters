@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:rod_of_ages",
-      "text": "Gold: Total: 2600g (Base: 450g, Sell: 1820g)\nStats: Mana: 500, Health: 350, Ability Power: 45\nTags: Health, HealthRegen, SpellDamage, Mana, ManaRegen\n\n[Passive] Timeless: This item gains 10 Health, 30 Mana and 3 Ability Power every 60 seconds up to 10 times. Upon reaching max stacks, gain a level.\n\n[Passive] Eternity: Taking damage from champions restores 10% of the damage as Mana. Casting an ability heals for 25% of Mana spent."
+      "text": "Gold: Total: 2600g (Base: 450g, Sell: 1820g)$(br)Stats: Mana: 500, Health: 350, Ability Power: 45$(br)Tags: Health, HealthRegen, SpellDamage, Mana, ManaRegen$(br2)[Passive] Timeless: This item gains 10 Health, 30 Mana and 3 Ability Power every 60 seconds up to 10 times. Upon reaching max stacks, gain a level.$(br2)[Passive] Eternity: Taking damage from champions restores 10% of the damage as Mana. Casting an ability heals for 25% of Mana spent."
     }
   ]
 }

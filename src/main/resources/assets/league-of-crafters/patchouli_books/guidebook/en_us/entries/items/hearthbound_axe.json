@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:hearthbound_axe",
-      "text": "Gold: Total: 1200g (Base: 250g, Sell: 840g)\nStats: Attack Damage: 20, Attack Speed: 20%\nTags: Damage, AttackSpeed"
+      "text": "Gold: Total: 1200g (Base: 250g, Sell: 840g)$(br)Stats: Attack Damage: 20, Attack Speed: 20%$(br)Tags: Damage, AttackSpeed"
     }
   ]
 }

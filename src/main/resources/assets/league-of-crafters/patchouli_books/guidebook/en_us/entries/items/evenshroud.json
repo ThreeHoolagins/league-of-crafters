@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:evenshroud",
-      "text": "Gold: Total: 2500g (Sell: 1750g)\nStats: Magic Resist: 30, Health: 200, Armor: 30\nTags: Health, SpellBlock, Armor, AbilityHaste\n\n[Passive] Coruscation: After Immobilizing champions or being Immobilized, cause that target and all nearby enemy champions to take 7% increased damage for 5 seconds. Mythic Passive: Grants all other Legendary items 5 Armor and Magic Resist"
+      "text": "Gold: Total: 2500g (Sell: 1750g)$(br)Stats: Magic Resist: 30, Health: 200, Armor: 30$(br)Tags: Health, SpellBlock, Armor, AbilityHaste$(br2)[Passive] Coruscation: After Immobilizing champions or being Immobilized, cause that target and all nearby enemy champions to take 7% increased damage for 5 seconds. Mythic Passive: Grants all other Legendary items 5 Armor and Magic Resist"
     }
   ]
 }

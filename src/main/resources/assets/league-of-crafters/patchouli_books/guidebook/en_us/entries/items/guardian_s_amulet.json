@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:guardian_s_amulet",
-      "text": "Gold: Total: 500g (Base: 500g, Sell: 250g)\nStats: Ability Power: 20\nTags: SpellDamage, ManaRegen, CooldownReduction, Lane, AbilityHaste\n\n[Passive] Recovery: Restores 10 Mana every 5 seconds. If you can't gain mana, restores 3 Health instead."
+      "text": "Gold: Total: 500g (Base: 500g, Sell: 250g)$(br)Stats: Ability Power: 20$(br)Tags: SpellDamage, ManaRegen, CooldownReduction, Lane, AbilityHaste$(br2)[Passive] Recovery: Restores 10 Mana every 5 seconds. If you can't gain mana, restores 3 Health instead."
     }
   ]
 }

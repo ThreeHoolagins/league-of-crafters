@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:zephyr",
-      "text": "Gold: Total: 2500g (Base: 2500g, Sell: 1250g)\nStats: Attack Speed: 40%, Move Speed: 8%\nTags: AttackSpeed, CooldownReduction, OnHit, NonbootsMovement, Tenacity\n\n[Passive] Like the Wind: Gain 5% Move Speed On-Hit for 6 seconds, stacking up to 25% Move Speed."
+      "text": "Gold: Total: 2500g (Base: 2500g, Sell: 1250g)$(br)Stats: Attack Speed: 40%, Move Speed: 8%$(br)Tags: AttackSpeed, CooldownReduction, OnHit, NonbootsMovement, Tenacity$(br2)[Passive] Like the Wind: Gain 5% Move Speed On-Hit for 6 seconds, stacking up to 25% Move Speed."
     }
   ]
 }

@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:aether_wisp",
-      "text": "Gold: Total: 900g (Base: 500g, Sell: 630g)\nStats: Ability Power: 30, Move Speed: 4%\nTags: NonbootsMovement, SpellDamage"
+      "text": "Gold: Total: 900g (Base: 500g, Sell: 630g)$(br)Stats: Ability Power: 30, Move Speed: 4%$(br)Tags: NonbootsMovement, SpellDamage"
     }
   ]
 }

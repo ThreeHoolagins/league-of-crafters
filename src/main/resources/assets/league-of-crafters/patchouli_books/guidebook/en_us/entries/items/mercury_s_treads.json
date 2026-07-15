@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:mercury_s_treads",
-      "text": "Gold: Total: 1250g (Base: 550g, Sell: 875g)\nStats: Magic Resist: 20, Move Speed: 45\nTags: Boots, SpellBlock, Tenacity"
+      "text": "Gold: Total: 1250g (Base: 550g, Sell: 875g)$(br)Stats: Magic Resist: 20, Move Speed: 45$(br)Tags: Boots, SpellBlock, Tenacity"
     }
   ]
 }

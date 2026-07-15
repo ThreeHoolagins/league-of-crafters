@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:yun_tal_wildarrows",
-      "text": "Gold: Total: 3100g (Base: 850g, Sell: 2170g)\nStats: Attack Damage: 50, Attack Speed: 40%\nTags: Damage, CriticalStrike, AttackSpeed\n\n[Passive] Practice Makes Lethal: On-Attack, gain Critical Strike Chance permanently up to 25%.\n\n[Passive] Flurry: On-Attacking an enemy champion, gain 30% Attack Speed for 6 seconds (30 second cooldown). Attacks reduce this cooldown by 1 second, increased to 2 seconds for Critical Strikes."
+      "text": "Gold: Total: 3100g (Base: 850g, Sell: 2170g)$(br)Stats: Attack Damage: 50, Attack Speed: 40%$(br)Tags: Damage, CriticalStrike, AttackSpeed$(br2)[Passive] Practice Makes Lethal: On-Attack, gain Critical Strike Chance permanently up to 25%.$(br2)[Passive] Flurry: On-Attacking an enemy champion, gain 30% Attack Speed for 6 seconds (30 second cooldown). Attacks reduce this cooldown by 1 second, increased to 2 seconds for Critical Strikes."
     }
   ]
 }

@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:b_f_sword",
-      "text": "Gold: Total: 1300g (Base: 1300g, Sell: 910g)\nStats: Attack Damage: 40\nTags: Damage"
+      "text": "Gold: Total: 1300g (Base: 1300g, Sell: 910g)$(br)Stats: Attack Damage: 40$(br)Tags: Damage"
     }
   ]
 }

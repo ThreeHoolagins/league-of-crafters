@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:lost_chapter",
-      "text": "Gold: Total: 1200g (Base: 250g, Sell: 840g)\nStats: Mana: 300, Ability Power: 40\nTags: SpellDamage, Mana, ManaRegen, CooldownReduction, AbilityHaste\n\n[Passive] Enlighten: Levelling up restores 20% max Mana over 3 seconds."
+      "text": "Gold: Total: 1200g (Base: 250g, Sell: 840g)$(br)Stats: Mana: 300, Ability Power: 40$(br)Tags: SpellDamage, Mana, ManaRegen, CooldownReduction, AbilityHaste$(br2)[Passive] Enlighten: Levelling up restores 20% max Mana over 3 seconds."
     }
   ]
 }

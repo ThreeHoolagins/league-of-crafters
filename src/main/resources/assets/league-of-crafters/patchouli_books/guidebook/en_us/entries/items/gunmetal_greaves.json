@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:gunmetal_greaves",
-      "text": "Gold: Total: 1100g (Base: 0g, Sell: 770g)\nStats: Move Speed: 45, Attack Speed: 40%, Life Steal: 5%\nTags: AttackSpeed, LifeSteal, NonbootsMovement\n\n[Passive] Noxian Gait: Attacks against Champions grant Move Speed On-Hit decaying over 2 seconds."
+      "text": "Gold: Total: 1100g (Base: 0g, Sell: 770g)$(br)Stats: Move Speed: 45, Attack Speed: 40%, Life Steal: 5%$(br)Tags: AttackSpeed, LifeSteal, NonbootsMovement$(br2)[Passive] Noxian Gait: Attacks against Champions grant Move Speed On-Hit decaying over 2 seconds."
     }
   ]
 }

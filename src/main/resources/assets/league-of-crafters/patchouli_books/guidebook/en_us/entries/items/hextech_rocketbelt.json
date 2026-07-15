@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:hextech_rocketbelt",
-      "text": "Gold: Total: 2650g (Base: 300g, Sell: 1855g)\nStats: Health: 300, Ability Power: 70\nTags: Health, SpellDamage, Active, CooldownReduction, NonbootsMovement, AbilityHaste\n\n[Active] Supersonic: Dash in target direction, unleashing missiles that deal magic damage."
+      "text": "Gold: Total: 2650g (Base: 300g, Sell: 1855g)$(br)Stats: Health: 300, Ability Power: 70$(br)Tags: Health, SpellDamage, Active, CooldownReduction, NonbootsMovement, AbilityHaste$(br2)[Active] Supersonic: Dash in target direction, unleashing missiles that deal magic damage."
     }
   ]
 }

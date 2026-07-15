@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:death_s_dance",
-      "text": "Gold: Total: 3300g (Base: 275g, Sell: 2310g)\nStats: Armor: 50, Attack Damage: 60\nTags: Armor, Damage, AbilityHaste\n\n[Passive] Ignore Pain: A percentage of damage taken is dealt to you over 3 seconds instead.\n\n[Passive] Defy: When a champion that you damaged within 3 seconds dies, cleanse\n\n[Passive] Ignore Pain's: remaining damage and restore Health over 2 seconds."
+      "text": "Gold: Total: 3300g (Base: 275g, Sell: 2310g)$(br)Stats: Armor: 50, Attack Damage: 60$(br)Tags: Armor, Damage, AbilityHaste$(br2)[Passive] Ignore Pain: A percentage of damage taken is dealt to you over 3 seconds instead.$(br2)[Passive] Defy: When a champion that you damaged within 3 seconds dies, cleanse$(br2)[Passive] Ignore Pain's: remaining damage and restore Health over 2 seconds."
     }
   ]
 }

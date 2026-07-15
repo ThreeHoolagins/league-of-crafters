@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:runic_compass",
-      "text": "Gold: Total: 400g (Sell: 160g)\nStats: Health: 100\nTags: SpellDamage, ManaRegen, Vision, GoldPer, Lane\n\n[Passive] Support Quest: Earn 0 gold from this item to transform it into Bounty of Worlds.\n\n[Passive] Shared Riches: (0s, max 0 charges) While near an ally champion, damage enemy champions or kill minions to gain gold.\n\n[Active] Active: (3 charges) Places an Invisible Stealth Ward that grants vision."
+      "text": "Gold: Total: 400g (Sell: 160g)$(br)Stats: Health: 100$(br)Tags: SpellDamage, ManaRegen, Vision, GoldPer, Lane$(br2)[Passive] Support Quest: Earn 0 gold from this item to transform it into Bounty of Worlds.$(br2)[Passive] Shared Riches: (0s, max 0 charges) While near an ally champion, damage enemy champions or kill minions to gain gold.$(br2)[Active] Active: (3 charges) Places an Invisible Stealth Ward that grants vision."
     }
   ]
 }

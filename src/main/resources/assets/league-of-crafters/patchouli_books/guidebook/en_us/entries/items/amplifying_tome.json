@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:amplifying_tome",
-      "text": "Gold: Total: 400g (Base: 400g, Sell: 280g)\nStats: Ability Power: 20\nTags: SpellDamage"
+      "text": "Gold: Total: 400g (Base: 400g, Sell: 280g)$(br)Stats: Ability Power: 20$(br)Tags: SpellDamage"
     }
   ]
 }

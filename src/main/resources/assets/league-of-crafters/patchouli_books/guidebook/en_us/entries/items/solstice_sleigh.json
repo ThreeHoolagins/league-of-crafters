@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:solstice_sleigh",
-      "text": "Gold: Total: 400g (Base: 0g, Sell: 160g)\nStats: Health: 200\nTags: Health, HealthRegen, ManaRegen, Vision, GoldPer, Lane\n\n[Passive] Going Sledding: Slowing or Immobilizing an enemy champion near allies restores Health and grants 20% decaying Move Speed for 2.5 seconds to you and a nearby ally.\n\n[Active] Active: (4 charges) Places an Invisible Stealth Ward that grants vision."
+      "text": "Gold: Total: 400g (Base: 0g, Sell: 160g)$(br)Stats: Health: 200$(br)Tags: Health, HealthRegen, ManaRegen, Vision, GoldPer, Lane$(br2)[Passive] Going Sledding: Slowing or Immobilizing an enemy champion near allies restores Health and grants 20% decaying Move Speed for 2.5 seconds to you and a nearby ally.$(br2)[Active] Active: (4 charges) Places an Invisible Stealth Ward that grants vision."
     }
   ]
 }

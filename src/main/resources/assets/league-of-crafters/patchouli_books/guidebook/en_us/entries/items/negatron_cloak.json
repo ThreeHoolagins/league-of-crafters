@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:negatron_cloak",
-      "text": "Gold: Total: 850g (Base: 450g, Sell: 595g)\nStats: Magic Resist: 45\nTags: SpellBlock"
+      "text": "Gold: Total: 850g (Base: 450g, Sell: 595g)$(br)Stats: Magic Resist: 45$(br)Tags: SpellBlock"
     }
   ]
 }

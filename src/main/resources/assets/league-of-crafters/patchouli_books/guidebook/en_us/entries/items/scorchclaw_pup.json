@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:scorchclaw_pup",
-      "text": "Gold: Total: 450g (Base: 450g, Sell: 0g)\nStats: No stats\nTags: Jungle\n\n[Passive] Jungle Companions: Summon a Scorchclaw that assists you against monsters. The companion grows as you hunt monsters, empowering your Smite. When fully grown, it completes your Jungle Quest and periodically imbues your next Attack or Ability to burn enemies and Slow them. Killing large monsters readies this immediately."
+      "text": "Gold: Total: 450g (Base: 450g, Sell: 0g)$(br)Stats: No stats$(br)Tags: Jungle$(br2)[Passive] Jungle Companions: Summon a Scorchclaw that assists you against monsters. The companion grows as you hunt monsters, empowering your Smite. When fully grown, it completes your Jungle Quest and periodically imbues your next Attack or Ability to burn enemies and Slow them. Killing large monsters readies this immediately."
     }
   ]
 }

@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:shadowflame",
-      "text": "Gold: Total: 3200g (Base: 900g, Sell: 2240g)\nStats: Ability Power: 110\nTags: SpellDamage, MagicPenetration\n\n[Passive] Cinderbloom: Magic and true damage Critically Strike enemies below 40% Health, dealing 20% increased damage."
+      "text": "Gold: Total: 3200g (Base: 900g, Sell: 2240g)$(br)Stats: Ability Power: 110$(br)Tags: SpellDamage, MagicPenetration$(br2)[Passive] Cinderbloom: Magic and true damage Critically Strike enemies below 40% Health, dealing 20% increased damage."
     }
   ]
 }

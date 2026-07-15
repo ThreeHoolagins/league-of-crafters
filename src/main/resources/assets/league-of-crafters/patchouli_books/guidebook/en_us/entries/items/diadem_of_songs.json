@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:diadem_of_songs",
-      "text": "Gold: Total: 2250g (Sell: 1575g)\nStats: Mana: 1000, Health: 200\nTags: Health, Mana, ManaRegen, AbilityHaste\n\n[Passive] Harmony: Gain % Heal and Shield Power.\n\n[Passive] Consonance: While you or any ally you've healed or shielded in the last 3 seconds is in combat with champions, each second, heal the lowest health nearby ally champion."
+      "text": "Gold: Total: 2250g (Sell: 1575g)$(br)Stats: Mana: 1000, Health: 200$(br)Tags: Health, Mana, ManaRegen, AbilityHaste$(br2)[Passive] Harmony: Gain % Heal and Shield Power.$(br2)[Passive] Consonance: While you or any ally you've healed or shielded in the last 3 seconds is in combat with champions, each second, heal the lowest health nearby ally champion."
     }
   ]
 }

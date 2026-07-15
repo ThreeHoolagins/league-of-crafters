@@ -33,14 +33,10 @@ public class ModBlocks {
         new WardBlock(BlockBehaviour.Properties.of()
             .noCollission().strength(0.0f).noOcclusion().pushReaction(PushReaction.DESTROY), 600));
 
-    public static final WardBlock SCARECROW_EFFIGY_BLOCK = registerBlock("scarecrow_effigy_block",
-        new WardBlock(BlockBehaviour.Properties.of()
-            .noCollission().strength(0.0f).noOcclusion().pushReaction(PushReaction.DESTROY), 2400));
-
     static {
         WARD_BLOCK_ENTITY = registerBlockEntity("ward_block_entity",
             () -> BlockEntityType.Builder.of(WardBlockEntity::new,
-                STEALTH_WARD_BLOCK, CONTROL_WARD_BLOCK, FARSIGHT_ALTERATION_BLOCK, ORACLE_LENS_BLOCK, SCARECROW_EFFIGY_BLOCK
+                STEALTH_WARD_BLOCK, CONTROL_WARD_BLOCK, FARSIGHT_ALTERATION_BLOCK, ORACLE_LENS_BLOCK
             ).build());
     }
 

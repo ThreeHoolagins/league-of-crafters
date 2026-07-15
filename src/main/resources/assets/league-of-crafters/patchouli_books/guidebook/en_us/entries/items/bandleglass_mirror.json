@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:bandleglass_mirror",
-      "text": "Gold: Total: 900g (Base: 50g, Sell: 630g)\nStats: Ability Power: 20\nTags: SpellDamage, ManaRegen, CooldownReduction, AbilityHaste"
+      "text": "Gold: Total: 900g (Base: 50g, Sell: 630g)$(br)Stats: Ability Power: 20$(br)Tags: SpellDamage, ManaRegen, CooldownReduction, AbilityHaste"
     }
   ]
 }

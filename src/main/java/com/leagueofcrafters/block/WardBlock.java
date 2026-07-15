@@ -70,7 +70,6 @@ public class WardBlock extends BaseEntityBlock {
         if (this == ModBlocks.CONTROL_WARD_BLOCK) return new ItemStack(ModItems.CONTROL_WARD);
         if (this == ModBlocks.FARSIGHT_ALTERATION_BLOCK) return new ItemStack(ModItems.FARSIGHT_ALTERATION);
         if (this == ModBlocks.ORACLE_LENS_BLOCK) return new ItemStack(ModItems.ORACLE_LENS);
-        if (this == ModBlocks.SCARECROW_EFFIGY_BLOCK) return new ItemStack(ModItems.SCARECROW_EFFIGY);
         return super.getCloneItemStack(level, pos, state);
     }
 

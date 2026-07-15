@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:world_atlas",
-      "text": "Gold: Total: 400g (Base: 400g, Sell: 160g)\nStats: Health: 30\nTags: Health, ManaRegen, Vision, GoldPer, Lane"
+      "text": "Gold: Total: 400g (Base: 400g, Sell: 160g)$(br)Stats: Health: 30$(br)Tags: Health, ManaRegen, Vision, GoldPer, Lane"
     }
   ]
 }

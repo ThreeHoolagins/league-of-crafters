@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:forever_forward",
-      "text": "Gold: Total: 900g (Sell: 630g)\nStats: Move Speed: 55\nTags: Boots\n\n[Passive] Omnipresent: Gain a new Active: Teleport.\n\n[Passive] Voidborn: Gain Empowered Recall.\n\n[Passive] Noxian Synchrony: Gain 45 Move Speed and 8% total Move Speed when out of combat."
+      "text": "Gold: Total: 900g (Sell: 630g)$(br)Stats: Move Speed: 55$(br)Tags: Boots$(br2)[Passive] Omnipresent: Gain a new Active: Teleport.$(br2)[Passive] Voidborn: Gain Empowered Recall.$(br2)[Passive] Noxian Synchrony: Gain 45 Move Speed and 8% total Move Speed when out of combat."
     }
   ]
 }

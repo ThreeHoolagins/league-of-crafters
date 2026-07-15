@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:endless_hunger",
-      "text": "Gold: Total: 3100g (Base: 825g, Sell: 2170g)\nStats: Attack Damage: 65\nTags: Damage, LifeSteal, SpellVamp, Tenacity, AbilityHaste\n\n[Passive] Famine: Gain Ability Haste based on your Bonus AD.\n\n[Passive] Feast: When a champion that you damaged recently dies, gain Omnivamp for a moderate duration."
+      "text": "Gold: Total: 3100g (Base: 825g, Sell: 2170g)$(br)Stats: Attack Damage: 65$(br)Tags: Damage, LifeSteal, SpellVamp, Tenacity, AbilityHaste$(br2)[Passive] Famine: Gain Ability Haste based on your Bonus AD.$(br2)[Passive] Feast: When a champion that you damaged recently dies, gain Omnivamp for a moderate duration."
     }
   ]
 }

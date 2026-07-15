@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:doran_s_ring",
-      "text": "Gold: Total: 400g (Base: 400g, Sell: 160g)\nStats: Health: 90, Ability Power: 18\nTags: Health, Lane, ManaRegen, SpellDamage\n\n[Passive] Drain: Restore 1 Mana every second, increased to 2 Mana per second for 5 seconds after dealing damage to an enemy champion. If you can't gain Mana, heal for 45% of this value instead.\n\n[Passive] Helping Hand: Attacks deal 5 bonus physical damage to minions."
+      "text": "Gold: Total: 400g (Base: 400g, Sell: 160g)$(br)Stats: Health: 90, Ability Power: 18$(br)Tags: Health, Lane, ManaRegen, SpellDamage$(br2)[Passive] Drain: Restore 1 Mana every second, increased to 2 Mana per second for 5 seconds after dealing damage to an enemy champion. If you can't gain Mana, heal for 45% of this value instead.$(br2)[Passive] Helping Hand: Attacks deal 5 bonus physical damage to minions."
     }
   ]
 }

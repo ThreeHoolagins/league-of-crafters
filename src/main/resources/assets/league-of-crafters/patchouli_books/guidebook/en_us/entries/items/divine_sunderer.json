@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:divine_sunderer",
-      "text": "Gold: Total: 3450g (Sell: 2415g)\nStats: Health: 300, Attack Damage: 40\nTags: Health, Damage, CooldownReduction, OnHit, MagicPenetration, ArmorPenetration, AbilityHaste\n\n[Passive] Spellblade: After using an Ability, your next Attack is enhanced with an additional + {{ Item_Melee_Ranged_Split_B }} target max Health physical damage {{ Item_Cooldown }}. If the target is a champion, also heal for 55% of the premitigation damage. {{ Item_Mythic_Passive }} 3% Armor Penetration and 3% Magic Penetration.\n\n[Passive] Spellblade: deals min damage to units, but no more than damage to Monsters. {{ Item_Melee_Ranged_Rules }}"
+      "text": "Gold: Total: 3450g (Sell: 2415g)$(br)Stats: Health: 300, Attack Damage: 40$(br)Tags: Health, Damage, CooldownReduction, OnHit, MagicPenetration, ArmorPenetration, AbilityHaste$(br2)[Passive] Spellblade: After using an Ability, your next Attack is enhanced with an additional + {{ Item_Melee_Ranged_Split_B }} target max Health physical damage {{ Item_Cooldown }}. If the target is a champion, also heal for 55% of the premitigation damage. {{ Item_Mythic_Passive }} 3% Armor Penetration and 3% Magic Penetration.$(br2)[Passive] Spellblade: deals min damage to units, but no more than damage to Monsters. {{ Item_Melee_Ranged_Rules }}"
     }
   ]
 }

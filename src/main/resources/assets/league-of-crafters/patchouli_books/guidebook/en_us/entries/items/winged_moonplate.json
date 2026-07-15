@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:winged_moonplate",
-      "text": "Gold: Total: 800g (Base: 400g, Sell: 560g)\nStats: Health: 200, Move Speed: 4%\nTags: Health, NonbootsMovement"
+      "text": "Gold: Total: 800g (Base: 400g, Sell: 560g)$(br)Stats: Health: 200, Move Speed: 4%$(br)Tags: Health, NonbootsMovement"
     }
   ]
 }

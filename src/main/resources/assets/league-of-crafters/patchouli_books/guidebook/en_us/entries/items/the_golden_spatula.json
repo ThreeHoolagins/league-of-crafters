@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:the_golden_spatula",
-      "text": "Gold: Total: 2500g (Sell: 1750g)\nStats: Magic Resist: 10, Mana: 250, Health: 250, Ability Power: 125, Armor: 10, Critical Strike Chance: 25%, Attack Damage: 90, Attack Speed: 30%, Life Steal: 10%\nTags: Health, SpellBlock, HealthRegen, Armor, Damage, CriticalStrike, AttackSpeed, LifeSteal, SpellDamage, Mana, ManaRegen, CooldownReduction, NonbootsMovement\n\n[Passive] Effect: \"It must do something... Declined, it does EVERYTHING\""
+      "text": "Gold: Total: 2500g (Sell: 1750g)$(br)Stats: Magic Resist: 10, Mana: 250, Health: 250, Ability Power: 125, Armor: 10, Critical Strike Chance: 25%, Attack Damage: 90, Attack Speed: 30%, Life Steal: 10%$(br)Tags: Health, SpellBlock, HealthRegen, Armor, Damage, CriticalStrike, AttackSpeed, LifeSteal, SpellDamage, Mana, ManaRegen, CooldownReduction, NonbootsMovement$(br2)[Passive] Effect: \"It must do something... Declined, it does EVERYTHING\""
     }
   ]
 }

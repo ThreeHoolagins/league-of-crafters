@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:seraph_s_embrace",
-      "text": "Gold: Total: 2900g (Sell: 2030g)\nStats: Mana: 1000, Ability Power: 70\nTags: SpellDamage, Mana, AbilityHaste\n\n[Passive] Awe: Gain Ability Power.\n\n[Passive] Lifeline: (0s) Taking damage that would reduce your Health below 30% grants a Shield for 3 seconds."
+      "text": "Gold: Total: 2900g (Sell: 2030g)$(br)Stats: Mana: 1000, Ability Power: 70$(br)Tags: SpellDamage, Mana, AbilityHaste$(br2)[Passive] Awe: Gain Ability Power.$(br2)[Passive] Lifeline: (0s) Taking damage that would reduce your Health below 30% grants a Shield for 3 seconds."
     }
   ]
 }

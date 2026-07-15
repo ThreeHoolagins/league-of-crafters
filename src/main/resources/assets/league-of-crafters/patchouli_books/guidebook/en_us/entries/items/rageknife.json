@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:rageknife",
-      "text": "Gold: Total: 1100g (Sell: 770g)\nStats: Attack Speed: 25%\nTags: AttackSpeed, OnHit\n\n[Passive] Wrath: Attacks apply 20 magic damage On-Hit.\n\n[Passive] Seething Strike: Basic attacks grant 5% Attack Speed, stacking up to 3 times for a maximum of Attack Speed."
+      "text": "Gold: Total: 1100g (Sell: 770g)$(br)Stats: Attack Speed: 25%$(br)Tags: AttackSpeed, OnHit$(br2)[Passive] Wrath: Attacks apply 20 magic damage On-Hit.$(br2)[Passive] Seething Strike: Basic attacks grant 5% Attack Speed, stacking up to 3 times for a maximum of Attack Speed."
     }
   ]
 }

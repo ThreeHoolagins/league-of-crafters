@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:hexdrinker",
-      "text": "Gold: Total: 1300g (Base: 200g, Sell: 910g)\nStats: Magic Resist: 25, Attack Damage: 25\nTags: Damage, SpellBlock\n\n[Passive] Lifeline: Taking magic damage that would reduce your Health below 30% grants a magic damage Shield for 2.5 seconds."
+      "text": "Gold: Total: 1300g (Base: 200g, Sell: 910g)$(br)Stats: Magic Resist: 25, Attack Damage: 25$(br)Tags: Damage, SpellBlock$(br2)[Passive] Lifeline: Taking magic damage that would reduce your Health below 30% grants a magic damage Shield for 2.5 seconds."
     }
   ]
 }

@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:umbral_glaive",
-      "text": "Gold: Total: 2800g (Base: 750g, Sell: 1960g)\nStats: Attack Damage: 60\nTags: Damage, Vision, CooldownReduction, ArmorPenetration, AbilityHaste\n\n[Passive] Nightstalker: After being unseen by enemies briefly, your next attack against a champion deals an additional true damage.\n\n[Passive] Blackout: When you are near enemy Stealth Wards and traps, reveal them briefly. While revealing wards, your attacks deal bonus damage to them."
+      "text": "Gold: Total: 2800g (Base: 750g, Sell: 1960g)$(br)Stats: Attack Damage: 60$(br)Tags: Damage, Vision, CooldownReduction, ArmorPenetration, AbilityHaste$(br2)[Passive] Nightstalker: After being unseen by enemies briefly, your next attack against a champion deals an additional true damage.$(br2)[Passive] Blackout: When you are near enemy Stealth Wards and traps, reveal them briefly. While revealing wards, your attacks deal bonus damage to them."
     }
   ]
 }

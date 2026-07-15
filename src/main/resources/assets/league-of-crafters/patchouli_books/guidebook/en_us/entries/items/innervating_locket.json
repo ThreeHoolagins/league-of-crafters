@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:innervating_locket",
-      "text": "Gold: Total: 2950g (Base: 600g, Sell: 2065g)\nStats: Mana: 300, Health: 400, Attack Damage: 30\nTags: Health, Damage, Mana, CooldownReduction, AbilityHaste\n\n[Passive] Eternity: Restore Mana equal to 15% of premitigation damage taken from champions, and Health equal to 25% of Mana spent, up to 20 Health per cast, per second.\n\n[Passive] Innervate: After using an ability, restore 3% missing Health and 3% missing Mana over 3 seconds. \"Cast down the Noxians\" \u2013 Bobdyr, Temple Guardsman"
+      "text": "Gold: Total: 2950g (Base: 600g, Sell: 2065g)$(br)Stats: Mana: 300, Health: 400, Attack Damage: 30$(br)Tags: Health, Damage, Mana, CooldownReduction, AbilityHaste$(br2)[Passive] Eternity: Restore Mana equal to 15% of premitigation damage taken from champions, and Health equal to 25% of Mana spent, up to 20 Health per cast, per second.$(br2)[Passive] Innervate: After using an ability, restore 3% missing Health and 3% missing Mana over 3 seconds. \"Cast down the Noxians\" \u2013 Bobdyr, Temple Guardsman"
     }
   ]
 }

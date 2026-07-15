@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:glowing_mote",
-      "text": "Gold: Total: 250g (Base: 250g, Sell: 175g)\nStats: No stats\nTags: CooldownReduction"
+      "text": "Gold: Total: 250g (Base: 250g, Sell: 175g)$(br)Stats: No stats$(br)Tags: CooldownReduction"
     }
   ]
 }

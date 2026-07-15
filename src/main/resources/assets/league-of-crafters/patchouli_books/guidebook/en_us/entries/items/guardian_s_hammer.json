@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:guardian_s_hammer",
-      "text": "Gold: Total: 950g (Base: 950g, Sell: 665g)\nStats: Health: 150, Attack Damage: 25, Life Steal: 5%\nTags: Health, Damage, LifeSteal, Lane"
+      "text": "Gold: Total: 950g (Base: 950g, Sell: 665g)$(br)Stats: Health: 150, Attack Damage: 25, Life Steal: 5%$(br)Tags: Health, Damage, LifeSteal, Lane"
     }
   ]
 }

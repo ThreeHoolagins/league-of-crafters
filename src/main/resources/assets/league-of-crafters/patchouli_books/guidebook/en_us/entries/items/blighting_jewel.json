@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:blighting_jewel",
-      "text": "Gold: Total: 1100g (Base: 700g, Sell: 770g)\nStats: Ability Power: 25\nTags: MagicPenetration, SpellDamage"
+      "text": "Gold: Total: 1100g (Base: 700g, Sell: 770g)$(br)Stats: Ability Power: 25$(br)Tags: MagicPenetration, SpellDamage"
     }
   ]
 }

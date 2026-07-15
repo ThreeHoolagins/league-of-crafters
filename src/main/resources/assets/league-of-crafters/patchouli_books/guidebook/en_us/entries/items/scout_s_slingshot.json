@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:scout_s_slingshot",
-      "text": "Gold: Total: 600g (Base: 100g, Sell: 420g)\nStats: Attack Speed: 20%\nTags: AttackSpeed\n\n[Passive] Bullseye: Damaging a champion deals bonus magic damage. Attacks reduce this cooldown by 1 second."
+      "text": "Gold: Total: 600g (Base: 100g, Sell: 420g)$(br)Stats: Attack Speed: 20%$(br)Tags: AttackSpeed$(br2)[Passive] Bullseye: Damaging a champion deals bonus magic damage. Attacks reduce this cooldown by 1 second."
     }
   ]
 }

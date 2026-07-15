@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:redemption",
-      "text": "Gold: Total: 2800g (Base: 1000g, Sell: 1960g)\nStats: Health: 400, Ability Power: 30\nTags: SpellDamage, ManaRegen, CooldownReduction, AbilityHaste\n\n[Active] Intervention: Restore 150 - 350 Health to allied units and deal 10% max Health true damage to enemy champions after 2.5 seconds."
+      "text": "Gold: Total: 2800g (Base: 1000g, Sell: 1960g)$(br)Stats: Health: 400, Ability Power: 30$(br)Tags: SpellDamage, ManaRegen, CooldownReduction, AbilityHaste$(br2)[Active] Intervention: Restore 150 - 350 Health to allied units and deal 10% max Health true damage to enemy champions after 2.5 seconds."
     }
   ]
 }

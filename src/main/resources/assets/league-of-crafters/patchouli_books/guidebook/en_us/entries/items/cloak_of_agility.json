@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:cloak_of_agility",
-      "text": "Gold: Total: 600g (Base: 600g, Sell: 420g)\nStats: Critical Strike Chance: 15%\nTags: CriticalStrike"
+      "text": "Gold: Total: 600g (Base: 600g, Sell: 420g)$(br)Stats: Critical Strike Chance: 15%$(br)Tags: CriticalStrike"
     }
   ]
 }

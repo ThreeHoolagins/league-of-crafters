@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:mobility_boots",
-      "text": "Gold: Total: 1000g (Sell: 700g)\nStats: Move Speed: 45\nTags: Boots\n\n[Passive] Effect: 25 Move Speed When out of combat for at least 5 seconds, increase this item's effect to 45."
+      "text": "Gold: Total: 1000g (Sell: 700g)$(br)Stats: Move Speed: 45$(br)Tags: Boots$(br2)[Passive] Effect: 25 Move Speed When out of combat for at least 5 seconds, increase this item's effect to 45."
     }
   ]
 }

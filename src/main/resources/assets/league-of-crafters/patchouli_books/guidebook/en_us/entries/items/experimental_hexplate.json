@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:experimental_hexplate",
-      "text": "Gold: Total: 3000g (Base: 500g, Sell: 2100g)\nStats: Health: 450, Attack Damage: 40, Attack Speed: 20%\nTags: Health, Damage, AttackSpeed, CooldownReduction, NonbootsMovement, AbilityHaste\n\n[Passive] Hexcharged: Gain 30 Ultimate Ability Haste.\n\n[Passive] Overdrive: After casting your Ultimate, gain % Attack Speed and % Move Speed for 8 seconds."
+      "text": "Gold: Total: 3000g (Base: 500g, Sell: 2100g)$(br)Stats: Health: 450, Attack Damage: 40, Attack Speed: 20%$(br)Tags: Health, Damage, AttackSpeed, CooldownReduction, NonbootsMovement, AbilityHaste$(br2)[Passive] Hexcharged: Gain 30 Ultimate Ability Haste.$(br2)[Passive] Overdrive: After casting your Ultimate, gain % Attack Speed and % Move Speed for 8 seconds."
     }
   ]
 }

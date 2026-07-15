@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:shurelya_s_battlesong",
-      "text": "Gold: Total: 2600g (Base: 800g, Sell: 1820g)\nStats: Ability Power: 65, Move Speed: 6%\nTags: SpellDamage, ManaRegen, Active, CooldownReduction, NonbootsMovement, AbilityHaste\n\n[Active] Inspiring Speech: Grant nearby allies 30% Move Speed for 4 seconds."
+      "text": "Gold: Total: 2600g (Base: 800g, Sell: 1820g)$(br)Stats: Ability Power: 65, Move Speed: 6%$(br)Tags: SpellDamage, ManaRegen, Active, CooldownReduction, NonbootsMovement, AbilityHaste$(br2)[Active] Inspiring Speech: Grant nearby allies 30% Move Speed for 4 seconds."
     }
   ]
 }

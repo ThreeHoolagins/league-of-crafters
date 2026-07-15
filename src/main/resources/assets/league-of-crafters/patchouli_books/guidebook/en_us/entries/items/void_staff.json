@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:void_staff",
-      "text": "Gold: Total: 3000g (Base: 1050g, Sell: 2100g)\nStats: Ability Power: 95\nTags: MagicPenetration, SpellDamage"
+      "text": "Gold: Total: 3000g (Base: 1050g, Sell: 2100g)$(br)Stats: Ability Power: 95$(br)Tags: MagicPenetration, SpellDamage"
     }
   ]
 }

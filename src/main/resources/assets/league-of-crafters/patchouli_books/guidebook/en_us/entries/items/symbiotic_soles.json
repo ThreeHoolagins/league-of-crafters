@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:symbiotic_soles",
-      "text": "Gold: Total: 900g (Sell: 630g)\nStats: Move Speed: 40\nTags: Boots\n\n[Passive] Synchrony: Gain 10 Move Speed when out of combat.\n\n[Passive] Symbiosis: After traveling 150000 units of distance, transform into Synchronized Souls."
+      "text": "Gold: Total: 900g (Sell: 630g)$(br)Stats: Move Speed: 40$(br)Tags: Boots$(br2)[Passive] Synchrony: Gain 10 Move Speed when out of combat.$(br2)[Passive] Symbiosis: After traveling 150000 units of distance, transform into Synchronized Souls."
     }
   ]
 }

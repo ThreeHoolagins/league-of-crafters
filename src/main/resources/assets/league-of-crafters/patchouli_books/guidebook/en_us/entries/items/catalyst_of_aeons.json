@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:catalyst_of_aeons",
-      "text": "Gold: Total: 1300g (Base: 200g, Sell: 910g)\nStats: Mana: 375, Health: 300\nTags: Health, HealthRegen, Mana, ManaRegen\n\n[Passive] Eternity: Restores 10% of the damage taken from champions as Mana. Casting an Ability heals for 25% of Mana spent."
+      "text": "Gold: Total: 1300g (Base: 200g, Sell: 910g)$(br)Stats: Mana: 375, Health: 300$(br)Tags: Health, HealthRegen, Mana, ManaRegen$(br2)[Passive] Eternity: Restores 10% of the damage taken from champions as Mana. Casting an Ability heals for 25% of Mana spent."
     }
   ]
 }

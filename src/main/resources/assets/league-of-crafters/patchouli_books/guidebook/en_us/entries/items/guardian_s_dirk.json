@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:guardian_s_dirk",
-      "text": "Gold: Total: 500g (Base: 500g, Sell: 250g)\nStats: Attack Damage: 25\nTags: Damage, ArmorPenetration, Lane\n\n[Passive] Agricultural Reaper: Increases effects of Power Flower by 20%. Gain 100 Move Speed for 3s after attacking a plant."
+      "text": "Gold: Total: 500g (Base: 500g, Sell: 250g)$(br)Stats: Attack Damage: 25$(br)Tags: Damage, ArmorPenetration, Lane$(br2)[Passive] Agricultural Reaper: Increases effects of Power Flower by 20%. Gain 100 Move Speed for 3s after attacking a plant."
     }
   ]
 }

@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:elixir_of_wrath",
-      "text": "Gold: Total: 500g (Base: 500g, Sell: 200g)\nStats: No stats\nTags: Consumable, Damage, LifeSteal, SpellVamp\n\n[Active] Consume: Grants 30 Attack Damage and 12% Physical Vamp against champions for 3 minutes."
+      "text": "Gold: Total: 500g (Base: 500g, Sell: 200g)$(br)Stats: No stats$(br)Tags: Consumable, Damage, LifeSteal, SpellVamp$(br2)[Active] Consume: Grants 30 Attack Damage and 12% Physical Vamp against champions for 3 minutes."
     }
   ]
 }

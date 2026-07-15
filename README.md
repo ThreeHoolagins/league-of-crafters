@@ -63,8 +63,7 @@
 | Dawncore | Draft | `dawncore` |
 | Dead Man's Plate | Draft | `dead_man_s_plate` |
 | Death's Dance | Draft | `death_s_dance` |
-| Deathfire Grasp | Draft | `deathfire_grasp` |
-| Demon King's Crown | Draft | `demon_king_s_crown` |
+| Demonic Embrace | Draft | `demonic_embrace` |
 | Demonic Embrace | Draft | `demonic_embrace` |
 | Diadem of Songs | Draft | `diadem_of_songs` |
 | Divine Sunderer | Draft | `divine_sunderer` |
@@ -103,7 +102,6 @@
 | Forever Forward | Draft | `forever_forward` |
 | Frostfang | Draft | `frostfang` |
 | Frozen Heart | Draft | `frozen_heart` |
-| Frozen Mallet | Draft | `frozen_mallet` |
 | Galeforce | Draft | `galeforce` |
 | Gambler's Blade | Draft | `gambler_s_blade` |
 | Gargoyle Stoneplate | Draft | `gargoyle_stoneplate` |
@@ -124,7 +122,6 @@
 | Guardian's Shroud | Draft | `guardian_s_shroud` |
 | Guinsoo's Rageblade | Draft | `guinsoo_s_rageblade` |
 | Gunmetal Greaves | Draft | `gunmetal_greaves` |
-| Gusto | Draft | `gusto` |
 | Gustwalker Hatchling | Draft | `gustwalker_hatchling` |
 | Hailblade | Draft | `hailblade` |
 | Harrowing Crescent | Draft | `harrowing_crescent` |
@@ -151,18 +148,15 @@
 | Ironspike Whip | Draft | `ironspike_whip` |
 | Jak'Sho, The Protean | Draft | `jak_sho_the_protean` |
 | Kaenic Rookern | Draft | `kaenic_rookern` |
-| Kalista's Black Spear | Draft | `kalista_s_black_spear` |
 | Kindlegem | Draft | `kindlegem` |
 | Kircheis Shard | Draft | `kircheis_shard` |
 | Knight's Vow | Draft | `knight_s_vow` |
 | Kraken Slayer | Draft | `kraken_slayer` |
 | Last Whisper | Draft | `last_whisper` |
-| Leeching Leer | Draft | `leeching_leer` |
 | Liandry's Torment | Draft | `liandry_s_torment` |
 | Lich Bane | Draft | `lich_bane` |
 | Lifeline | Draft | `lifeline` |
 | Lifewell Pendant | Draft | `lifewell_pendant` |
-| Lightning Braid | Draft | `lightning_braid` |
 | Locket of the Iron Solari | Draft | `locket_of_the_iron_solari` |
 | Long Sword | Draft | `long_sword` |
 | Lord Dominik's Regards | Draft | `lord_dominik_s_regards` |
@@ -193,15 +187,10 @@
 | Obsidian Edge | Draft | `obsidian_edge` |
 | Opportunity | Draft | `opportunity` |
 | Oracle Lens | Draft | `oracle_lens` |
-| Overcharged | Draft | `overcharged` |
-| OvererchargedHA | Draft | `overerchargedha` |
-| Overgrowth | Draft | `overgrowth` |
 | Overlord's Bloodmail | Draft | `overlord_s_bloodmail` |
 | Pauldrons of Whiterock | Draft | `pauldrons_of_whiterock` |
-| Penetrating Bullets | Draft | `penetrating_bullets` |
 | Phage | Draft | `phage` |
 | Phantom Dancer | Draft | `phantom_dancer` |
-| Phreakish Gusto | Draft | `phreakish_gusto` |
 | Pickaxe | Draft | `pickaxe` |
 | Plated Steelcaps | Draft | `plated_steelcaps` |
 | Profane Hydra | Draft | `profane_hydra` |
@@ -218,7 +207,6 @@
 | Recurve Bow | Draft | `recurve_bow` |
 | Redemption | Draft | `redemption` |
 | Refillable Potion | Draft | `refillable_potion` |
-| Reinforced Armor | Draft | `reinforced_armor` |
 | Rejuvenation Bead | Draft | `rejuvenation_bead` |
 | Relic Shield | Draft | `relic_shield` |
 | Riftmaker | Draft | `riftmaker` |
@@ -230,7 +218,6 @@
 | Runic Compass | Draft | `runic_compass` |
 | Rylai's Crystal Scepter | Draft | `rylai_s_crystal_scepter` |
 | Sapphire Crystal | Draft | `sapphire_crystal` |
-| Scarecrow Effigy | Draft | `scarecrow_effigy` |
 | Scorchclaw Pup | Draft | `scorchclaw_pup` |
 | Scout's Slingshot | Draft | `scout_s_slingshot` |
 | Seeker's Armguard | Draft | `seeker_s_armguard` |
@@ -239,14 +226,11 @@
 | Serrated Dirk | Draft | `serrated_dirk` |
 | Serylda's Grudge | Draft | `serylda_s_grudge` |
 | Shadowflame | Draft | `shadowflame` |
-| Shard of True Ice | Draft | `shard_of_true_ice` |
 | Shattered Armguard | Draft | `shattered_armguard` |
 | Sheen | Draft | `sheen` |
 | Shield of Molten Stone | Draft | `shield_of_molten_stone` |
-| Shield of the Rakkor | Draft | `shield_of_the_rakkor` |
 | Shurelya's Battlesong | Draft | `shurelya_s_battlesong` |
 | Silvermere Dawn | Draft | `silvermere_dawn` |
-| Sin Eater | Draft | `sin_eater` |
 | Slightly Magical Footwear | Draft | `slightly_magical_footwear` |
 | Solstice Sleigh | Draft | `solstice_sleigh` |
 | Sorcerer's Shoes | Draft | `sorcerer_s_shoes` |
@@ -258,7 +242,6 @@
 | Spellthief's Edge | Draft | `spellthief_s_edge` |
 | Spirit Visage | Draft | `spirit_visage` |
 | Staff of Flowing Water | Draft | `staff_of_flowing_water` |
-| Stat Bonus | Draft | `stat_bonus` |
 | Statikk Shiv | Draft | `statikk_shiv` |
 | Stealth Ward | Draft | `stealth_ward` |
 | Steel Shoulderguards | Draft | `steel_shoulderguards` |
@@ -270,8 +253,6 @@
 | Stridebreaker | Draft | `stridebreaker` |
 | Sundered Sky | Draft | `sundered_sky` |
 | Sunfire Aegis | Draft | `sunfire_aegis` |
-| Super Mech Armor | Draft | `super_mech_armor` |
-| Super Mech Power Field | Draft | `super_mech_power_field` |
 | Swiftmarch | Draft | `swiftmarch` |
 | Sword of Blossoming Dawn | Draft | `sword_of_blossoming_dawn` |
 | Sword of the Divine | Draft | `sword_of_the_divine` |
@@ -300,7 +281,6 @@
 | Void Immolation | Draft | `void_immolation` |
 | Void Staff | Draft | `void_staff` |
 | Voltaic Cyclosword | Draft | `voltaic_cyclosword` |
-| Warden's Eye | Draft | `warden_s_eye` |
 | Warden's Mail | Draft | `warden_s_mail` |
 | Warmog's Armor | Draft | `warmog_s_armor` |
 | Watchful Wardstone | Draft | `watchful_wardstone` |
@@ -311,7 +291,6 @@
 | Wooglet's Witchcap | Draft | `wooglet_s_witchcap` |
 | World Atlas | Draft | `world_atlas` |
 | Youmuu's Ghostblade | Draft | `youmuu_s_ghostblade` |
-| Your Cut | Draft | `your_cut` |
 | Yun Tal Wildarrows | Draft | `yun_tal_wildarrows` |
 | Zaz'Zak's Realmspike | Draft | `zaz_zak_s_realmspike` |
 | Zeal | Draft | `zeal` |

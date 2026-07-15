@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:overlord_s_bloodmail",
-      "text": "Gold: Total: 3300g (Base: 1000g, Sell: 2310g)\nStats: Health: 550, Attack Damage: 30\nTags: Health, Damage\n\n[Passive] Tyranny: Gain 2.5% of your bonus Health as Attack Damage.\n\n[Passive] Retribution: Gain up to 12% increased Attack Damage based on your percent missing Health."
+      "text": "Gold: Total: 3300g (Base: 1000g, Sell: 2310g)$(br)Stats: Health: 550, Attack Damage: 30$(br)Tags: Health, Damage$(br2)[Passive] Tyranny: Gain 2.5% of your bonus Health as Attack Damage.$(br2)[Passive] Retribution: Gain up to 12% increased Attack Damage based on your percent missing Health."
     }
   ]
 }

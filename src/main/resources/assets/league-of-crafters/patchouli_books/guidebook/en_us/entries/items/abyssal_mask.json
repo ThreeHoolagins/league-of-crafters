@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:abyssal_mask",
-      "text": "Gold: Total: 2850g (Base: 1200g, Sell: 1995g)\nStats: Magic Resist: 50, Health: 350\nTags: Health, SpellBlock, CooldownReduction, MagicResist, AbilityHaste\n\n[Passive] Unmake: Nearby enemy champions take 12% more magic damage."
+      "text": "Gold: Total: 2850g (Base: 1200g, Sell: 1995g)$(br)Stats: Magic Resist: 50, Health: 350$(br)Tags: Health, SpellBlock, CooldownReduction, MagicResist, AbilityHaste$(br2)[Passive] Unmake: Nearby enemy champions take 12% more magic damage."
     }
   ]
 }

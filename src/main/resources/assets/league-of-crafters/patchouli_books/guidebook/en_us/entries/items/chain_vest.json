@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:chain_vest",
-      "text": "Gold: Total: 800g (Base: 500g, Sell: 560g)\nStats: Armor: 40\nTags: Armor"
+      "text": "Gold: Total: 800g (Base: 500g, Sell: 560g)$(br)Stats: Armor: 40$(br)Tags: Armor"
     }
   ]
 }

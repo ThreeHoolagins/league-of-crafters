@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:guardian_angel",
-      "text": "Gold: Total: 3200g (Base: 800g, Sell: 1280g)\nStats: Armor: 45, Attack Damage: 55\nTags: Armor, Damage\n\n[Passive] Rebirth: Upon taking lethal damage, restores 50% base Health and 100% max Mana after 4 seconds of Stasis."
+      "text": "Gold: Total: 3200g (Base: 800g, Sell: 1280g)$(br)Stats: Armor: 45, Attack Damage: 55$(br)Tags: Armor, Damage$(br2)[Passive] Rebirth: Upon taking lethal damage, restores 50% base Health and 100% max Mana after 4 seconds of Stasis."
     }
   ]
 }

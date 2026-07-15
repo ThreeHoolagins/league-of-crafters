@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:manamune",
-      "text": "Gold: Total: 2900g (Base: 1100g, Sell: 2030g)\nStats: Mana: 500, Attack Damage: 35\nTags: Damage, Mana, CooldownReduction, OnHit, AbilityHaste\n\n[Passive] Awe: Gain bonus Attack Damage.\n\n[Passive] Manaflow: (8s, max 4 charges) Landing Attacks and Abilities grants 3 max Mana (doubled vs. champions). Transforms into Muramana at 360 max Mana."
+      "text": "Gold: Total: 2900g (Base: 1100g, Sell: 2030g)$(br)Stats: Mana: 500, Attack Damage: 35$(br)Tags: Damage, Mana, CooldownReduction, OnHit, AbilityHaste$(br2)[Passive] Awe: Gain bonus Attack Damage.$(br2)[Passive] Manaflow: (8s, max 4 charges) Landing Attacks and Abilities grants 3 max Mana (doubled vs. champions). Transforms into Muramana at 360 max Mana."
     }
   ]
 }

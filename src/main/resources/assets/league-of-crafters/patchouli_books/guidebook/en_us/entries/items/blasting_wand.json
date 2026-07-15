@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:blasting_wand",
-      "text": "Gold: Total: 850g (Base: 850g, Sell: 595g)\nStats: Ability Power: 45\nTags: SpellDamage"
+      "text": "Gold: Total: 850g (Base: 850g, Sell: 595g)$(br)Stats: Ability Power: 45$(br)Tags: SpellDamage"
     }
   ]
 }

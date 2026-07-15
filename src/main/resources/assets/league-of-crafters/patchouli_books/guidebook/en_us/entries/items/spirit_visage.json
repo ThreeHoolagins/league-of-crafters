@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:spirit_visage",
-      "text": "Gold: Total: 2700g (Base: 650g, Sell: 1890g)\nStats: Magic Resist: 50, Health: 400\nTags: Health, SpellBlock, HealthRegen, CooldownReduction, AbilityHaste\n\n[Passive] Boundless Vitality: Heals and Shields on you are increased by 25%."
+      "text": "Gold: Total: 2700g (Base: 650g, Sell: 1890g)$(br)Stats: Magic Resist: 50, Health: 400$(br)Tags: Health, SpellBlock, HealthRegen, CooldownReduction, AbilityHaste$(br2)[Passive] Boundless Vitality: Heals and Shields on you are increased by 25%."
     }
   ]
 }

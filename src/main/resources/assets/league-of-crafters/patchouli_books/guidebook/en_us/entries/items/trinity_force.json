@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:trinity_force",
-      "text": "Gold: Total: 3333g (Base: 133g, Sell: 2333g)\nStats: Health: 333, Attack Damage: 36, Attack Speed: 30%\nTags: Health, Damage, AttackSpeed, CooldownReduction, OnHit, NonbootsMovement, AbilityHaste\n\n[Passive] Spellblade: After using an Ability, your next Attack deals bonus physical damage On-Hit.\n\n[Passive] Quicken: Attacking grants 20 Move Speed for 2 seconds."
+      "text": "Gold: Total: 3333g (Base: 133g, Sell: 2333g)$(br)Stats: Health: 333, Attack Damage: 36, Attack Speed: 30%$(br)Tags: Health, Damage, AttackSpeed, CooldownReduction, OnHit, NonbootsMovement, AbilityHaste$(br2)[Passive] Spellblade: After using an Ability, your next Attack deals bonus physical damage On-Hit.$(br2)[Passive] Quicken: Attacking grants 20 Move Speed for 2 seconds."
     }
   ]
 }

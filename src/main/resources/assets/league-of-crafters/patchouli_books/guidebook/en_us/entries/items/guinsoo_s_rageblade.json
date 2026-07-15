@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:guinsoo_s_rageblade",
-      "text": "Gold: Total: 3000g (Base: 1025g, Sell: 2100g)\nStats: Ability Power: 30, Attack Damage: 30, Attack Speed: 25%\nTags: Damage, AttackSpeed, SpellDamage, OnHit\n\n[Passive] Wrath: Attacks deal 30 bonus magic damage On-Hit.\n\n[Passive] Seething Strike: Attacks grant 8% Attack Speed for 3 seconds. (stacks 4 times). While fully stacked, every third Attack applies On-Hit effects twice."
+      "text": "Gold: Total: 3000g (Base: 1025g, Sell: 2100g)$(br)Stats: Ability Power: 30, Attack Damage: 30, Attack Speed: 25%$(br)Tags: Damage, AttackSpeed, SpellDamage, OnHit$(br2)[Passive] Wrath: Attacks deal 30 bonus magic damage On-Hit.$(br2)[Passive] Seething Strike: Attacks grant 8% Attack Speed for 3 seconds. (stacks 4 times). While fully stacked, every third Attack applies On-Hit effects twice."
     }
   ]
 }
