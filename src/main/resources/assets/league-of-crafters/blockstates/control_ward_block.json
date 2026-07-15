@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "league-of-crafters:block/control_ward_block"
+    }
+  }
+}

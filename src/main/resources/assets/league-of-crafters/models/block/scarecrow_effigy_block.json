@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "league-of-crafters:item/scarecrow_effigy"
+  }
+}

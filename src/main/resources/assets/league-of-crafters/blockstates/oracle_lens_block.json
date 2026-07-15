@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "league-of-crafters:block/oracle_lens_block"
+    }
+  }
+}

@@ -1,5 +1,6 @@
 package com.leagueofcrafters;
 
+import com.leagueofcrafters.block.ModBlocks;
 import com.leagueofcrafters.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -16,6 +17,7 @@ public class Leagueofcrafters implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModBlocks.registerModBlocks();
 		ModItems.registerModItems();
 		ModCreativeTab.register();
 	}

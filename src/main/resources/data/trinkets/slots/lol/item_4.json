@@ -2,5 +2,6 @@
   "replace": false,
   "order": 3,
   "amount": 1,
+  "icon": "league-of-crafters:gui/slots/normal_slot",
   "validator_predicates": ["trinkets:all"]
 }

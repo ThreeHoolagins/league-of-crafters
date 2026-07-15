@@ -1,11 +1,17 @@
 package com.leagueofcrafters.item;
 
 import com.leagueofcrafters.Leagueofcrafters;
+import com.leagueofcrafters.block.ModBlocks;
 import net.minecraft.core.Registry;
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.Item;
 import java.util.*;
+import java.util.function.BiConsumer;
+import net.minecraft.world.effect.MobEffectInstance;
+import net.minecraft.world.effect.MobEffects;
+import net.minecraft.world.entity.player.Player;
+import net.minecraft.world.level.Level;
 
 public class ModItems {
     private static final Map<String, Item> ITEMS = new LinkedHashMap<>();
@@ -43,7 +49,9 @@ public class ModItems {
     public static final Item BOUNTY_OF_WORLDS = registerItem("bounty_of_worlds");
     public static final Item BRAMBLE_VEST = registerItem("bramble_vest");
     public static final Item BULWARK_OF_THE_MOUNTAIN = registerItem("bulwark_of_the_mountain");
-    public static final Item CAPPA_JUICE = registerItem("cappa_juice");
+    public static final Item CAPPA_JUICE = registerCustomItem("cappa_juice", new PotionItem(new Item.Properties(), (level, player) -> {
+        // Does nothing — Cappa Juice
+    }));
     public static final Item CATALYST_OF_AEONS = registerItem("catalyst_of_aeons");
     public static final Item CAULFIELD_S_WARHAMMER = registerItem("caulfield_s_warhammer");
     public static final Item CELESTIAL_OPPOSITION = registerItem("celestial_opposition");
@@ -55,8 +63,11 @@ public class ModItems {
     public static final Item CLOAK_OF_AGILITY = registerItem("cloak_of_agility");
     public static final Item CLOAK_OF_STARRY_NIGHT = registerItem("cloak_of_starry_night");
     public static final Item CLOTH_ARMOR = registerItem("cloth_armor");
-    public static final Item CONTROL_WARD = registerItem("control_ward");
-    public static final Item CORRUPTING_POTION = registerItem("corrupting_potion");
+    public static final Item CONTROL_WARD = registerCustomItem("control_ward", new WardItem(new Item.Properties(), ModBlocks.CONTROL_WARD_BLOCK));
+    public static final Item CORRUPTING_POTION = registerCustomItem("corrupting_potion", new PotionItem(new Item.Properties(), (level, player) -> {
+        player.heal(4.0f);
+        player.addEffect(new MobEffectInstance(MobEffects.REGENERATION, 240, 1));
+    }));
     public static final Item COSMIC_DRIVE = registerItem("cosmic_drive");
     public static final Item CRIMSON_LUCIDITY = registerCustomItem("crimson_lucidity", new BootItem(45f, new Item.Properties()));
     public static final Item CROWN_OF_THE_SHATTERED_QUEEN = registerItem("crown_of_the_shattered_queen");
@@ -85,11 +96,26 @@ public class ModItems {
     public static final Item ECHOES_OF_HELIA = registerItem("echoes_of_helia");
     public static final Item ECLIPSE = registerItem("eclipse");
     public static final Item EDGE_OF_NIGHT = registerItem("edge_of_night");
-    public static final Item ELIXIR_OF_AVARICE = registerItem("elixir_of_avarice");
-    public static final Item ELIXIR_OF_FORCE = registerItem("elixir_of_force");
-    public static final Item ELIXIR_OF_IRON = registerItem("elixir_of_iron");
-    public static final Item ELIXIR_OF_SORCERY = registerItem("elixir_of_sorcery");
-    public static final Item ELIXIR_OF_WRATH = registerItem("elixir_of_wrath");
+    public static final Item ELIXIR_OF_AVARICE = registerCustomItem("elixir_of_avarice", new PotionItem(new Item.Properties(), (level, player) -> {
+        player.addEffect(new MobEffectInstance(MobEffects.DIG_SPEED, 1200, 1));
+        player.addEffect(new MobEffectInstance(MobEffects.MOVEMENT_SPEED, 1200, 1));
+    }));
+    public static final Item ELIXIR_OF_FORCE = registerCustomItem("elixir_of_force", new PotionItem(new Item.Properties(), (level, player) -> {
+        player.addEffect(new MobEffectInstance(MobEffects.DAMAGE_BOOST, 1200, 1));
+    }));
+    public static final Item ELIXIR_OF_IRON = registerCustomItem("elixir_of_iron", new PotionItem(new Item.Properties(), (level, player) -> {
+        player.addEffect(new MobEffectInstance(MobEffects.DAMAGE_RESISTANCE, 3600, 0));
+        player.addEffect(new MobEffectInstance(MobEffects.HEALTH_BOOST, 3600, 3));
+        player.heal(8.0f);
+    }));
+    public static final Item ELIXIR_OF_SORCERY = registerCustomItem("elixir_of_sorcery", new PotionItem(new Item.Properties(), (level, player) -> {
+        player.addEffect(new MobEffectInstance(MobEffects.DAMAGE_BOOST, 3600, 0));
+        player.addEffect(new MobEffectInstance(MobEffects.MOVEMENT_SPEED, 3600, 0));
+    }));
+    public static final Item ELIXIR_OF_WRATH = registerCustomItem("elixir_of_wrath", new PotionItem(new Item.Properties(), (level, player) -> {
+        player.addEffect(new MobEffectInstance(MobEffects.DAMAGE_BOOST, 3600, 1));
+        player.addEffect(new MobEffectInstance(MobEffects.DIG_SPEED, 3600, 0));
+    }));
     public static final Item EMBERKNIFE = registerItem("emberknife");
     public static final Item ENDLESS_HUNGER = registerItem("endless_hunger");
     public static final Item ESSENCE_REAVER = registerItem("essence_reaver");
@@ -98,7 +124,7 @@ public class ModItems {
     public static final Item EXECUTIONER_S_CALLING = registerItem("executioner_s_calling");
     public static final Item EXPERIMENTAL_HEXPLATE = registerItem("experimental_hexplate");
     public static final Item FAERIE_CHARM = registerItem("faerie_charm");
-    public static final Item FARSIGHT_ALTERATION = registerItem("farsight_alteration");
+    public static final Item FARSIGHT_ALTERATION = registerCustomItem("farsight_alteration", new WardItem(new Item.Properties(), ModBlocks.FARSIGHT_ALTERATION_BLOCK));
     public static final Item FATED_ASHES = registerItem("fated_ashes");
     public static final Item FIENDHUNTER_BOLTS = registerItem("fiendhunter_bolts");
     public static final Item FIENDISH_CODEX = registerItem("fiendish_codex");
@@ -135,7 +161,9 @@ public class ModItems {
     public static final Item HAILBLADE = registerItem("hailblade");
     public static final Item HARROWING_CRESCENT = registerItem("harrowing_crescent");
     public static final Item HAUNTING_GUISE = registerItem("haunting_guise");
-    public static final Item HEALTH_POTION = registerItem("health_potion");
+    public static final Item HEALTH_POTION = registerCustomItem("health_potion", new PotionItem(new Item.Properties(), (level, player) -> {
+        player.heal(8.0f);
+    }));
     public static final Item HEARTHBOUND_AXE = registerItem("hearthbound_axe");
     public static final Item HEARTSTEEL = registerItem("heartsteel");
     public static final Item HEXDRINKER = registerItem("hexdrinker");
@@ -198,7 +226,7 @@ public class ModItems {
     public static final Item OBLIVION_ORB = registerItem("oblivion_orb");
     public static final Item OBSIDIAN_EDGE = registerItem("obsidian_edge");
     public static final Item OPPORTUNITY = registerItem("opportunity");
-    public static final Item ORACLE_LENS = registerItem("oracle_lens");
+    public static final Item ORACLE_LENS = registerCustomItem("oracle_lens", new WardItem(new Item.Properties(), ModBlocks.ORACLE_LENS_BLOCK));
     public static final Item OVERCHARGED = registerItem("overcharged");
     public static final Item OVERERCHARGEDHA = registerItem("overerchargedha");
     public static final Item OVERGROWTH = registerItem("overgrowth");
@@ -223,7 +251,10 @@ public class ModItems {
     public static final Item RECTRIX = registerItem("rectrix");
     public static final Item RECURVE_BOW = registerItem("recurve_bow");
     public static final Item REDEMPTION = registerItem("redemption");
-    public static final Item REFILLABLE_POTION = registerItem("refillable_potion");
+    public static final Item REFILLABLE_POTION = registerCustomItem("refillable_potion", new PotionItem(new Item.Properties(), (level, player) -> {
+        player.heal(4.0f);
+        player.addEffect(new MobEffectInstance(MobEffects.REGENERATION, 100, 0));
+    }));
     public static final Item REINFORCED_ARMOR = registerItem("reinforced_armor");
     public static final Item REJUVENATION_BEAD = registerItem("rejuvenation_bead");
     public static final Item RELIC_SHIELD = registerItem("relic_shield");
@@ -236,7 +267,7 @@ public class ModItems {
     public static final Item RUNIC_COMPASS = registerItem("runic_compass");
     public static final Item RYLAI_S_CRYSTAL_SCEPTER = registerItem("rylai_s_crystal_scepter");
     public static final Item SAPPHIRE_CRYSTAL = registerItem("sapphire_crystal");
-    public static final Item SCARECROW_EFFIGY = registerItem("scarecrow_effigy");
+    public static final Item SCARECROW_EFFIGY = registerCustomItem("scarecrow_effigy", new WardItem(new Item.Properties(), ModBlocks.SCARECROW_EFFIGY_BLOCK));
     public static final Item SCORCHCLAW_PUP = registerItem("scorchclaw_pup");
     public static final Item SCOUT_S_SLINGSHOT = registerItem("scout_s_slingshot");
     public static final Item SEEKER_S_ARMGUARD = registerItem("seeker_s_armguard");
@@ -266,7 +297,7 @@ public class ModItems {
     public static final Item STAFF_OF_FLOWING_WATER = registerItem("staff_of_flowing_water");
     public static final Item STAT_BONUS = registerItem("stat_bonus");
     public static final Item STATIKK_SHIV = registerItem("statikk_shiv");
-    public static final Item STEALTH_WARD = registerItem("stealth_ward");
+    public static final Item STEALTH_WARD = registerCustomItem("stealth_ward", new WardItem(new Item.Properties(), ModBlocks.STEALTH_WARD_BLOCK));
     public static final Item STEEL_SHOULDERGUARDS = registerItem("steel_shoulderguards");
     public static final Item STEEL_SIGIL = registerItem("steel_sigil");
     public static final Item STERAK_S_GAGE = registerItem("sterak_s_gage");

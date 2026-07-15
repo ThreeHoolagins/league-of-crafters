@@ -1,5 +1,7 @@
 # league-of-crafters
 
+> **Note:** Ward block textures are temporary. Wards use the item texture as a sapling-style cross block model. These will be replaced with dedicated block textures in a future update.
+
 ## Items
 
 | Item | Status | Stat Slug |
@@ -317,16 +319,108 @@
 | Zephyr | Draft | `zephyr` |
 | Zhonya's Hourglass | Draft | `zhonya_s_hourglass` |
 
+## Item Architecture
+
+Items use a class hierarchy rooted in Minecraft's `Item`, with specialization via the Trinkets API and custom League stat conversion:
+
+```mermaid
+classDiagram
+    class Item {
+        +stacksTo(64)
+    }
+    class TrinketItem {
+        +right-click equip
+        +tick() onEquip() onUnequip()
+    }
+    class LeagueItem {
+        +Map~String, Float~ stats
+        +getModifiers() converts stats to attributes
+    }
+    class FullItem {
+        +stacksTo(1)
+        +canEquip() checks per-item uniqueness
+    }
+    class BootItem {
+        +stacksTo(1)
+        +canEquip() checks no other BootItem
+        +grants Move Speed
+    }
+    class ComponentItem {
+        +stacksTo(1)
+        +no uniqueness check
+    }
+    class PotionItem {
+        +stacksTo(16)
+        +right-click drink
+        +not equippable
+    }
+    class WardItem {
+        +stacksTo(64)
+        +right-click place ward block
+        +not equippable
+    }
+    class GuidebookItem {
+        +stacksTo(64)
+        +right-click opens Patchouli book
+        +not equippable
+    }
+
+    Item <|-- TrinketItem
+    Item <|-- PotionItem
+    Item <|-- WardItem
+    Item <|-- GuidebookItem
+    TrinketItem <|-- LeagueItem
+    LeagueItem <|-- FullItem
+    LeagueItem <|-- ComponentItem
+    FullItem <|-- BootItem
+```
+
+```mermaid
+flowchart TD
+    A[New item to register] --> B{Is it a boot?}
+    B -->|Yes| C[BootItem]
+    B -->|No| D{Is it a completed<br/>& fully-upgraded item?<br/>&#40;depth 3, empty into&#91;&#93;&#41;}
+    D -->|Yes| E[FullItem]
+    D -->|No| F{Is it a component<br/>or starter item?}
+    F -->|Yes| G[ComponentItem]
+    F -->|No| H{Is it a consumable<br/>&#40;potion, elixir&#41;?}
+    H -->|Yes| I[PotionItem]
+    H -->|No| J{Is it a ward or<br/>trinket item?}
+    J -->|Yes| K[WardItem]
+    J -->|No| L{Is it a meme item,<br/>wardstone, or not<br/>yet classified?}
+    L -->|Yes| M[Item &#40;plain&#41;]
+    L -->|No| N[Ask the user]
+```
+
+### Class breakdown
+
+| Class | Stack | Equippable? | Uniqueness | Used for |
+|-------|-------|-------------|------------|----------|
+| `LeagueItem` | varies | Yes (trinket) | None | Base class for all equippable LoL items |
+| `FullItem` | 1 | Yes (trinket) | Per-item (can't equip 2 of the same) | Completed items (depth 3, empty `into[]`) |
+| `BootItem` | 1 | Yes (trinket) | Per-item + cross-boot (can't equip any other boot) | All boots |
+| `ComponentItem` | 1 | Yes (trinket) | None | Component items, starter items |
+| `PotionItem` | 16 | No | N/A | Consumables (potions, elixirs) |
+| `WardItem` | 64 | No | N/A | Wards, trinket items (Stealth Ward, etc.) |
+| `GuidebookItem` | 64 | No | N/A | Patchouli guidebook |
+| `Item` (plain) | 64 | No | N/A | Meme items, wardstones, unbucketed items |
+
+> **Note:** Most items in the table above are currently registered as plain `Item` (stack 64, no trinket behavior). Only boots (~22), potions (~9), wards (5), and the guidebook have been migrated to their dedicated classes so far. Migration of components → `ComponentItem` and completed items → `FullItem` is ongoing.
+
+For the authoritative classification reference when adding new items, see [`AGENTS.md`](AGENTS.md#item-classification-rules).
+
 ## Goals
 
 1. Have all items fully set up with proper controls and tested
-2. Add randomly spawning camps between forest, plains, and mountain biomes that spawn jungle monsters who all drop a LoL coin
-3. Add crafting recipes for all items
-4. Look into adding champions as possible boss mobs with their own structures
-5. Set up NEI compatibility
-6. Set up a Patchouli-based in-game guidebook (like Ars Nouveau's Worn Notebook) that documents all items, recipes, crafting mechanics, and world generation. The book would be a craftable item with JSON-driven categories and entries, and the wiki could be auto-generated from the same Patchouli source files.
-7. Add tower or nexus world generation with minions that regularly spawn and push along set paths
-8. Add towers that attack players on sight, functioning as defensive structures that must be destroyed to progress
+2. Active item hotbar HUD — equipped LoL trinket items display as icons above the hotbar (slot 1 above hotbar slot 1, slot 2 above slot 2, etc.) for quick reference
+3. Active item keybinds — use equipped active items via Ctrl+[1-6] (configurable), activating the item in the corresponding LoL trinket slot
+4. Add randomly spawning camps between forest, plains, and mountain biomes that spawn jungle monsters who all drop a LoL coin
+5. Add crafting recipes for all items
+6. Look into adding champions as possible boss mobs with their own structures
+7. Set up NEI compatibility
+8. Set up a Patchouli-based in-game guidebook (like Ars Nouveau's Worn Notebook) that documents all items, recipes, crafting mechanics, and world generation. The book would be a craftable item with JSON-driven categories and entries, and the wiki could be auto-generated from the same Patchouli source files.
+9. Add tower or nexus world generation with minions that regularly spawn and push along set paths
+10. Add towers that attack players on sight, functioning as defensive structures that must be destroyed to progress
 
 ## Setup
 
