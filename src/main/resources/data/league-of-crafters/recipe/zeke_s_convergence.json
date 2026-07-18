@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:cloth_armor"
+    },
+    {
+      "item": "league-of-crafters:kindlegem"
+    },
+    {
+      "item": "league-of-crafters:null_magic_mantle"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:zeke_s_convergence",
+    "count": 1
+  }
+}

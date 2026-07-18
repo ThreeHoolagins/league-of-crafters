@@ -7,6 +7,11 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:pickaxe",
       "text": "Gold: Total: 875g (Base: 875g, Sell: 613g)$(br)Stats: Attack Damage: 25$(br)Tags: Damage"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:pickaxe",
+      "text": "Pickaxe is crafted from an iron pickaxe and a League Coin."
     }
   ]
 }

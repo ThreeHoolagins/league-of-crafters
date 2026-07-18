@@ -6,113 +6,113 @@
 
 | Item | Status | Stat Slug |
 |------|--------|-----------|
-| Abyssal Mask | Draft | `abyssal_mask` |
-| Actualizer | Draft | `actualizer` |
-| Aether Wisp | Draft | `aether_wisp` |
-| Amplifying Tome | Draft | `amplifying_tome` |
-| Anathema's Chains | Draft | `anathema_s_chains` |
-| Archangel's Staff | Draft | `archangel_s_staff` |
-| Ardent Censer | Draft | `ardent_censer` |
-| Armored Advance | Draft | `armored_advance` |
-| Atma's Reckoning | Draft | `atma_s_reckoning` |
-| Axiom Arc | Draft | `axiom_arc` |
-| B. F. Sword | Draft | `b_f_sword` |
-| Bami's Cinder | Draft | `bami_s_cinder` |
-| Bandleglass Mirror | Draft | `bandleglass_mirror` |
-| Bandlepipes | Draft | `bandlepipes` |
-| Banshee's Veil | Draft | `banshee_s_veil` |
-| Bastionbreaker | Draft | `bastionbreaker` |
+| Abyssal Mask | Partially Implemented | `abyssal_mask` |
+| Actualizer | Partially Implemented | `actualizer` |
+| Aether Wisp | Fully Implemented | `aether_wisp` |
+| Amplifying Tome | Fully Implemented | `amplifying_tome` |
+| Anathema's Chains | Partially Implemented | `anathema_s_chains` |
+| Archangel's Staff | Partially Implemented | `archangel_s_staff` |
+| Ardent Censer | Partially Implemented | `ardent_censer` |
+| Armored Advance | Partially Implemented | `armored_advance` |
+| Atma's Reckoning | Partially Implemented | `atma_s_reckoning` |
+| Axiom Arc | Partially Implemented | `axiom_arc` |
+| B. F. Sword | Fully Implemented | `b_f_sword` |
+| Bami's Cinder | Partially Implemented | `bami_s_cinder` |
+| Bandleglass Mirror | Fully Implemented | `bandleglass_mirror` |
+| Bandlepipes | Partially Implemented | `bandlepipes` |
+| Banshee's Veil | Partially Implemented | `banshee_s_veil` |
+| Bastionbreaker | Partially Implemented | `bastionbreaker` |
 | Berserker's Greaves | Draft | `berserker_s_greaves` |
-| Black Cleaver | Draft | `black_cleaver` |
+| Black Cleaver | Partially Implemented | `black_cleaver` |
 | Black Mist Scythe | Draft | `black_mist_scythe` |
-| Blackfire Torch | Draft | `blackfire_torch` |
-| Blade of The Ruined King | Draft | `blade_of_the_ruined_king` |
-| Blasting Wand | Draft | `blasting_wand` |
-| Blighting Jewel | Draft | `blighting_jewel` |
-| Bloodletter's Curse | Draft | `bloodletter_s_curse` |
-| Bloodsong | Draft | `bloodsong` |
-| Bloodthirster | Draft | `bloodthirster` |
+| Blackfire Torch | Partially Implemented | `blackfire_torch` |
+| Blade of The Ruined King | Partially Implemented | `blade_of_the_ruined_king` |
+| Blasting Wand | Fully Implemented | `blasting_wand` |
+| Blighting Jewel | Fully Implemented | `blighting_jewel` |
+| Bloodletter's Curse | Partially Implemented | `bloodletter_s_curse` |
+| Bloodsong | Partially Implemented | `bloodsong` |
+| Bloodthirster | Partially Implemented | `bloodthirster` |
 | Boots | Draft | `boots` |
 | Boots of Swiftness | Draft | `boots_of_swiftness` |
 | Bounty of Worlds | Draft | `bounty_of_worlds` |
-| Bramble Vest | Draft | `bramble_vest` |
+| Bramble Vest | Partially Implemented | `bramble_vest` |
 | Bulwark of the Mountain | Draft | `bulwark_of_the_mountain` |
 | Cappa Juice | Draft | `cappa_juice` |
-| Catalyst of Aeons | Draft | `catalyst_of_aeons` |
-| Caulfield's Warhammer | Draft | `caulfield_s_warhammer` |
-| Celestial Opposition | Draft | `celestial_opposition` |
-| Chain Vest | Draft | `chain_vest` |
-| Chainlaced Crushers | Draft | `chainlaced_crushers` |
-| Chalice of Blessing | Draft | `chalice_of_blessing` |
-| Chempunk Chainsword | Draft | `chempunk_chainsword` |
-| Chemtech Putrifier | Draft | `chemtech_putrifier` |
-| Cloak of Agility | Draft | `cloak_of_agility` |
+| Catalyst of Aeons | Partially Implemented | `catalyst_of_aeons` |
+| Caulfield's Warhammer | Fully Implemented | `caulfield_s_warhammer` |
+| Celestial Opposition | Partially Implemented | `celestial_opposition` |
+| Chain Vest | Fully Implemented | `chain_vest` |
+| Chainlaced Crushers | Partially Implemented | `chainlaced_crushers` |
+| Chalice of Blessing | Partially Implemented | `chalice_of_blessing` |
+| Chempunk Chainsword | Partially Implemented | `chempunk_chainsword` |
+| Chemtech Putrifier | Partially Implemented | `chemtech_putrifier` |
+| Cloak of Agility | Fully Implemented | `cloak_of_agility` |
 | Cloak of Starry Night | Draft | `cloak_of_starry_night` |
-| Cloth Armor | Draft | `cloth_armor` |
+| Cloth Armor | Fully Implemented | `cloth_armor` |
 | Control Ward | Draft | `control_ward` |
 | Corrupting Potion | Draft | `corrupting_potion` |
-| Cosmic Drive | Draft | `cosmic_drive` |
-| Crimson Lucidity | Draft | `crimson_lucidity` |
+| Cosmic Drive | Partially Implemented | `cosmic_drive` |
+| Crimson Lucidity | Partially Implemented | `crimson_lucidity` |
 | Crown of the Shattered Queen | Draft | `crown_of_the_shattered_queen` |
 | Cruelty | Draft | `cruelty` |
-| Cryptbloom | Draft | `cryptbloom` |
-| Crystalline Bracer | Draft | `crystalline_bracer` |
+| Cryptbloom | Partially Implemented | `cryptbloom` |
+| Crystalline Bracer | Fully Implemented | `crystalline_bracer` |
 | Cull | Draft | `cull` |
-| Dagger | Draft | `dagger` |
+| Dagger | Fully Implemented | `dagger` |
 | Dark Seal | Draft | `dark_seal` |
-| Dawncore | Draft | `dawncore` |
-| Dead Man's Plate | Draft | `dead_man_s_plate` |
-| Death's Dance | Draft | `death_s_dance` |
-| Demonic Embrace | Draft | `demonic_embrace` |
-| Demonic Embrace | Draft | `demonic_embrace` |
+| Dawncore | Partially Implemented | `dawncore` |
+| Dead Man's Plate | Partially Implemented | `dead_man_s_plate` |
+| Death's Dance | Partially Implemented | `death_s_dance` |
+| Demonic Embrace | Partially Implemented | `demonic_embrace` |
+| Demonic Embrace | Partially Implemented | `demonic_embrace` |
 | Diadem of Songs | Draft | `diadem_of_songs` |
-| Divine Sunderer | Draft | `divine_sunderer` |
+| Divine Sunderer | Partially Implemented | `divine_sunderer` |
 | Doran's Blade | Draft | `doran_s_blade` |
 | Doran's Bow | Draft | `doran_s_bow` |
 | Doran's Helm | Draft | `doran_s_helm` |
 | Doran's Ring | Draft | `doran_s_ring` |
 | Doran's Shield | Draft | `doran_s_shield` |
-| Dream Maker | Draft | `dream_maker` |
-| Dusk and Dawn | Draft | `dusk_and_dawn` |
-| Duskblade of Draktharr | Draft | `duskblade_of_draktharr` |
-| Echoes of Helia | Draft | `echoes_of_helia` |
-| Eclipse | Draft | `eclipse` |
-| Edge of Night | Draft | `edge_of_night` |
+| Dream Maker | Partially Implemented | `dream_maker` |
+| Dusk and Dawn | Partially Implemented | `dusk_and_dawn` |
+| Duskblade of Draktharr | Partially Implemented | `duskblade_of_draktharr` |
+| Echoes of Helia | Partially Implemented | `echoes_of_helia` |
+| Eclipse | Partially Implemented | `eclipse` |
+| Edge of Night | Partially Implemented | `edge_of_night` |
 | Elixir of Avarice | Draft | `elixir_of_avarice` |
 | Elixir of Force | Draft | `elixir_of_force` |
 | Elixir of Iron | Draft | `elixir_of_iron` |
 | Elixir of Sorcery | Draft | `elixir_of_sorcery` |
 | Elixir of Wrath | Draft | `elixir_of_wrath` |
 | Emberknife | Draft | `emberknife` |
-| Endless Hunger | Draft | `endless_hunger` |
-| Essence Reaver | Draft | `essence_reaver` |
+| Endless Hunger | Partially Implemented | `endless_hunger` |
+| Essence Reaver | Partially Implemented | `essence_reaver` |
 | Evenshroud | Draft | `evenshroud` |
-| Everfrost | Draft | `everfrost` |
-| Executioner's Calling | Draft | `executioner_s_calling` |
-| Experimental Hexplate | Draft | `experimental_hexplate` |
-| Faerie Charm | Draft | `faerie_charm` |
+| Everfrost | Partially Implemented | `everfrost` |
+| Executioner's Calling | Partially Implemented | `executioner_s_calling` |
+| Experimental Hexplate | Partially Implemented | `experimental_hexplate` |
+| Faerie Charm | Fully Implemented | `faerie_charm` |
 | Farsight Alteration | Draft | `farsight_alteration` |
-| Fated Ashes | Draft | `fated_ashes` |
-| Fiendhunter Bolts | Draft | `fiendhunter_bolts` |
-| Fiendish Codex | Draft | `fiendish_codex` |
+| Fated Ashes | Partially Implemented | `fated_ashes` |
+| Fiendhunter Bolts | Partially Implemented | `fiendhunter_bolts` |
+| Fiendish Codex | Fully Implemented | `fiendish_codex` |
 | Fimbulwinter | Draft | `fimbulwinter` |
 | Flesheater | Draft | `flesheater` |
-| Forbidden Idol | Draft | `forbidden_idol` |
-| Force of Nature | Draft | `force_of_nature` |
+| Forbidden Idol | Fully Implemented | `forbidden_idol` |
+| Force of Nature | Partially Implemented | `force_of_nature` |
 | Forever Forward | Draft | `forever_forward` |
 | Frostfang | Draft | `frostfang` |
-| Frozen Heart | Draft | `frozen_heart` |
-| Galeforce | Draft | `galeforce` |
+| Frozen Heart | Partially Implemented | `frozen_heart` |
+| Galeforce | Partially Implemented | `galeforce` |
 | Gambler's Blade | Draft | `gambler_s_blade` |
 | Gargoyle Stoneplate | Draft | `gargoyle_stoneplate` |
 | Ghostcrawlers | Draft | `ghostcrawlers` |
-| Giant's Belt | Draft | `giant_s_belt` |
-| Glacial Buckler | Draft | `glacial_buckler` |
-| Glowing Mote | Draft | `glowing_mote` |
+| Giant's Belt | Fully Implemented | `giant_s_belt` |
+| Glacial Buckler | Fully Implemented | `glacial_buckler` |
+| Glowing Mote | Fully Implemented | `glowing_mote` |
 | Gluttonous Greaves | Draft | `gluttonous_greaves` |
 | Golden Spatula | Draft | `golden_spatula` |
-| Goredrinker | Draft | `goredrinker` |
-| Guardian Angel | Draft | `guardian_angel` |
+| Goredrinker | Partially Implemented | `goredrinker` |
+| Guardian Angel | Partially Implemented | `guardian_angel` |
 | Guardian's Amulet | Draft | `guardian_s_amulet` |
 | Guardian's Blade | Draft | `guardian_s_blade` |
 | Guardian's Dirk | Draft | `guardian_s_dirk` |
@@ -120,183 +120,184 @@
 | Guardian's Horn | Draft | `guardian_s_horn` |
 | Guardian's Orb | Draft | `guardian_s_orb` |
 | Guardian's Shroud | Draft | `guardian_s_shroud` |
-| Guinsoo's Rageblade | Draft | `guinsoo_s_rageblade` |
-| Gunmetal Greaves | Draft | `gunmetal_greaves` |
+| Guinsoo's Rageblade | Partially Implemented | `guinsoo_s_rageblade` |
+| Gunmetal Greaves | Partially Implemented | `gunmetal_greaves` |
 | Gustwalker Hatchling | Draft | `gustwalker_hatchling` |
 | Hailblade | Draft | `hailblade` |
 | Harrowing Crescent | Draft | `harrowing_crescent` |
-| Haunting Guise | Draft | `haunting_guise` |
+| Haunting Guise | Partially Implemented | `haunting_guise` |
 | Health Potion | Draft | `health_potion` |
-| Hearthbound Axe | Draft | `hearthbound_axe` |
-| Heartsteel | Draft | `heartsteel` |
-| Hexdrinker | Draft | `hexdrinker` |
-| Hexoptics C44 | Draft | `hexoptics_c44` |
-| Hextech Alternator | Draft | `hextech_alternator` |
-| Hextech Gunblade | Draft | `hextech_gunblade` |
-| Hextech Rocketbelt | Draft | `hextech_rocketbelt` |
-| Hollow Radiance | Draft | `hollow_radiance` |
-| Horizon Focus | Draft | `horizon_focus` |
-| Hubris | Draft | `hubris` |
-| Hullbreaker | Draft | `hullbreaker` |
-| Iceborn Gauntlet | Draft | `iceborn_gauntlet` |
-| Immortal Path | Draft | `immortal_path` |
-| Immortal Shieldbow | Draft | `immortal_shieldbow` |
-| Imperial Mandate | Draft | `imperial_mandate` |
-| Infinity Edge | Draft | `infinity_edge` |
-| Innervating Locket | Draft | `innervating_locket` |
+| Hearthbound Axe | Fully Implemented | `hearthbound_axe` |
+| Heartsteel | Partially Implemented | `heartsteel` |
+| Hexdrinker | Partially Implemented | `hexdrinker` |
+| Hexoptics C44 | Partially Implemented | `hexoptics_c44` |
+| Hextech Alternator | Partially Implemented | `hextech_alternator` |
+| Hextech Gunblade | Partially Implemented | `hextech_gunblade` |
+| Hextech Rocketbelt | Partially Implemented | `hextech_rocketbelt` |
+| Hollow Radiance | Partially Implemented | `hollow_radiance` |
+| Horizon Focus | Partially Implemented | `horizon_focus` |
+| Hubris | Partially Implemented | `hubris` |
+| Hullbreaker | Partially Implemented | `hullbreaker` |
+| Iceborn Gauntlet | Partially Implemented | `iceborn_gauntlet` |
+| Immortal Path | Partially Implemented | `immortal_path` |
+| Immortal Shieldbow | Partially Implemented | `immortal_shieldbow` |
+| Imperial Mandate | Partially Implemented | `imperial_mandate` |
+| Infinity Edge | Fully Implemented | `infinity_edge` |
+| Innervating Locket | Partially Implemented | `innervating_locket` |
 | Ionian Boots of Lucidity | Draft | `ionian_boots_of_lucidity` |
-| Ironspike Whip | Draft | `ironspike_whip` |
-| Jak'Sho, The Protean | Draft | `jak_sho_the_protean` |
-| Kaenic Rookern | Draft | `kaenic_rookern` |
-| Kindlegem | Draft | `kindlegem` |
-| Kircheis Shard | Draft | `kircheis_shard` |
-| Knight's Vow | Draft | `knight_s_vow` |
-| Kraken Slayer | Draft | `kraken_slayer` |
-| Last Whisper | Draft | `last_whisper` |
-| Liandry's Torment | Draft | `liandry_s_torment` |
-| Lich Bane | Draft | `lich_bane` |
-| Lifeline | Draft | `lifeline` |
-| Lifewell Pendant | Draft | `lifewell_pendant` |
-| Locket of the Iron Solari | Draft | `locket_of_the_iron_solari` |
-| Long Sword | Draft | `long_sword` |
-| Lord Dominik's Regards | Draft | `lord_dominik_s_regards` |
-| Lost Chapter | Draft | `lost_chapter` |
-| Luden's Echo | Draft | `luden_s_echo` |
-| Malignance | Draft | `malignance` |
-| Manamune | Draft | `manamune` |
-| Maw of Malmortius | Draft | `maw_of_malmortius` |
-| Mejai's Soulstealer | Draft | `mejai_s_soulstealer` |
-| Mercurial Scimitar | Draft | `mercurial_scimitar` |
+| Ironspike Whip | Partially Implemented | `ironspike_whip` |
+| Jak'Sho, The Protean | Partially Implemented | `jak_sho_the_protean` |
+| Kaenic Rookern | Partially Implemented | `kaenic_rookern` |
+| Kindlegem | Fully Implemented | `kindlegem` |
+| Kircheis Shard | Partially Implemented | `kircheis_shard` |
+| Knight's Vow | Partially Implemented | `knight_s_vow` |
+| Kraken Slayer | Partially Implemented | `kraken_slayer` |
+| Last Whisper | Fully Implemented | `last_whisper` |
+| Leeching Leer | Fully Implemented | `leeching_leer` |
+| Liandry's Torment | Partially Implemented | `liandry_s_torment` |
+| Lich Bane | Partially Implemented | `lich_bane` |
+| Lifeline | Partially Implemented | `lifeline` |
+| Lifewell Pendant | Partially Implemented | `lifewell_pendant` |
+| Locket of the Iron Solari | Partially Implemented | `locket_of_the_iron_solari` |
+| Long Sword | Fully Implemented | `long_sword` |
+| Lord Dominik's Regards | Partially Implemented | `lord_dominik_s_regards` |
+| Lost Chapter | Partially Implemented | `lost_chapter` |
+| Luden's Echo | Partially Implemented | `luden_s_echo` |
+| Malignance | Partially Implemented | `malignance` |
+| Manamune | Partially Implemented | `manamune` |
+| Maw of Malmortius | Partially Implemented | `maw_of_malmortius` |
+| Mejai's Soulstealer | Partially Implemented | `mejai_s_soulstealer` |
+| Mercurial Scimitar | Partially Implemented | `mercurial_scimitar` |
 | Mercury's Treads | Draft | `mercury_s_treads` |
-| Mikael's Blessing | Draft | `mikael_s_blessing` |
+| Mikael's Blessing | Partially Implemented | `mikael_s_blessing` |
 | Mobility Boots | Draft | `mobility_boots` |
-| Moonstone Renewer | Draft | `moonstone_renewer` |
-| Morellonomicon | Draft | `morellonomicon` |
-| Mortal Reminder | Draft | `mortal_reminder` |
+| Moonstone Renewer | Partially Implemented | `moonstone_renewer` |
+| Morellonomicon | Partially Implemented | `morellonomicon` |
+| Mortal Reminder | Partially Implemented | `mortal_reminder` |
 | Mosstomper Seedling | Draft | `mosstomper_seedling` |
 | Multitool | Draft | `multitool` |
 | Muramana | Draft | `muramana` |
-| Nashor's Tooth | Draft | `nashor_s_tooth` |
-| Navori Flickerblade | Draft | `navori_flickerblade` |
-| Needlessly Large Rod | Draft | `needlessly_large_rod` |
-| Negatron Cloak | Draft | `negatron_cloak` |
-| Night Harvester | Draft | `night_harvester` |
-| Noonquiver | Draft | `noonquiver` |
-| Null-Magic Mantle | Draft | `nullmagic_mantle` |
-| Oblivion Orb | Draft | `oblivion_orb` |
+| Nashor's Tooth | Partially Implemented | `nashor_s_tooth` |
+| Navori Flickerblade | Partially Implemented | `navori_flickerblade` |
+| Needlessly Large Rod | Fully Implemented | `needlessly_large_rod` |
+| Negatron Cloak | Fully Implemented | `negatron_cloak` |
+| Night Harvester | Partially Implemented | `night_harvester` |
+| Noonquiver | Fully Implemented | `noonquiver` |
+| Null-Magic Mantle | Fully Implemented | `nullmagic_mantle` |
+| Oblivion Orb | Partially Implemented | `oblivion_orb` |
 | Obsidian Edge | Draft | `obsidian_edge` |
-| Opportunity | Draft | `opportunity` |
+| Opportunity | Partially Implemented | `opportunity` |
 | Oracle Lens | Draft | `oracle_lens` |
-| Overlord's Bloodmail | Draft | `overlord_s_bloodmail` |
+| Overlord's Bloodmail | Partially Implemented | `overlord_s_bloodmail` |
 | Pauldrons of Whiterock | Draft | `pauldrons_of_whiterock` |
-| Phage | Draft | `phage` |
-| Phantom Dancer | Draft | `phantom_dancer` |
-| Pickaxe | Draft | `pickaxe` |
+| Phage | Partially Implemented | `phage` |
+| Phantom Dancer | Partially Implemented | `phantom_dancer` |
+| Pickaxe | Fully Implemented | `pickaxe` |
 | Plated Steelcaps | Draft | `plated_steelcaps` |
-| Profane Hydra | Draft | `profane_hydra` |
-| Protoplasm Harness | Draft | `protoplasm_harness` |
-| Prowler's Claw | Draft | `prowler_s_claw` |
-| Quicksilver Sash | Draft | `quicksilver_sash` |
-| Rabadon's Deathcap | Draft | `rabadon_s_deathcap` |
-| Radiant Virtue | Draft | `radiant_virtue` |
-| Rageknife | Draft | `rageknife` |
-| Randuin's Omen | Draft | `randuin_s_omen` |
-| Rapid Firecannon | Draft | `rapid_firecannon` |
-| Ravenous Hydra | Draft | `ravenous_hydra` |
-| Rectrix | Draft | `rectrix` |
-| Recurve Bow | Draft | `recurve_bow` |
-| Redemption | Draft | `redemption` |
+| Profane Hydra | Partially Implemented | `profane_hydra` |
+| Protoplasm Harness | Partially Implemented | `protoplasm_harness` |
+| Prowler's Claw | Partially Implemented | `prowler_s_claw` |
+| Quicksilver Sash | Partially Implemented | `quicksilver_sash` |
+| Rabadon's Deathcap | Partially Implemented | `rabadon_s_deathcap` |
+| Radiant Virtue | Partially Implemented | `radiant_virtue` |
+| Rageknife | Partially Implemented | `rageknife` |
+| Randuin's Omen | Partially Implemented | `randuin_s_omen` |
+| Rapid Firecannon | Partially Implemented | `rapid_firecannon` |
+| Ravenous Hydra | Partially Implemented | `ravenous_hydra` |
+| Rectrix | Fully Implemented | `rectrix` |
+| Recurve Bow | Partially Implemented | `recurve_bow` |
+| Redemption | Partially Implemented | `redemption` |
 | Refillable Potion | Draft | `refillable_potion` |
-| Rejuvenation Bead | Draft | `rejuvenation_bead` |
+| Rejuvenation Bead | Fully Implemented | `rejuvenation_bead` |
 | Relic Shield | Draft | `relic_shield` |
-| Riftmaker | Draft | `riftmaker` |
-| Rite of Ruin | Draft | `rite_of_ruin` |
-| Rod of Ages | Draft | `rod_of_ages` |
-| Ruby Crystal | Draft | `ruby_crystal` |
-| Runaan's Hurricane | Draft | `runaan_s_hurricane` |
+| Riftmaker | Partially Implemented | `riftmaker` |
+| Rite of Ruin | Partially Implemented | `rite_of_ruin` |
+| Rod of Ages | Partially Implemented | `rod_of_ages` |
+| Ruby Crystal | Fully Implemented | `ruby_crystal` |
+| Runaan's Hurricane | Partially Implemented | `runaan_s_hurricane` |
 | Runesteel Spaulders | Draft | `runesteel_spaulders` |
 | Runic Compass | Draft | `runic_compass` |
-| Rylai's Crystal Scepter | Draft | `rylai_s_crystal_scepter` |
-| Sapphire Crystal | Draft | `sapphire_crystal` |
+| Rylai's Crystal Scepter | Partially Implemented | `rylai_s_crystal_scepter` |
+| Sapphire Crystal | Fully Implemented | `sapphire_crystal` |
 | Scorchclaw Pup | Draft | `scorchclaw_pup` |
-| Scout's Slingshot | Draft | `scout_s_slingshot` |
-| Seeker's Armguard | Draft | `seeker_s_armguard` |
+| Scout's Slingshot | Partially Implemented | `scout_s_slingshot` |
+| Seeker's Armguard | Partially Implemented | `seeker_s_armguard` |
 | Seraph's Embrace | Draft | `seraph_s_embrace` |
-| Serpent's Fang | Draft | `serpent_s_fang` |
-| Serrated Dirk | Draft | `serrated_dirk` |
-| Serylda's Grudge | Draft | `serylda_s_grudge` |
-| Shadowflame | Draft | `shadowflame` |
-| Shattered Armguard | Draft | `shattered_armguard` |
-| Sheen | Draft | `sheen` |
+| Serpent's Fang | Partially Implemented | `serpent_s_fang` |
+| Serrated Dirk | Fully Implemented | `serrated_dirk` |
+| Serylda's Grudge | Partially Implemented | `serylda_s_grudge` |
+| Shadowflame | Partially Implemented | `shadowflame` |
+| Shattered Armguard | Partially Implemented | `shattered_armguard` |
+| Sheen | Partially Implemented | `sheen` |
 | Shield of Molten Stone | Draft | `shield_of_molten_stone` |
-| Shurelya's Battlesong | Draft | `shurelya_s_battlesong` |
-| Silvermere Dawn | Draft | `silvermere_dawn` |
+| Shurelya's Battlesong | Partially Implemented | `shurelya_s_battlesong` |
+| Silvermere Dawn | Partially Implemented | `silvermere_dawn` |
 | Slightly Magical Footwear | Draft | `slightly_magical_footwear` |
-| Solstice Sleigh | Draft | `solstice_sleigh` |
+| Solstice Sleigh | Partially Implemented | `solstice_sleigh` |
 | Sorcerer's Shoes | Draft | `sorcerer_s_shoes` |
-| Spear of Shojin | Draft | `spear_of_shojin` |
+| Spear of Shojin | Partially Implemented | `spear_of_shojin` |
 | Spectral Cutlass | Draft | `spectral_cutlass` |
 | Spectral Sickle | Draft | `spectral_sickle` |
-| Spectre's Cowl | Draft | `spectre_s_cowl` |
-| Spellslinger's Shoes | Draft | `spellslinger_s_shoes` |
+| Spectre's Cowl | Fully Implemented | `spectre_s_cowl` |
+| Spellslinger's Shoes | Partially Implemented | `spellslinger_s_shoes` |
 | Spellthief's Edge | Draft | `spellthief_s_edge` |
-| Spirit Visage | Draft | `spirit_visage` |
-| Staff of Flowing Water | Draft | `staff_of_flowing_water` |
-| Statikk Shiv | Draft | `statikk_shiv` |
+| Spirit Visage | Partially Implemented | `spirit_visage` |
+| Staff of Flowing Water | Partially Implemented | `staff_of_flowing_water` |
+| Statikk Shiv | Partially Implemented | `statikk_shiv` |
 | Stealth Ward | Draft | `stealth_ward` |
 | Steel Shoulderguards | Draft | `steel_shoulderguards` |
-| Steel Sigil | Draft | `steel_sigil` |
-| Sterak's Gage | Draft | `sterak_s_gage` |
+| Steel Sigil | Fully Implemented | `steel_sigil` |
+| Sterak's Gage | Partially Implemented | `sterak_s_gage` |
 | Stirring Wardstone | Draft | `stirring_wardstone` |
-| Stormrazor | Draft | `stormrazor` |
-| Stormsurge | Draft | `stormsurge` |
-| Stridebreaker | Draft | `stridebreaker` |
-| Sundered Sky | Draft | `sundered_sky` |
-| Sunfire Aegis | Draft | `sunfire_aegis` |
-| Swiftmarch | Draft | `swiftmarch` |
+| Stormrazor | Partially Implemented | `stormrazor` |
+| Stormsurge | Partially Implemented | `stormsurge` |
+| Stridebreaker | Partially Implemented | `stridebreaker` |
+| Sundered Sky | Partially Implemented | `sundered_sky` |
+| Sunfire Aegis | Partially Implemented | `sunfire_aegis` |
+| Swiftmarch | Partially Implemented | `swiftmarch` |
 | Sword of Blossoming Dawn | Draft | `sword_of_blossoming_dawn` |
 | Sword of the Divine | Draft | `sword_of_the_divine` |
 | Symbiotic Soles | Draft | `symbiotic_soles` |
-| Synchronized Souls | Draft | `synchronized_souls` |
+| Synchronized Souls | Partially Implemented | `synchronized_souls` |
 | Targon's Buckler | Draft | `targon_s_buckler` |
 | Tear of the Goddess | Draft | `tear_of_the_goddess` |
-| Terminus | Draft | `terminus` |
-| The Brutalizer | Draft | `the_brutalizer` |
-| The Collector | Draft | `the_collector` |
+| Terminus | Partially Implemented | `terminus` |
+| The Brutalizer | Fully Implemented | `the_brutalizer` |
+| The Collector | Partially Implemented | `the_collector` |
 | The Golden Spatula | Draft | `the_golden_spatula` |
-| Thornmail | Draft | `thornmail` |
-| Tiamat | Draft | `tiamat` |
-| Titanic Hydra | Draft | `titanic_hydra` |
+| Thornmail | Partially Implemented | `thornmail` |
+| Tiamat | Partially Implemented | `tiamat` |
+| Titanic Hydra | Partially Implemented | `titanic_hydra` |
 | Total Biscuit of Everlasting Will | Draft | `total_biscuit_of_everlasting_will` |
-| Trailblazer | Draft | `trailblazer` |
-| Trinity Force | Draft | `trinity_force` |
-| Tunneler | Draft | `tunneler` |
+| Trailblazer | Partially Implemented | `trailblazer` |
+| Trinity Force | Partially Implemented | `trinity_force` |
+| Tunneler | Fully Implemented | `tunneler` |
 | Twin Mask | Draft | `twin_mask` |
-| Umbral Glaive | Draft | `umbral_glaive` |
-| Unending Despair | Draft | `unending_despair` |
-| Vampiric Scepter | Draft | `vampiric_scepter` |
+| Umbral Glaive | Partially Implemented | `umbral_glaive` |
+| Unending Despair | Partially Implemented | `unending_despair` |
+| Vampiric Scepter | Fully Implemented | `vampiric_scepter` |
 | Veigar's Talisman of Ascension | Draft | `veigar_s_talisman_of_ascension` |
-| Verdant Barrier | Draft | `verdant_barrier` |
-| Vigilant Wardstone | Draft | `vigilant_wardstone` |
+| Verdant Barrier | Partially Implemented | `verdant_barrier` |
+| Vigilant Wardstone | Partially Implemented | `vigilant_wardstone` |
 | Void Immolation | Draft | `void_immolation` |
-| Void Staff | Draft | `void_staff` |
-| Voltaic Cyclosword | Draft | `voltaic_cyclosword` |
-| Warden's Mail | Draft | `warden_s_mail` |
-| Warmog's Armor | Draft | `warmog_s_armor` |
+| Void Staff | Partially Implemented | `void_staff` |
+| Voltaic Cyclosword | Partially Implemented | `voltaic_cyclosword` |
+| Warden's Mail | Partially Implemented | `warden_s_mail` |
+| Warmog's Armor | Partially Implemented | `warmog_s_armor` |
 | Watchful Wardstone | Draft | `watchful_wardstone` |
-| Whispering Circlet | Draft | `whispering_circlet` |
-| Winged Moonplate | Draft | `winged_moonplate` |
-| Winter's Approach | Draft | `winter_s_approach` |
-| Wit's End | Draft | `wit_s_end` |
+| Whispering Circlet | Partially Implemented | `whispering_circlet` |
+| Winged Moonplate | Fully Implemented | `winged_moonplate` |
+| Winter's Approach | Partially Implemented | `winter_s_approach` |
+| Wit's End | Partially Implemented | `wit_s_end` |
 | Wooglet's Witchcap | Draft | `wooglet_s_witchcap` |
 | World Atlas | Draft | `world_atlas` |
-| Youmuu's Ghostblade | Draft | `youmuu_s_ghostblade` |
-| Yun Tal Wildarrows | Draft | `yun_tal_wildarrows` |
-| Zaz'Zak's Realmspike | Draft | `zaz_zak_s_realmspike` |
-| Zeal | Draft | `zeal` |
-| Zeke's Convergence | Draft | `zeke_s_convergence` |
+| Youmuu's Ghostblade | Partially Implemented | `youmuu_s_ghostblade` |
+| Yun Tal Wildarrows | Partially Implemented | `yun_tal_wildarrows` |
+| Zaz'Zak's Realmspike | Partially Implemented | `zaz_zak_s_realmspike` |
+| Zeal | Fully Implemented | `zeal` |
+| Zeke's Convergence | Partially Implemented | `zeke_s_convergence` |
 | Zephyr | Draft | `zephyr` |
-| Zhonya's Hourglass | Draft | `zhonya_s_hourglass` |
+| Zhonya's Hourglass | Partially Implemented | `zhonya_s_hourglass` |
 
 ## Item Architecture
 

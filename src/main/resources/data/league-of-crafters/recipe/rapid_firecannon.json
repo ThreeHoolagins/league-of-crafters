@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:zeal"
+    },
+    {
+      "item": "league-of-crafters:scout_s_slingshot"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:rapid_firecannon",
+    "count": 1
+  }
+}

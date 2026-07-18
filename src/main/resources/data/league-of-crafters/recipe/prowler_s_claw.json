@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:serrated_dirk"
+    },
+    {
+      "item": "league-of-crafters:caulfield_s_warhammer"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:prowler_s_claw",
+    "count": 1
+  }
+}

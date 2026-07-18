@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:watchful_wardstone"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:vigilant_wardstone",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:kindlegem"
+    },
+    {
+      "item": "league-of-crafters:giant_s_belt"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:anathema_s_chains",
+    "count": 1
+  }
+}

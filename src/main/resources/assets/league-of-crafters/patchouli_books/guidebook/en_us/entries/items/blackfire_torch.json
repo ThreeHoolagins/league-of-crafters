@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:blackfire_torch",
       "text": "Gold: Total: 2800g (Base: 700g, Sell: 1960g)$(br)Stats: Mana: 600, Ability Power: 80$(br)Tags: SpellDamage, Mana, CooldownReduction, AbilityHaste$(br2)[Passive] Baleful Blaze: Damaging Abilities deals bonus magic damage for 3 seconds.$(br2)[Passive] Blackfire: For each enemy champion, epic and large monster affected by your$(br2)[Passive] Baleful Blaze: , gain 4% Ability Power."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:blackfire_torch"
     }
   ]
 }

@@ -7,6 +7,11 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:sapphire_crystal",
       "text": "Gold: Total: 300g (Base: 300g, Sell: 210g)$(br)Stats: Mana: 300$(br)Tags: Mana"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:sapphire_crystal",
+      "text": "Sapphire Crystal is crafted from lapis lazuli, an emerald, and a League Coin."
     }
   ]
 }

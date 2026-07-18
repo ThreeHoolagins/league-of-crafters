@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:rectrix"
+    },
+    {
+      "item": "league-of-crafters:steel_sigil"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:shield_of_the_rakkor",
+    "count": 1
+  }
+}

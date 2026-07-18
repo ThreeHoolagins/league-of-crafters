@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:crystalline_bracer",
       "text": "Gold: Total: 800g (Base: 100g, Sell: 560g)$(br)Stats: Health: 200$(br)Tags: Health, HealthRegen"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:crystalline_bracer"
     }
   ]
 }

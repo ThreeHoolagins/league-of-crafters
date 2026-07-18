@@ -6,7 +6,12 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:rejuvenation_bead",
-      "text": "Gold: Total: 300g (Base: 300g, Sell: 120g)$(br)Stats: No stats$(br)Tags: HealthRegen"
+      "text": "Gold: Total: 300g (Base: 300g, Sell: 120g)$(br)Stats: Health Regen: 100%$(br)Tags: HealthRegen"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:rejuvenation_bead",
+      "text": "Rejuvenation Bead is crafted from string and an emerald."
     }
   ]
 }

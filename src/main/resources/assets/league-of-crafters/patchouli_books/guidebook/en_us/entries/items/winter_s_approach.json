@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:winter_s_approach",
       "text": "Gold: Total: 2400g (Base: 300g, Sell: 1680g)$(br)Stats: Mana: 500, Health: 550$(br)Tags: Health, Mana, AbilityHaste$(br2)[Passive] Awe: Gain Health.$(br2)[Passive] Manaflow: (8s, max 4 charges) Landing Attacks and Abilities grant 3 max Mana (doubled vs. champions). Transforms into Fimbulwinter at 360 max Mana."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:winter_s_approach"
     }
   ]
 }

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:blasting_wand"
+    },
+    {
+      "item": "league-of-crafters:catalyst_of_aeons"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:rod_of_ages",
+    "count": 1
+  }
+}

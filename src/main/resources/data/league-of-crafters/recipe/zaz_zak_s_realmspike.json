@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:bounty_of_worlds"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:zaz_zak_s_realmspike",
+    "count": 1
+  }
+}

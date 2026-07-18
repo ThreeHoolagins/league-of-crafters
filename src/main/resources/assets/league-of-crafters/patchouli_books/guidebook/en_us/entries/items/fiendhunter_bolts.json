@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:fiendhunter_bolts",
       "text": "Gold: Total: 2650g (Base: 850g, Sell: 1855g)$(br)Stats: Critical Strike Chance: 25%, Attack Speed: 45%, Move Speed: 4%$(br)Tags: CriticalStrike, AttackSpeed, NonbootsMovement, AbilityHaste$(br2)[Passive] Night Vigil: Gain 30 Ultimate Ability Haste.$(br2)[Passive] Opening Barrage: After casting your Ultimate, your next 3 basic attacks gain 50% Attack Speed and Critically Strike for 80% of your normal Critical Strike damage for 8 seconds. If an attack would already Critically Strike, instead it deals 15% bonus true damage."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:fiendhunter_bolts"
     }
   ]
 }

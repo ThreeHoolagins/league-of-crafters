@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:ruby_crystal"
+    },
+    {
+      "item": "league-of-crafters:glowing_mote"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:kindlegem",
+    "count": 1
+  }
+}

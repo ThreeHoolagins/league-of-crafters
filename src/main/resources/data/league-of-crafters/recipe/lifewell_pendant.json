@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:ruby_crystal"
+    },
+    {
+      "item": "league-of-crafters:cloth_armor"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:lifewell_pendant",
+    "count": 1
+  }
+}

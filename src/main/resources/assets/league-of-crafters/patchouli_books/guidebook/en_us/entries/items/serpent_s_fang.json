@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:serpent_s_fang",
       "text": "Gold: Total: 2500g (Base: 625g, Sell: 1750g)$(br)Stats: Attack Damage: 55$(br)Tags: Damage, ArmorPenetration$(br2)[Passive] Shield Reaver: Damaging an enemy champion reduces Shields they gain by % for 3 seconds. If they were not already affected by$(br2)[Passive] Shield Reaver: , reduce Shields on them by %."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:serpent_s_fang"
     }
   ]
 }

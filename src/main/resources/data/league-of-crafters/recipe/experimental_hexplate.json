@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:tunneler"
+    },
+    {
+      "item": "league-of-crafters:dagger"
+    },
+    {
+      "item": "league-of-crafters:phage"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:experimental_hexplate",
+    "count": 1
+  }
+}

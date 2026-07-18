@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:kindlegem"
+    },
+    {
+      "item": "league-of-crafters:ruby_crystal"
+    },
+    {
+      "item": "league-of-crafters:forbidden_idol"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:mikael_s_blessing",
+    "count": 1
+  }
+}

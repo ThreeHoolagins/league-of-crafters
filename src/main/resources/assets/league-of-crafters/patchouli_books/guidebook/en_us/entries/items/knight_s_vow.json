@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:knight_s_vow",
       "text": "Gold: Total: 2900g (Base: 1000g, Sell: 2030g)$(br)Stats: Health: 300, Armor: 50$(br)Tags: Health, HealthRegen, Armor, Aura, Active, CooldownReduction, AbilityHaste$(br2)[Passive] Sacrifice: While near your Worthy ally, take 14% of the damage they receive and heal for 12% of the damage they deal to champions.$(br2)[Active] Pledge: (0s) Designate an ally as Worthy."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:knight_s_vow"
     }
   ]
 }

@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:maw_of_malmortius",
       "text": "Gold: Total: 3100g (Base: 750g, Sell: 2170g)$(br)Stats: Magic Resist: 40, Attack Damage: 60$(br)Tags: SpellBlock, Damage, LifeSteal, SpellVamp, AbilityHaste$(br2)[Passive] Lifeline: Taking magic damage that would reduce your Health below 30% grants a magic damage Shield for 3 seconds and 10% Omnivamp until end of combat."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:maw_of_malmortius"
     }
   ]
 }

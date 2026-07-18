@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:spectre_s_cowl"
+    },
+    {
+      "item": "league-of-crafters:negatron_cloak"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:kaenic_rookern",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:b_f_sword"
+    },
+    {
+      "item": "league-of-crafters:pickaxe"
+    },
+    {
+      "item": "league-of-crafters:cloak_of_agility"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:infinity_edge",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:hextech_alternator"
+    },
+    {
+      "item": "league-of-crafters:fiendish_codex"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:night_harvester",
+    "count": 1
+  }
+}

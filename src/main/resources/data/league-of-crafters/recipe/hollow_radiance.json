@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:bami_s_cinder"
+    },
+    {
+      "item": "league-of-crafters:spectre_s_cowl"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:hollow_radiance",
+    "count": 1
+  }
+}

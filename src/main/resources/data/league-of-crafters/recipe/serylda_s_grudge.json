@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:caulfield_s_warhammer"
+    },
+    {
+      "item": "league-of-crafters:last_whisper"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:serylda_s_grudge",
+    "count": 1
+  }
+}

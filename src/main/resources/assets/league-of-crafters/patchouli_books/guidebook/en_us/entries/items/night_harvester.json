@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:night_harvester",
       "text": "Gold: Total: 2765g (Sell: 1936g)$(br)Stats: Health: 300, Ability Power: 90$(br)Tags: Health, SpellDamage, CooldownReduction, NonbootsMovement, AbilityHaste$(br2)[Passive] Soulrend: Damaging a champion with Attacks or Abilities deals an additional magic damage and grants you 25% Move Speed for 1.5 seconds (30(0s) per champion). Mythic Passive: Grants all other Legendary items 5 Ability Haste. Damaging a new champion will extend the duration of the Move Speed bonus."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:night_harvester"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:blasting_wand"
+    },
+    {
+      "item": "league-of-crafters:giant_s_belt"
+    },
+    {
+      "item": "league-of-crafters:amplifying_tome"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:rylai_s_crystal_scepter",
+    "count": 1
+  }
+}

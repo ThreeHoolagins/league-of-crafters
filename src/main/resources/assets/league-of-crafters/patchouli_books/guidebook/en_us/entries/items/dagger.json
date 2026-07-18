@@ -7,6 +7,11 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:dagger",
       "text": "Gold: Total: 250g (Base: 250g, Sell: 175g)$(br)Stats: Attack Speed: 10%$(br)Tags: AttackSpeed"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:dagger",
+      "text": "Dagger is crafted from an iron ingot, a League Coin, leather, and a stick."
     }
   ]
 }

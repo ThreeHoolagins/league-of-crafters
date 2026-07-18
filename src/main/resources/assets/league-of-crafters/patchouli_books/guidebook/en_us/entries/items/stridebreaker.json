@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:stridebreaker",
       "text": "Gold: Total: 3300g (Base: 750g, Sell: 2310g)$(br)Stats: Health: 450, Attack Damage: 40, Attack Speed: 25%$(br)Tags: Health, Damage, AttackSpeed, Slow$(br2)[Passive] Cleave: Attacks deal physical damage to nearby enemies.$(br2)[Active] Breaking Shockwave: Deal physical damage and Slow nearby enemies by 35%. Gain 35% decaying Move Speed per champion hit for 3 seconds."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:stridebreaker"
     }
   ]
 }

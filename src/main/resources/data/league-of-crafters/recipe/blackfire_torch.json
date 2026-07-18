@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:lost_chapter"
+    },
+    {
+      "item": "league-of-crafters:fated_ashes"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:blackfire_torch",
+    "count": 1
+  }
+}

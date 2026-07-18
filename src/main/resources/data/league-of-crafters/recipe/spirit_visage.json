@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:spectre_s_cowl"
+    },
+    {
+      "item": "league-of-crafters:kindlegem"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:spirit_visage",
+    "count": 1
+  }
+}

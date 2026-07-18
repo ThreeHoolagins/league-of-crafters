@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:rylai_s_crystal_scepter",
       "text": "Gold: Total: 2600g (Base: 450g, Sell: 1820g)$(br)Stats: Health: 400, Ability Power: 65$(br)Tags: Health, SpellDamage, Slow$(br2)[Passive] Rimefrost: Damaging Abilities Slow enemies by 30% for 1 second."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:rylai_s_crystal_scepter"
     }
   ]
 }

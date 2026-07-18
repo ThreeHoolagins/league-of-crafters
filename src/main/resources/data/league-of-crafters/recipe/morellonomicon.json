@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:oblivion_orb"
+    },
+    {
+      "item": "league-of-crafters:blasting_wand"
+    },
+    {
+      "item": "league-of-crafters:kindlegem"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:morellonomicon",
+    "count": 1
+  }
+}

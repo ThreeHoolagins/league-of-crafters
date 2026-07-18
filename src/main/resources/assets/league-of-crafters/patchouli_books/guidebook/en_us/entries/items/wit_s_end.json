@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:wit_s_end",
       "text": "Gold: Total: 2800g (Base: 550g, Sell: 1960g)$(br)Stats: Magic Resist: 45, Attack Speed: 50%$(br)Tags: SpellBlock, AttackSpeed, OnHit, Tenacity$(br2)[Passive] Fray: Attacks deal bonus magic damage On-Hit."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:wit_s_end"
     }
   ]
 }

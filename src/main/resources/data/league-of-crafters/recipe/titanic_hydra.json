@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:tiamat"
+    },
+    {
+      "item": "league-of-crafters:tunneler"
+    },
+    {
+      "item": "league-of-crafters:giant_s_belt"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:titanic_hydra",
+    "count": 1
+  }
+}

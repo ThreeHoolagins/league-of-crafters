@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "PCP",
+    "PPP",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:purple_wool"
+    },
+    "C": {
+      "item": "league-of-crafters:league_coin"
+    }
+  },
+  "result": {
+    "id": "league-of-crafters:cloak_of_agility",
+    "count": 1
+  }
+}

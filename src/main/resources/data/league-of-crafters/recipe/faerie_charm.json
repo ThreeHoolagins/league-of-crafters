@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CG ",
+    "GLG",
+    " G "
+  ],
+  "key": {
+    "C": {
+      "item": "league-of-crafters:league_coin"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "L": {
+      "item": "minecraft:lapis_lazuli"
+    }
+  },
+  "result": {
+    "id": "league-of-crafters:faerie_charm",
+    "count": 1
+  }
+}

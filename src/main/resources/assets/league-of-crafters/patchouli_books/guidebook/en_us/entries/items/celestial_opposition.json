@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:celestial_opposition",
       "text": "Gold: Total: 400g (Base: 0g, Sell: 160g)$(br)Stats: Health: 200$(br)Tags: Health, HealthRegen, ManaRegen, Vision, GoldPer, Lane$(br2)[Passive] Blessing of the Mountain: Reduce incoming champion damage for 2 seconds after taking damage from a champion. When the effect ends, slow nearby enemies by 50% for 1.5 seconds.$(br2)[Active] Active: (4 charges) Places an Invisible Stealth Ward that grants vision."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:celestial_opposition"
     }
   ]
 }

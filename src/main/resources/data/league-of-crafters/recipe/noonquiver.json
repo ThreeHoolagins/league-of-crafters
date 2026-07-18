@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:long_sword"
+    },
+    {
+      "item": "league-of-crafters:cloak_of_agility"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:noonquiver",
+    "count": 1
+  }
+}

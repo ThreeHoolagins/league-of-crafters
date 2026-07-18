@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:synchronized_souls",
       "text": "Gold: Total: 900g (Sell: 630g)$(br)Stats: Move Speed: 45$(br)Tags: Boots$(br2)[Passive] Voidborn: Gain Empowered Recall.$(br2)[Passive] Synchrony: Gain 45 Move Speed when out of combat."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:synchronized_souls"
     }
   ]
 }

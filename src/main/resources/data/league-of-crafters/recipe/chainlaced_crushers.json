@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:mercury_s_treads"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:chainlaced_crushers",
+    "count": 1
+  }
+}

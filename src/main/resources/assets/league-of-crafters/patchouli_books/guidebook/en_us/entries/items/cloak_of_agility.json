@@ -7,6 +7,11 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:cloak_of_agility",
       "text": "Gold: Total: 600g (Base: 600g, Sell: 420g)$(br)Stats: Critical Strike Chance: 15%$(br)Tags: CriticalStrike"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:cloak_of_agility",
+      "text": "Cloak of Agility is a component item built from 8 Purple Wool and a League Coin."
     }
   ]
 }

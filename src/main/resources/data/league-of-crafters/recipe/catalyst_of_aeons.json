@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:ruby_crystal"
+    },
+    {
+      "item": "league-of-crafters:ruby_crystal"
+    },
+    {
+      "item": "league-of-crafters:sapphire_crystal"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:catalyst_of_aeons",
+    "count": 1
+  }
+}

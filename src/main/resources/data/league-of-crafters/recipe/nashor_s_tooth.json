@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:recurve_bow"
+    },
+    {
+      "item": "league-of-crafters:blasting_wand"
+    },
+    {
+      "item": "league-of-crafters:fiendish_codex"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:nashor_s_tooth",
+    "count": 1
+  }
+}

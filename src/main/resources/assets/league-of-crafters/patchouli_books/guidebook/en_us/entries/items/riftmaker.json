@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:riftmaker",
       "text": "Gold: Total: 3100g (Base: 950g, Sell: 2170g)$(br)Stats: Health: 350, Ability Power: 70$(br)Tags: Health, SpellDamage, CooldownReduction, SpellVamp$(br2)[Passive] Void Corruption: For each second in combat with enemy champions, deal 2% bonus damage, up to 8%. At maximum strength, gain Omnivamp.$(br2)[Passive] Void Infusion: Gain 2% of your bonus Health as Ability Power."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:riftmaker"
     }
   ]
 }

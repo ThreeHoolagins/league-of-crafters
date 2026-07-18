@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:tunneler"
+    },
+    {
+      "item": "league-of-crafters:winged_moonplate"
+    },
+    {
+      "item": "league-of-crafters:pickaxe"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:hullbreaker",
+    "count": 1
+  }
+}

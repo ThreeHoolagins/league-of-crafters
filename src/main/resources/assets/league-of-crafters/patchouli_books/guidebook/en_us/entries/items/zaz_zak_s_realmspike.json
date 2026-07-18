@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:zaz_zak_s_realmspike",
       "text": "Gold: Total: 400g (Base: 0g, Sell: 160g)$(br)Stats: Health: 200$(br)Tags: Health, HealthRegen, ManaRegen, Vision, GoldPer, Lane$(br2)[Passive] Void Explosion: Dealing Ability damage to a champion causes an explosion that deals magic damage.$(br2)[Active] Active: (4 charges) Places an Invisible Stealth Ward that grants vision."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:zaz_zak_s_realmspike"
     }
   ]
 }

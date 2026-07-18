@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:sunfire_aegis",
       "text": "Gold: Total: 2700g (Base: 600g, Sell: 1890g)$(br)Stats: Health: 350, Armor: 50$(br)Tags: Health, Armor, Aura, AbilityHaste$(br2)[Passive] Immolate: After taking or dealing damage, deal magic damage per second to nearby enemies for 3 seconds."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:sunfire_aegis"
     }
   ]
 }

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:haunting_guise"
+    },
+    {
+      "item": "league-of-crafters:fiendish_codex"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:bloodletter_s_curse",
+    "count": 1
+  }
+}

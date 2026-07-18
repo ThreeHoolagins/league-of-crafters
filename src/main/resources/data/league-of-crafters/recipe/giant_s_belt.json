@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:ruby_crystal"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:giant_s_belt",
+    "count": 1
+  }
+}

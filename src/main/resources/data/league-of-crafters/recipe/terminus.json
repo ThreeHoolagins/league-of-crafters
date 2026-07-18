@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:hearthbound_axe"
+    },
+    {
+      "item": "league-of-crafters:recurve_bow"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:terminus",
+    "count": 1
+  }
+}

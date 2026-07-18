@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:warden_s_mail",
       "text": "Gold: Total: 1000g (Base: 400g, Sell: 700g)$(br)Stats: Armor: 40$(br)Tags: Armor$(br2)[Passive] Rock Solid: Reduce incoming damage from Attacks."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:warden_s_mail"
     }
   ]
 }

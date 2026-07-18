@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:tunneler"
+    },
+    {
+      "item": "league-of-crafters:caulfield_s_warhammer"
+    },
+    {
+      "item": "league-of-crafters:ruby_crystal"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:sundered_sky",
+    "count": 1
+  }
+}

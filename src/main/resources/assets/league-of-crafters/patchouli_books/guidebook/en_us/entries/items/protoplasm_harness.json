@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:protoplasm_harness",
       "text": "Gold: Total: 2500g (Base: 800g, Sell: 1750g)$(br)Stats: Health: 600$(br)Tags: Health, NonbootsMovement, Tenacity, AbilityHaste$(br2)[Passive] Lifeline: (0s) Taking damage that would reduce your Health below 30% causes you to gain maximum Health for 5 seconds, then heal Health over the duration. While regenerating Health, you gain 15% increased Size, 10% Move Speed, and 25% Tenacity."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:protoplasm_harness"
     }
   ]
 }

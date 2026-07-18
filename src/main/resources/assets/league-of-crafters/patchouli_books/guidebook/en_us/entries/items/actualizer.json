@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:actualizer",
       "text": "Gold: Total: 2800g (Base: 750g, Sell: 1960g)$(br)Stats: Mana: 300, Ability Power: 90$(br)Tags: SpellDamage, Mana, AbilityHaste$(br2)[Active] Mana Made Real: (0s) For 8 seconds, your mana is Empowered. While Empowered, your spells cost 100% more Mana, you gain increased Ability damage, Shielding, and Healing, and your basic ability cooldowns progress 30% faster."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:actualizer"
     }
   ]
 }

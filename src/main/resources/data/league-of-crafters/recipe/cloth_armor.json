@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "WCW",
+    "WLW",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:white_wool"
+    },
+    "C": {
+      "item": "league-of-crafters:league_coin"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "id": "league-of-crafters:cloth_armor",
+    "count": 1
+  }
+}

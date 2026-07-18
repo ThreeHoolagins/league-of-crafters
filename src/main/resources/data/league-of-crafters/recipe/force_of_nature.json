@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:negatron_cloak"
+    },
+    {
+      "item": "league-of-crafters:ruby_crystal"
+    },
+    {
+      "item": "league-of-crafters:winged_moonplate"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:force_of_nature",
+    "count": 1
+  }
+}

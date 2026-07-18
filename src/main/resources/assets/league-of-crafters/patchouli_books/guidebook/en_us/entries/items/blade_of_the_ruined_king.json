@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:blade_of_the_ruined_king",
       "text": "Gold: Total: 3200g (Base: 725g, Sell: 2240g)$(br)Stats: Attack Damage: 40, Attack Speed: 25%, Life Steal: 10%$(br)Tags: Damage, AttackSpeed, LifeSteal, Slow, OnHit$(br2)[Passive] Mist's Edge: Attacks deal a percentage of enemy's current Health as bonus physical damage On-Hit.$(br2)[Passive] Clawing Shadows: Attacking a champion 3 times Slows them by 30% for 1 second."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:blade_of_the_ruined_king"
     }
   ]
 }

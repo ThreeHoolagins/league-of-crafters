@@ -1,0 +1,16 @@
+{
+  "name": "Deathfire Grasp",
+  "icon": "league-of-crafters:deathfire_grasp",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:deathfire_grasp",
+      "text": "Gold: Unknown$(br)"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:deathfire_grasp"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:giant_s_belt"
+    },
+    {
+      "item": "league-of-crafters:chain_vest"
+    },
+    {
+      "item": "league-of-crafters:negatron_cloak"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:jak_sho_the_protean",
+    "count": 1
+  }
+}

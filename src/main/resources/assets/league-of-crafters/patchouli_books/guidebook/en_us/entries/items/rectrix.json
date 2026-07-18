@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:rectrix",
       "text": "Gold: Total: 775g (Base: 425g, Sell: 543g)$(br)Stats: Attack Damage: 15, Move Speed: 4%$(br)Tags: Damage, NonbootsMovement"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:rectrix"
     }
   ]
 }

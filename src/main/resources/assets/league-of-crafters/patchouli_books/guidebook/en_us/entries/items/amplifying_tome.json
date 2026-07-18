@@ -7,6 +7,11 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:amplifying_tome",
       "text": "Gold: Total: 400g (Base: 400g, Sell: 280g)$(br)Stats: Ability Power: 20$(br)Tags: SpellDamage"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:amplifying_tome",
+      "text": "Amplifying Tome is crafted from a feather, a glowing ink sac, a book, and a League Coin."
     }
   ]
 }

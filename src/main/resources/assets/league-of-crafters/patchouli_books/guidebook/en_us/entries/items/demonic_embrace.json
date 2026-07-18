@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:demonic_embrace",
       "text": "Gold: Total: 3000g (Sell: 2100g)$(br)Stats: Health: 350, Ability Power: 75$(br)Tags: Health, SpellDamage$(br2)[Passive] Azakana's Gaze: Dealing Ability damage burns enemies for {{ Item_Melee_Ranged_Split }} max Health magic damage every second for 4 seconds.$(br2)[Passive] Dark Pact: Gain 2% of your bonus Health as Ability Power.$(br2)[Passive] Azakana's Gaze: deals a maximum of 40 damage to monsters."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:demonic_embrace"
     }
   ]
 }

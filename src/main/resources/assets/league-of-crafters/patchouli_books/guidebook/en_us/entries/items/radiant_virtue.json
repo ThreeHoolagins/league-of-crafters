@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:radiant_virtue",
       "text": "Gold: Total: 2600g (Sell: 1820g)$(br)Stats: Magic Resist: 30, Health: 350, Armor: 30$(br)Tags: Health, SpellBlock, Armor, Aura, CooldownReduction, AbilityHaste$(br2)[Passive] Guiding Light: Upon casting your Ultimate you Transcend, increasing your Max Health by 12.5% for 9s. While Transcended you and allies within 1200 range of you heal for 10% of your max Health over the duration (90(0s)). Mythic Passive: Grants all other Legendary items 75 Health."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:radiant_virtue"
     }
   ]
 }

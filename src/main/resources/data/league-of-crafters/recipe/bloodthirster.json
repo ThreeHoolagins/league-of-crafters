@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:b_f_sword"
+    },
+    {
+      "item": "league-of-crafters:pickaxe"
+    },
+    {
+      "item": "league-of-crafters:vampiric_scepter"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:bloodthirster",
+    "count": 1
+  }
+}

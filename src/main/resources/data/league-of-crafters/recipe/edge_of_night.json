@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:serrated_dirk"
+    },
+    {
+      "item": "league-of-crafters:tunneler"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:edge_of_night",
+    "count": 1
+  }
+}

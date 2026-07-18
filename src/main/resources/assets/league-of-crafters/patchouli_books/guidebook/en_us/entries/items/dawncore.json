@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:dawncore",
       "text": "Gold: Total: 2900g (Base: 850g, Sell: 2030g)$(br)Stats: Ability Power: 50$(br)Tags: SpellDamage, ManaRegen$(br2)[Passive] First Light: Gain 2% Heal and Shield Power and 10 Ability Power per 100% Base Mana Regen."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:dawncore"
     }
   ]
 }

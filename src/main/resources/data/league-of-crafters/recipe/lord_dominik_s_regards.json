@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:last_whisper"
+    },
+    {
+      "item": "league-of-crafters:noonquiver"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:lord_dominik_s_regards",
+    "count": 1
+  }
+}

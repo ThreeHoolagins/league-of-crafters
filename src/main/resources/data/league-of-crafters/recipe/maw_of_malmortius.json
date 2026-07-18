@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:hexdrinker"
+    },
+    {
+      "item": "league-of-crafters:caulfield_s_warhammer"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:maw_of_malmortius",
+    "count": 1
+  }
+}

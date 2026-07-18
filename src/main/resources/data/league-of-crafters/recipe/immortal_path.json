@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:gluttonous_greaves"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:immortal_path",
+    "count": 1
+  }
+}

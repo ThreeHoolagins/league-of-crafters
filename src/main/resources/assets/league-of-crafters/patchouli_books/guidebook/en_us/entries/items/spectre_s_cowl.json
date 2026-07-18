@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:spectre_s_cowl",
       "text": "Gold: Total: 1250g (Base: 150g, Sell: 875g)$(br)Stats: Magic Resist: 35, Health: 200$(br)Tags: Health, HealthRegen, SpellBlock"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:spectre_s_cowl"
     }
   ]
 }

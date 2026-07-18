@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:ironspike_whip",
       "text": "Gold: Total: 1100g (Sell: 770g)$(br)Stats: Attack Damage: 30$(br)Tags: Damage, Active$(br2)[Active] Crescent: Deal damage to nearby enemies."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:ironspike_whip"
     }
   ]
 }

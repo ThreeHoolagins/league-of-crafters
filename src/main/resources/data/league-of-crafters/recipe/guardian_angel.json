@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:steel_sigil"
+    },
+    {
+      "item": "league-of-crafters:b_f_sword"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:guardian_angel",
+    "count": 1
+  }
+}

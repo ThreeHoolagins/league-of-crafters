@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:ironspike_whip"
+    },
+    {
+      "item": "league-of-crafters:phage"
+    },
+    {
+      "item": "league-of-crafters:kindlegem"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:goredrinker",
+    "count": 1
+  }
+}

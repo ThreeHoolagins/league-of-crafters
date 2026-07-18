@@ -1,12 +1,15 @@
 {
-  "name": "Aether Wisp",
-  "icon": "league-of-crafters:aether_wisp",
+  "name": "item.league-of-crafters.aether_wisp",
   "category": "league-of-crafters:items",
+  "icon": "league-of-crafters:aether_wisp",
   "pages": [
     {
-      "type": "patchouli:spotlight",
-      "item": "league-of-crafters:aether_wisp",
-      "text": "Gold: Total: 900g (Base: 500g, Sell: 630g)$(br)Stats: Ability Power: 30, Move Speed: 4%$(br)Tags: NonbootsMovement, SpellDamage"
+      "type": "patchouli:text",
+      "text": "entry.league-of-crafters.item_aether_wisp.desc"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:aether_wisp"
     }
   ]
 }

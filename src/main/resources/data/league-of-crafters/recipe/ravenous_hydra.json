@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:tiamat"
+    },
+    {
+      "item": "league-of-crafters:vampiric_scepter"
+    },
+    {
+      "item": "league-of-crafters:caulfield_s_warhammer"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:ravenous_hydra",
+    "count": 1
+  }
+}

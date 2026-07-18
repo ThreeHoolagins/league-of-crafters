@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:catalyst_of_aeons"
+    },
+    {
+      "item": "league-of-crafters:caulfield_s_warhammer"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:innervating_locket",
+    "count": 1
+  }
+}

@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:prowler_s_claw",
       "text": "Gold: Total: 2850g (Sell: 1995g)$(br)Stats: Attack Damage: 55$(br)Tags: Damage, CooldownReduction, ArmorPenetration, AbilityHaste$(br2)[Passive] Ambush Predator: After entering a bush your next damaging Attack or Ability on enemy champions deals 10% of their current health over 4 seconds, revealing them and reducing their vision radius for the duration. (5(0s))."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:prowler_s_claw"
     }
   ]
 }

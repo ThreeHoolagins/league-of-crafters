@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:giant_s_belt"
+    },
+    {
+      "item": "league-of-crafters:crystalline_bracer"
+    },
+    {
+      "item": "league-of-crafters:giant_s_belt"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:heartsteel",
+    "count": 1
+  }
+}

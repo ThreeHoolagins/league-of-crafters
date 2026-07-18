@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:the_brutalizer"
+    },
+    {
+      "item": "league-of-crafters:serrated_dirk"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:bastionbreaker",
+    "count": 1
+  }
+}

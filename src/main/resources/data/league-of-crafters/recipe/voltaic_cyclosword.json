@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:the_brutalizer"
+    },
+    {
+      "item": "league-of-crafters:long_sword"
+    },
+    {
+      "item": "league-of-crafters:long_sword"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:voltaic_cyclosword",
+    "count": 1
+  }
+}

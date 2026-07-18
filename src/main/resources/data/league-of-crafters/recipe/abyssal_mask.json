@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:kindlegem"
+    },
+    {
+      "item": "league-of-crafters:negatron_cloak"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:abyssal_mask",
+    "count": 1
+  }
+}

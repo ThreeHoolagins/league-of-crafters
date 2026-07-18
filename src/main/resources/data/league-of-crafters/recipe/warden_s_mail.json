@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:cloth_armor"
+    },
+    {
+      "item": "league-of-crafters:cloth_armor"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:warden_s_mail",
+    "count": 1
+  }
+}

@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:staff_of_flowing_water",
       "text": "Gold: Total: 2600g (Base: 750g, Sell: 1820g)$(br)Stats: Ability Power: 45$(br)Tags: SpellDamage, ManaRegen, CooldownReduction, AbilityHaste$(br2)[Passive] Rapids: Healing or Shielding an ally grants you both 40 Ability Power and 15 Ability Haste for 6 seconds."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:staff_of_flowing_water"
     }
   ]
 }

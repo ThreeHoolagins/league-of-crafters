@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:sheen"
+    },
+    {
+      "item": "league-of-crafters:aether_wisp"
+    },
+    {
+      "item": "league-of-crafters:blasting_wand"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:lich_bane",
+    "count": 1
+  }
+}

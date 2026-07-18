@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:hextech_alternator"
+    },
+    {
+      "item": "league-of-crafters:fiendish_codex"
+    },
+    {
+      "item": "league-of-crafters:ruby_crystal"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:hextech_rocketbelt",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:fiendish_codex"
+    },
+    {
+      "item": "league-of-crafters:amplifying_tome"
+    },
+    {
+      "item": "league-of-crafters:forbidden_idol"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:staff_of_flowing_water",
+    "count": 1
+  }
+}

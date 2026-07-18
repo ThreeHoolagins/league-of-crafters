@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:tear_of_the_goddess"
+    },
+    {
+      "item": "league-of-crafters:giant_s_belt"
+    },
+    {
+      "item": "league-of-crafters:kindlegem"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:winter_s_approach",
+    "count": 1
+  }
+}

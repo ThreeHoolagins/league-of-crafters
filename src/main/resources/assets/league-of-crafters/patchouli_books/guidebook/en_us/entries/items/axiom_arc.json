@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:axiom_arc",
       "text": "Gold: Total: 2750g (Base: 363g, Sell: 1925g)$(br)Stats: Attack Damage: 55$(br)Tags: Damage, ArmorPenetration, AbilityHaste$(br2)[Passive] Flux: When a champion that you damaged within 3 seconds dies, refund some of your Ultimate Ability's total cooldown."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:axiom_arc"
     }
   ]
 }

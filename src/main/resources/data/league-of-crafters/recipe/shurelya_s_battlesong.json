@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:aether_wisp"
+    },
+    {
+      "item": "league-of-crafters:bandleglass_mirror"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:shurelya_s_battlesong",
+    "count": 1
+  }
+}

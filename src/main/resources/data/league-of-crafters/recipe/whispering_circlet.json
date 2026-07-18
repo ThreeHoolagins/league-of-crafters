@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:forbidden_idol"
+    },
+    {
+      "item": "league-of-crafters:ruby_crystal"
+    },
+    {
+      "item": "league-of-crafters:tear_of_the_goddess"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:whispering_circlet",
+    "count": 1
+  }
+}

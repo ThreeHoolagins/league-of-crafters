@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:anathema_s_chains",
       "text": "Gold: Total: 2500g (Sell: 1750g)$(br)Stats: Health: 650$(br)Tags: Health, Active, CooldownReduction, AbilityHaste$(br2)[Passive] Vendetta: You gain Vendetta stacks over time Each stack of Vendetta grants you 1% reduced damage from your Nemesis.$(br2)[Passive] Vengeance: At maximum stacks, your Nemesis has reduced Tenacity while near you. (0s)$(br2)[Active] Vow: Choose a Nemesis."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:anathema_s_chains"
     }
   ]
 }

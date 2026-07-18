@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:cloth_armor"
+    },
+    {
+      "item": "league-of-crafters:long_sword"
+    },
+    {
+      "item": "league-of-crafters:cloth_armor"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:steel_sigil",
+    "count": 1
+  }
+}

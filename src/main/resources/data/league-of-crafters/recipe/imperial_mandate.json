@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:amplifying_tome"
+    },
+    {
+      "item": "league-of-crafters:bandleglass_mirror"
+    },
+    {
+      "item": "league-of-crafters:amplifying_tome"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:imperial_mandate",
+    "count": 1
+  }
+}

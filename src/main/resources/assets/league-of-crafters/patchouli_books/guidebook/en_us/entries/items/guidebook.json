@@ -1,0 +1,16 @@
+{
+  "name": "Guidebook",
+  "icon": "league-of-crafters:guidebook",
+  "category": "league-of-crafters:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "league-of-crafters:guidebook",
+      "text": "Gold: Unknown$(br)"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:guidebook"
+    }
+  ]
+}

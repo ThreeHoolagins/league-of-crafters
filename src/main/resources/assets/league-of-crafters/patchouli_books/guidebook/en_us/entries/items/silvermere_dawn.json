@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:silvermere_dawn",
       "text": "Gold: Total: 3000g (Sell: 2100g)$(br)Stats: Magic Resist: 40, Health: 300, Attack Damage: 40$(br)Tags: Health, SpellBlock, Damage, Active, Tenacity$(br2)[Active] Quicksilver: Remove all crowd control debuffs and gain Tenacity and Slow Resistance."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:silvermere_dawn"
     }
   ]
 }

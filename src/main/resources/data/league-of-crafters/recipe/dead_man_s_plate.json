@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:winged_moonplate"
+    },
+    {
+      "item": "league-of-crafters:ruby_crystal"
+    },
+    {
+      "item": "league-of-crafters:chain_vest"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:dead_man_s_plate",
+    "count": 1
+  }
+}

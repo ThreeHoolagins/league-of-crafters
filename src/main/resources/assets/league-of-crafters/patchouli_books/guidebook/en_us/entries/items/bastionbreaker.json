@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:bastionbreaker",
       "text": "Gold: Total: 3200g (Base: 863g, Sell: 2240g)$(br)Stats: Attack Damage: 55$(br)Tags: Damage, ArmorPenetration, AbilityHaste$(br2)[Passive] Shaped Charge: (0s) Dealing Ability damage to a Champion or Epic Monster deals an additional true damage.$(br2)[Passive] Sabotage: Taking down a champion within 3 seconds of damaging them grants Sabotage for 90 seconds. While you have Sabotage, your next Attack against an Epic Monster or Turret deals an additional true damage over 3 seconds."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:bastionbreaker"
     }
   ]
 }

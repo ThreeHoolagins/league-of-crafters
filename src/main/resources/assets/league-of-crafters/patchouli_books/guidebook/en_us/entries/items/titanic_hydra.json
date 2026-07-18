@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:titanic_hydra",
       "text": "Gold: Total: 3300g (Base: 50g, Sell: 2310g)$(br)Stats: Health: 600, Attack Damage: 40$(br)Tags: Health, HealthRegen, Damage, OnHit$(br2)[Passive] Cleave: Attacks deal physical damage on-hit and to enemies behind the target.$(br2)[Active] Titanic Crescent: Empower your next$(br2)[Passive] Cleave: to deal bonus physical damage On-Hit and deal bonus physical damage to enemies behind the target."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:titanic_hydra"
     }
   ]
 }

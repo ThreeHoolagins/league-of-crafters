@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:stormrazor",
       "text": "Gold: Total: 3200g (Base: 700g, Sell: 2240g)$(br)Stats: Critical Strike Chance: 25%, Attack Damage: 50, Attack Speed: 20%$(br)Tags: Damage, CriticalStrike, AttackSpeed, NonbootsMovement$(br2)[Passive] Energized: Moving and Attacking generates an Energized Attack.$(br2)[Passive] Bolt: Your Energized Attack applies bonus magic damage and grants 45% Movement Speed for 1.5 seconds."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:stormrazor"
     }
   ]
 }

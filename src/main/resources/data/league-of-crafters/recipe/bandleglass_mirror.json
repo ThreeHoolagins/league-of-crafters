@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:faerie_charm"
+    },
+    {
+      "item": "league-of-crafters:amplifying_tome"
+    },
+    {
+      "item": "league-of-crafters:glowing_mote"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:bandleglass_mirror",
+    "count": 1
+  }
+}

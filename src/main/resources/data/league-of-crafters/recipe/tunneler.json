@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:long_sword"
+    },
+    {
+      "item": "league-of-crafters:ruby_crystal"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:tunneler",
+    "count": 1
+  }
+}

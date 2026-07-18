@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:chain_vest"
+    },
+    {
+      "item": "league-of-crafters:kindlegem"
+    },
+    {
+      "item": "league-of-crafters:ruby_crystal"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:unending_despair",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:oblivion_orb"
+    },
+    {
+      "item": "league-of-crafters:forbidden_idol"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:chemtech_putrifier",
+    "count": 1
+  }
+}

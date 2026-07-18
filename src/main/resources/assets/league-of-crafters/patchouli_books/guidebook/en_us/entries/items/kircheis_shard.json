@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:kircheis_shard",
       "text": "Gold: Total: 700g (Sell: 490g)$(br)Stats: Attack Damage: 15$(br)Tags: Damage, OnHit$(br2)[Passive] Jolt: Energized Attacks deal an additional 50 magic damage."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:kircheis_shard"
     }
   ]
 }

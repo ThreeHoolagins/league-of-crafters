@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:bramble_vest",
       "text": "Gold: Total: 800g (Base: 200g, Sell: 560g)$(br)Stats: Armor: 30$(br)Tags: Armor$(br2)[Passive] Thorns: When hit by an Attack, deal magic damage to the attacker and apply 40% Wounds for 3 seconds if they are a champion."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:bramble_vest"
     }
   ]
 }

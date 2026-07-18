@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:sorcerer_s_shoes"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:spellslinger_s_shoes",
+    "count": 1
+  }
+}

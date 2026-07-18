@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:soul_lantern"
+    },
+    {
+      "item": "league-of-crafters:league_coin"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:glowing_mote",
+    "count": 1
+  }
+}

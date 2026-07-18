@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:amplifying_tome"
+    },
+    {
+      "item": "league-of-crafters:cloth_armor"
+    },
+    {
+      "item": "league-of-crafters:amplifying_tome"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:shattered_armguard",
+    "count": 1
+  }
+}

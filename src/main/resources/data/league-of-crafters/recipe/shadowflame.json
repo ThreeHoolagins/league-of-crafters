@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:hextech_alternator"
+    },
+    {
+      "item": "league-of-crafters:needlessly_large_rod"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:shadowflame",
+    "count": 1
+  }
+}

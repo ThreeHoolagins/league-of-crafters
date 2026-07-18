@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:kindlegem"
+    },
+    {
+      "item": "league-of-crafters:lost_chapter"
+    },
+    {
+      "item": "league-of-crafters:amplifying_tome"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:everfrost",
+    "count": 1
+  }
+}

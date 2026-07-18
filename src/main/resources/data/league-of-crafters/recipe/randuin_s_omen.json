@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:warden_s_mail"
+    },
+    {
+      "item": "league-of-crafters:giant_s_belt"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:randuin_s_omen",
+    "count": 1
+  }
+}

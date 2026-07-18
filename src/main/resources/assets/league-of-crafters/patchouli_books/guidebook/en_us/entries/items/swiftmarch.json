@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:swiftmarch",
       "text": "Gold: Total: 1000g (Base: 0g, Sell: 700g)$(br)Stats: Move Speed: 65$(br)Tags: Boots$(br2)[Passive] Fleetfooted: Reduce the effectiveness of Slows by 40%.$(br2)[Passive] Noxian Fervor: Gain 5% of your Move Speed as Adaptive Force."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:swiftmarch"
     }
   ]
 }

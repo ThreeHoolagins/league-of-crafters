@@ -6,7 +6,12 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:long_sword",
-      "text": "Gold: Total: 350g (Base: 350g, Sell: 245g)$(br)Stats: Attack Damage: 10$(br)Tags: Damage, Lane"
+      "text": "Gold: Total: 350g (Base: 350g, Sell: 245g)$(br)Stats: Attack Damage: 10$(br)Tags: AttackDamage, Damage, Physical, Starter"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:long_sword",
+      "text": "Crafting: 1 Iron Sword + 1 League Coin"
     }
   ]
 }

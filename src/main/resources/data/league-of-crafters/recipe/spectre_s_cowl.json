@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:ruby_crystal"
+    },
+    {
+      "item": "league-of-crafters:null_magic_mantle"
+    },
+    {
+      "item": "league-of-crafters:rejuvenation_bead"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:spectre_s_cowl",
+    "count": 1
+  }
+}

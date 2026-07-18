@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:steel_sigil"
+    },
+    {
+      "item": "league-of-crafters:pickaxe"
+    },
+    {
+      "item": "league-of-crafters:caulfield_s_warhammer"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:death_s_dance",
+    "count": 1
+  }
+}

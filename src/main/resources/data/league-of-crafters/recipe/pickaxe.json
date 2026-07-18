@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_pickaxe"
+    },
+    {
+      "item": "league-of-crafters:league_coin"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:pickaxe",
+    "count": 1
+  }
+}

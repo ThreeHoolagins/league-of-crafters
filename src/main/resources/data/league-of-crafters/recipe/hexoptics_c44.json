@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:pickaxe"
+    },
+    {
+      "item": "league-of-crafters:noonquiver"
+    },
+    {
+      "item": "league-of-crafters:long_sword"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:hexoptics_c44",
+    "count": 1
+  }
+}

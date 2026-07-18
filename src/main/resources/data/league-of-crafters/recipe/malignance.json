@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:lost_chapter"
+    },
+    {
+      "item": "league-of-crafters:blasting_wand"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:malignance",
+    "count": 1
+  }
+}

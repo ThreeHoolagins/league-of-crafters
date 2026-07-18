@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:hexoptics_c44",
       "text": "Gold: Total: 2800g (Base: 275g, Sell: 1960g)$(br)Stats: Critical Strike Chance: 25%, Attack Damage: 55$(br)Tags: Damage, CriticalStrike$(br2)[Passive] Magnification: Deal up to 10% increased damage with Attacks, based on how far away the enemy is (max damage at 500 range).$(br2)[Passive] Arcane Aim: When a champion that you damaged within 3 seconds dies, gain 100 additional attack range for 8 seconds."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:hexoptics_c44"
     }
   ]
 }

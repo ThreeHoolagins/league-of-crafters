@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:cloak_of_agility"
+    },
+    {
+      "item": "league-of-crafters:aether_wisp"
+    },
+    {
+      "item": "league-of-crafters:fiendish_codex"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:rite_of_ruin",
+    "count": 1
+  }
+}

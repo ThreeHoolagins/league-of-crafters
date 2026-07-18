@@ -7,6 +7,11 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:blasting_wand",
       "text": "Gold: Total: 850g (Base: 850g, Sell: 595g)$(br)Stats: Ability Power: 45$(br)Tags: SpellDamage"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:blasting_wand",
+      "text": "Blasting Wand is crafted from gold ingots, sticks, and League Coins."
     }
   ]
 }

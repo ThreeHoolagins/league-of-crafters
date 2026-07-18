@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:serrated_dirk"
+    },
+    {
+      "item": "league-of-crafters:rectrix"
+    },
+    {
+      "item": "league-of-crafters:long_sword"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:youmuu_s_ghostblade",
+    "count": 1
+  }
+}

@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:force_of_nature",
       "text": "Gold: Total: 2800g (Base: 750g, Sell: 1960g)$(br)Stats: Magic Resist: 55, Health: 400, Move Speed: 4%$(br)Tags: Health, SpellBlock, NonbootsMovement$(br2)[Passive] Steadfast: Gain 70 Magic Resist and 6% bonus Move Speed after taking magic damage from Champions 8 times."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:force_of_nature"
     }
   ]
 }

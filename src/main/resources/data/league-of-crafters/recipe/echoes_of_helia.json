@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:kindlegem"
+    },
+    {
+      "item": "league-of-crafters:bandleglass_mirror"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:echoes_of_helia",
+    "count": 1
+  }
+}

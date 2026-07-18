@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:iceborn_gauntlet",
       "text": "Gold: Total: 2900g (Base: 800g, Sell: 2030g)$(br)Stats: Health: 300, Armor: 50$(br)Tags: Health, Armor, CooldownReduction, Slow, OnHit, AbilityHaste$(br2)[Passive] Spellblade: After using an Ability, your next Attack deals bonus physical damage On-Hit and creates a frost field for 2s that Slows."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:iceborn_gauntlet"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:blighting_jewel"
+    },
+    {
+      "item": "league-of-crafters:fiendish_codex"
+    },
+    {
+      "item": "league-of-crafters:fiendish_codex"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:cryptbloom",
+    "count": 1
+  }
+}

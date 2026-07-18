@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CAC",
+    "ASA",
+    " S "
+  ],
+  "key": {
+    "C": {
+      "item": "league-of-crafters:league_coin"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "league-of-crafters:needlessly_large_rod",
+    "count": 1
+  }
+}

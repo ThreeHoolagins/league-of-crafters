@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:banshee_s_veil",
       "text": "Gold: Total: 3000g (Base: 200g, Sell: 2100g)$(br)Stats: Magic Resist: 40, Ability Power: 105$(br)Tags: SpellBlock, SpellDamage$(br2)[Passive] Annul: Grants a Spell Shield that blocks the next enemy Ability."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:banshee_s_veil"
     }
   ]
 }

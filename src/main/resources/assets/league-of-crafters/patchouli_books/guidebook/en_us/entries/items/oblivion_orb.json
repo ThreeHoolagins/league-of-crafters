@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:oblivion_orb",
       "text": "Gold: Total: 800g (Base: 400g, Sell: 560g)$(br)Stats: Ability Power: 25$(br)Tags: SpellDamage$(br2)[Passive] Grievous Wounds: Dealing magic damage to champions applies 40% Wounds for 3 seconds."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:oblivion_orb"
     }
   ]
 }

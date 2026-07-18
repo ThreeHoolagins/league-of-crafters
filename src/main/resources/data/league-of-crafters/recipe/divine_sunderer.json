@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:caulfield_s_warhammer"
+    },
+    {
+      "item": "league-of-crafters:sheen"
+    },
+    {
+      "item": "league-of-crafters:kindlegem"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:divine_sunderer",
+    "count": 1
+  }
+}

@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:recurve_bow",
       "text": "Gold: Total: 700g (Base: 450g, Sell: 490g)$(br)Stats: Attack Speed: 15%$(br)Tags: AttackSpeed, OnHit$(br2)[Passive] Sting: Attacks deal 15 bonus physical damage On-Hit."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:recurve_bow"
     }
   ]
 }

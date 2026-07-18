@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:faerie_charm"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:forbidden_idol",
+    "count": 1
+  }
+}

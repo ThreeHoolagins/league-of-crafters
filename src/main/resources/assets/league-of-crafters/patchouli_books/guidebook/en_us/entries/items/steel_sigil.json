@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:steel_sigil",
       "text": "Gold: Total: 1100g (Base: 150g, Sell: 770g)$(br)Stats: Armor: 30, Attack Damage: 15$(br)Tags: Armor, Damage"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:steel_sigil"
     }
   ]
 }

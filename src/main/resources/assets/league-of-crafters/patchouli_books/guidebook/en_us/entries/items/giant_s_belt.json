@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:giant_s_belt",
       "text": "Gold: Total: 900g (Base: 500g, Sell: 630g)$(br)Stats: Health: 350$(br)Tags: Health"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:giant_s_belt"
     }
   ]
 }

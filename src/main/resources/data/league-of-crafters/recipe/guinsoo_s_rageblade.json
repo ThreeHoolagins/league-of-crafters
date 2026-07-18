@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:amplifying_tome"
+    },
+    {
+      "item": "league-of-crafters:recurve_bow"
+    },
+    {
+      "item": "league-of-crafters:pickaxe"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:guinsoo_s_rageblade",
+    "count": 1
+  }
+}

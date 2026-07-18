@@ -40,6 +40,8 @@ public class LeagueItem extends TrinketItem {
         CONVERTERS.put("Life Steal", (value, slotId, target) -> {});
         CONVERTERS.put("Magic Resist", (value, slotId, target) -> {});
         CONVERTERS.put("Mana", (value, slotId, target) -> {});
+        CONVERTERS.put("Mana Regeneration", (value, slotId, target) -> {});
+        CONVERTERS.put("Ability Haste", (value, slotId, target) -> {});
     }
 
     private final Map<String, Float> stats;

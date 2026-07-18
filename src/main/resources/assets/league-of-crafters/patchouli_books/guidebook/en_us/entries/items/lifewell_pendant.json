@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:lifewell_pendant",
       "text": "Gold: Total: 1050g (Sell: 735g)$(br)Stats: Health: 150, Armor: 25$(br)Tags: Health, Armor, AbilityHaste$(br2)[Passive] Effect: 'Fashionable and functional.'"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:lifewell_pendant"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:vampiric_scepter"
+    },
+    {
+      "item": "league-of-crafters:recurve_bow"
+    },
+    {
+      "item": "league-of-crafters:pickaxe"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:blade_of_the_ruined_king",
+    "count": 1
+  }
+}

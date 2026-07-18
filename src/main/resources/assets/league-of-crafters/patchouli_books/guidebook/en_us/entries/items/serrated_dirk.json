@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:serrated_dirk",
       "text": "Gold: Total: 1000g (Base: 300g, Sell: 700g)$(br)Stats: Attack Damage: 20$(br)Tags: Damage, ArmorPenetration"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:serrated_dirk"
     }
   ]
 }

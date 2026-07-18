@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:null_magic_mantle"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:negatron_cloak",
+    "count": 1
+  }
+}

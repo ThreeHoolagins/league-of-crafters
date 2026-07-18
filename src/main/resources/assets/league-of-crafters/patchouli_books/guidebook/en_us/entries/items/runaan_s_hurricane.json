@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:runaan_s_hurricane",
       "text": "Gold: Total: 2650g (Base: 850g, Sell: 1855g)$(br)Stats: Critical Strike Chance: 25%, Attack Speed: 40%, Move Speed: 4%$(br)Tags: CriticalStrike, AttackSpeed, OnHit, NonbootsMovement$(br2)[Passive] Wind's Fury: Attacks fire bolts at 2 additional enemies near the target. Each bolt deals physical damage and applies On-Hit effects."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:runaan_s_hurricane"
     }
   ]
 }

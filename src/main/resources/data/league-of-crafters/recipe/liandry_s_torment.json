@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:haunting_guise"
+    },
+    {
+      "item": "league-of-crafters:fated_ashes"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:liandry_s_torment",
+    "count": 1
+  }
+}

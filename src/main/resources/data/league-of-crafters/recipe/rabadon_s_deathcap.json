@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:needlessly_large_rod"
+    },
+    {
+      "item": "league-of-crafters:needlessly_large_rod"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:rabadon_s_deathcap",
+    "count": 1
+  }
+}

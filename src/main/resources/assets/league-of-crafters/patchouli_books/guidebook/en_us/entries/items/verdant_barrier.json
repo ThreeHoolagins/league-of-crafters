@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:verdant_barrier",
       "text": "Gold: Total: 1600g (Base: 400g, Sell: 1120g)$(br)Stats: Magic Resist: 25, Ability Power: 40$(br)Tags: SpellBlock, SpellDamage$(br2)[Passive] Annul: Grants a Spell Shield that blocks the next enemy Ability."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:verdant_barrier"
     }
   ]
 }

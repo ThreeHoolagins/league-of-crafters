@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:cloak_of_agility"
+    },
+    {
+      "item": "league-of-crafters:dagger"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:zeal",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:tunneler"
+    },
+    {
+      "item": "league-of-crafters:tunneler"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:overlord_s_bloodmail",
+    "count": 1
+  }
+}

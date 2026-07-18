@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:chemtech_putrifier",
       "text": "Gold: Total: 1900g (Sell: 1330g)$(br)Stats: Ability Power: 35$(br)Tags: SpellDamage, ManaRegen, AbilityHaste$(br2)[Passive] Puffcap Toxin: Dealing damage applies 40% Grievous Wounds to champions for 3 seconds. Grievous Wounds reduces the effectiveness of Healing and Regeneration effects."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:chemtech_putrifier"
     }
   ]
 }

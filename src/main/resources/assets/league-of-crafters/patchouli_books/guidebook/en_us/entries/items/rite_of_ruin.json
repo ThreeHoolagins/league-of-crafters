@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:rite_of_ruin",
       "text": "Gold: Total: 3000g (Base: 650g, Sell: 2100g)$(br)Stats: Ability Power: 55, Critical Strike Chance: 25%, Move Speed: 4%$(br)Tags: CriticalStrike, SpellDamage, CooldownReduction, NonbootsMovement$(br2)[Passive] Wrath and Ruin: On spell cast, gain 2.5% Critical Strike Chance for 6 seconds, stacking up to 20%.$(br2)[Passive] Salvage the Wreckage: Your spells have a chance equal to your Critical Strike Chance to grant you or your targeted ally a shield for for 3s."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:rite_of_ruin"
     }
   ]
 }

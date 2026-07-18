@@ -7,6 +7,10 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:fated_ashes",
       "text": "Gold: Total: 900g (Base: 500g, Sell: 630g)$(br)Stats: Ability Power: 30$(br)Tags: SpellDamage$(br2)[Passive] Inflame: Damaging Abilities deal 15 bonus magic damage over 3 seconds. Deals an additional 45 magic damage to monsters."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:fated_ashes"
     }
   ]
 }

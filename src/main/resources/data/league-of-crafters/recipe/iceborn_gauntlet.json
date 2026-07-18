@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:sheen"
+    },
+    {
+      "item": "league-of-crafters:ruby_crystal"
+    },
+    {
+      "item": "league-of-crafters:chain_vest"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:iceborn_gauntlet",
+    "count": 1
+  }
+}

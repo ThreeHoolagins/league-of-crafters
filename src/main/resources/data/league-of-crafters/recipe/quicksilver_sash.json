@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:null_magic_mantle"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:quicksilver_sash",
+    "count": 1
+  }
+}

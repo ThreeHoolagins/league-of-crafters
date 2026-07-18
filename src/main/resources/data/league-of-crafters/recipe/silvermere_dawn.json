@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:quicksilver_sash"
+    },
+    {
+      "item": "league-of-crafters:pickaxe"
+    },
+    {
+      "item": "league-of-crafters:ruby_crystal"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:silvermere_dawn",
+    "count": 1
+  }
+}

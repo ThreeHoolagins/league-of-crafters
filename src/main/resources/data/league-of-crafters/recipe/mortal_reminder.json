@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:executioner_s_calling"
+    },
+    {
+      "item": "league-of-crafters:last_whisper"
+    },
+    {
+      "item": "league-of-crafters:cloak_of_agility"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:mortal_reminder",
+    "count": 1
+  }
+}

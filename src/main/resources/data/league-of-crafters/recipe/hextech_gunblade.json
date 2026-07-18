@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:vampiric_scepter"
+    },
+    {
+      "item": "league-of-crafters:hextech_alternator"
+    },
+    {
+      "item": "league-of-crafters:amplifying_tome"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:hextech_gunblade",
+    "count": 1
+  }
+}

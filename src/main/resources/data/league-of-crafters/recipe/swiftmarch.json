@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:boots_of_swiftness"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:swiftmarch",
+    "count": 1
+  }
+}

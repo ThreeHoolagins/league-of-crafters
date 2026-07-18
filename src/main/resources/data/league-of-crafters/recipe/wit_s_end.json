@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:recurve_bow"
+    },
+    {
+      "item": "league-of-crafters:negatron_cloak"
+    },
+    {
+      "item": "league-of-crafters:recurve_bow"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:wit_s_end",
+    "count": 1
+  }
+}

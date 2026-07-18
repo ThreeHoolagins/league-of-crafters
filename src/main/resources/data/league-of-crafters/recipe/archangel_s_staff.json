@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:tear_of_the_goddess"
+    },
+    {
+      "item": "league-of-crafters:lost_chapter"
+    },
+    {
+      "item": "league-of-crafters:fiendish_codex"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:archangel_s_staff",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:feather"
+    },
+    {
+      "item": "minecraft:glow_ink_sac"
+    },
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "item": "league-of-crafters:league_coin"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:amplifying_tome",
+    "count": 1
+  }
+}

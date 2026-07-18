@@ -7,6 +7,11 @@
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:cloth_armor",
       "text": "Gold: Total: 300g (Base: 300g, Sell: 210g)$(br)Stats: Armor: 15$(br)Tags: Armor"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:cloth_armor",
+      "text": "Cloth Armor is crafted from white wool, leather, and a League Coin."
     }
   ]
 }

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:ruby_crystal"
+    },
+    {
+      "item": "league-of-crafters:rejuvenation_bead"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:crystalline_bracer",
+    "count": 1
+  }
+}

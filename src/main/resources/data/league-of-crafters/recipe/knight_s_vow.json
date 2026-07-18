@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:kindlegem"
+    },
+    {
+      "item": "league-of-crafters:chain_vest"
+    },
+    {
+      "item": "league-of-crafters:rejuvenation_bead"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:knight_s_vow",
+    "count": 1
+  }
+}

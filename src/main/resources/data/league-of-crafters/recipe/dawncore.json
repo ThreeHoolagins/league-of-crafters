@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:blasting_wand"
+    },
+    {
+      "item": "league-of-crafters:forbidden_idol"
+    },
+    {
+      "item": "league-of-crafters:forbidden_idol"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:dawncore",
+    "count": 1
+  }
+}

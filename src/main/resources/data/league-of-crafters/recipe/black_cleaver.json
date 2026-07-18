@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:phage"
+    },
+    {
+      "item": "league-of-crafters:kindlegem"
+    },
+    {
+      "item": "league-of-crafters:pickaxe"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:black_cleaver",
+    "count": 1
+  }
+}

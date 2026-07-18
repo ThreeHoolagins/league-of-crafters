@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "league-of-crafters:pickaxe"
+    },
+    {
+      "item": "league-of-crafters:noonquiver"
+    }
+  ],
+  "result": {
+    "id": "league-of-crafters:immortal_shieldbow",
+    "count": 1
+  }
+}

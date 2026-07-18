@@ -6,7 +6,12 @@
     {
       "type": "patchouli:spotlight",
       "item": "league-of-crafters:faerie_charm",
-      "text": "Gold: Total: 200g (Base: 200g, Sell: 140g)$(br)Stats: No stats$(br)Tags: ManaRegen"
+      "text": "Gold: Total: 200g (Base: 200g, Sell: 140g)$(br)Stats: Mana Regeneration: 50%$(br)Tags: ManaRegen"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "league-of-crafters:faerie_charm",
+      "text": "Faerie Charm is crafted from gold ingots, a League Coin, and lapis lazuli."
     }
   ]
 }
